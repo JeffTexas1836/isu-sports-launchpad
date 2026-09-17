@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-09-17T14:25:16-05:00",
-  "generated_at_display": "Thu Sep 17, 2026 · 2:25 PM CT",
+  "generated_at": "2026-09-17T18:19:43-05:00",
+  "generated_at_display": "Thu Sep 17, 2026 · 6:19 PM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -11,31 +11,31 @@
   ],
   "daily_clone": {
     "found": true,
-    "title": "Where does Iowa State's roster spending stack up against the Big 12? DAILY CLONE",
-    "url": "https://www.youtube.com/watch?v=KwBt0inYgQk",
+    "title": "Big 12 Basketball Schedule Reaction | DAILY CLONE",
+    "url": "https://www.youtube.com/watch?v=ZHVgQ-4cu_o",
     "channel": "Cyclone Fanatic",
-    "published": "2026-09-16T15:24:09-05:00",
-    "published_display": "23 hours ago",
-    "views": 2080
+    "published": "2026-09-17T15:30:41-05:00",
+    "published_display": "2 hours ago",
+    "views": 196
   },
   "daily_clones": [
+    {
+      "found": true,
+      "title": "Big 12 Basketball Schedule Reaction | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=ZHVgQ-4cu_o",
+      "channel": "Cyclone Fanatic",
+      "published": "2026-09-17T15:30:41-05:00",
+      "published_display": "2 hours ago",
+      "views": 196
+    },
     {
       "found": true,
       "title": "Where does Iowa State's roster spending stack up against the Big 12? DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=KwBt0inYgQk",
       "channel": "Cyclone Fanatic",
       "published": "2026-09-16T15:24:09-05:00",
-      "published_display": "23 hours ago",
-      "views": 2080
-    },
-    {
-      "found": true,
-      "title": "What's Tamin Lipsey's status? Emphasis of hitting big plays | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=UUGH7AAaCPs",
-      "channel": "Cyclone Fanatic",
-      "published": "2026-09-15T16:58:29-05:00",
       "published_display": "1 day ago",
-      "views": 4151
+      "views": 2320
     }
   ],
   "sources_note": {
@@ -68,17 +68,30 @@
   },
   "youtube": [
     {
+      "id": "yt-ZHVgQ-4cu_o",
+      "title": "Big 12 Basketball Schedule Reaction | DAILY CLONE",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=ZHVgQ-4cu_o",
+      "published": "2026-09-17T15:30:41-05:00",
+      "published_display": "2 hours ago",
+      "views": 196,
+      "sport": "basketball",
+      "is_daily_clone": true,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
+    {
       "id": "yt-KwBt0inYgQk",
       "title": "Where does Iowa State's roster spending stack up against the Big 12? DAILY CLONE",
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=KwBt0inYgQk",
       "published": "2026-09-16T15:24:09-05:00",
-      "published_display": "23 hours ago",
-      "views": 2080,
+      "published_display": "1 day ago",
+      "views": 2320,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 99
     },
     {
       "id": "yt-UUGH7AAaCPs",
@@ -86,12 +99,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=UUGH7AAaCPs",
       "published": "2026-09-15T16:58:29-05:00",
-      "published_display": "1 day ago",
-      "views": 4151,
+      "published_display": "2 days ago",
+      "views": 4176,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 98
     },
     {
       "id": "yt-4kyw5sivdMY",
@@ -99,12 +112,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=4kyw5sivdMY",
       "published": "2026-09-17T13:09:41-05:00",
-      "published_display": "1 hour ago",
-      "views": 126,
+      "published_display": "5 hours ago",
+      "views": 363,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "yt-7_pzuj6oANQ",
@@ -112,12 +125,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=7_pzuj6oANQ",
       "published": "2026-09-17T09:42:56-05:00",
-      "published_display": "4 hours ago",
-      "views": 911,
+      "published_display": "8 hours ago",
+      "views": 1065,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "yt-b23ujKw0jkw",
@@ -125,12 +138,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=b23ujKw0jkw",
       "published": "2026-09-17T11:43:50-05:00",
-      "published_display": "2 hours ago",
-      "views": 156,
+      "published_display": "6 hours ago",
+      "views": 249,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
+      "rank_score": 95
     },
     {
       "id": "yt-v1xGdMAOS48",
@@ -138,21 +151,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=v1xGdMAOS48",
       "published": "2026-09-17T07:50:50-05:00",
-      "published_display": "6 hours ago",
-      "views": 680,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-2m-ro0oEt1I",
-      "title": "Who Will Be Iowa State's Playmaker? | Williams & Blum",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=2m-ro0oEt1I",
-      "published": "2026-09-16T10:56:35-05:00",
-      "published_display": "1 day ago",
-      "views": 6207,
+      "published_display": "10 hours ago",
+      "views": 1588,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -164,12 +164,25 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=VWxSJpmsvMU",
       "published": "2026-09-16T21:31:23-05:00",
-      "published_display": "16 hours ago",
-      "views": 6654,
+      "published_display": "20 hours ago",
+      "views": 8108,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
       "rank_score": 93
+    },
+    {
+      "id": "yt-3X5F1cRlboA",
+      "title": "Cy-Hawk Fans Agree: The Other Team Played Dirty",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=3X5F1cRlboA",
+      "published": "2026-09-16T17:07:26-05:00",
+      "published_display": "1 day ago",
+      "views": 8647,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 92
     },
     {
       "id": "yt-_1PYCsjKsko",
@@ -178,11 +191,11 @@
       "url": "https://www.youtube.com/watch?v=_1PYCsjKsko",
       "published": "2026-09-16T12:08:40-05:00",
       "published_display": "1 day ago",
-      "views": 1138,
+      "views": 1191,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 92
+      "rank_score": 91
     },
     {
       "id": "yt-r4H9YPEp6g4",
@@ -190,21 +203,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=r4H9YPEp6g4",
       "published": "2026-09-15T16:00:49-05:00",
-      "published_display": "1 day ago",
-      "views": 695,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "iowa_everywhere",
-      "rank_score": 91
-    },
-    {
-      "id": "yt-DX56aFl0H1s",
-      "title": "Can Iowa State Compete in the Big 12? Jeff Woody Breaks Down the Cyclones + Big 12 | CW Pod",
-      "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=DX56aFl0H1s",
-      "published": "2026-09-15T04:00:29-05:00",
       "published_display": "2 days ago",
-      "views": 5894,
+      "views": 696,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -216,25 +216,12 @@
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=GyW2OjM2BEE",
       "published": "2026-09-17T07:25:29-05:00",
-      "published_display": "6 hours ago",
-      "views": 72,
+      "published_display": "10 hours ago",
+      "views": 255,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
       "rank_score": 89
-    },
-    {
-      "id": "yt-QWQnhcVFG0M",
-      "title": "BIG 12 SQUAD - Week Two OVERREACTIONS | Iowa State DID WHAT!?",
-      "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=QWQnhcVFG0M",
-      "published": "2026-09-16T16:00:06-05:00",
-      "published_display": "22 hours ago",
-      "views": 509,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "other",
-      "rank_score": 88
     },
     {
       "id": "yt-8dS2dMrxK8c",
@@ -243,10 +230,23 @@
       "url": "https://www.youtube.com/watch?v=8dS2dMrxK8c",
       "published": "2026-04-16T10:57:26-05:00",
       "published_display": "Apr 16, 2026",
-      "views": 4458,
+      "views": 4459,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
+      "rank_score": 88
+    },
+    {
+      "id": "yt-QWQnhcVFG0M",
+      "title": "BIG 12 SQUAD - Week Two OVERREACTIONS | Iowa State DID WHAT!?",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=QWQnhcVFG0M",
+      "published": "2026-09-16T16:00:06-05:00",
+      "published_display": "1 day ago",
+      "views": 580,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
       "rank_score": 87
     },
     {
@@ -256,7 +256,7 @@
       "url": "https://www.youtube.com/watch?v=ARcQYfTWh5s",
       "published": "2026-09-15T09:03:33-05:00",
       "published_display": "2 days ago",
-      "views": 264,
+      "views": 275,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -384,6 +384,23 @@
       "rank_score": 94
     },
     {
+      "id": "ie-cy-hawk-fans-agree-the-other-team-played",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Cy-Hawk Fans Agree: The Other Team Played Dirty (YouTube clip)",
+      "url": "https://www.youtube.com/watch?v=3X5F1cRlboA",
+      "published": "2026-09-16T17:07:26-05:00",
+      "published_display": "Sep 16, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
+    },
+    {
       "id": "ie-where-can-jaylen-raynor-take-iowa-state",
       "type": "news",
       "author": "Iowa Everywhere",
@@ -398,7 +415,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "ie-fall-shows-at-the-casey-s-center-kenny-c",
@@ -408,23 +425,6 @@
       "text": "Fall Shows at the Casey's Center, Kenny Chesney playing Jack Trice Stadium | All Access (YouTube)",
       "url": "https://www.youtube.com/watch?v=r4H9YPEp6g4",
       "published": "2026-09-15T16:00:49-05:00",
-      "published_display": "Sep 15, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
-      "rank_score": 92
-    },
-    {
-      "id": "ie-can-iowa-state-compete-in-the-big-12-jef",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "Can Iowa State Compete in the Big 12? Jeff Woody Breaks Down the Cyclones + Big 12 | CW Pod (YouTube)",
-      "url": "https://www.youtube.com/watch?v=DX56aFl0H1s",
-      "published": "2026-09-15T04:00:29-05:00",
       "published_display": "Sep 15, 2026",
       "likes": null,
       "retweets": null,
@@ -460,10 +460,10 @@
       "url": "https://x.com/realapp/status/2098256013858165182",
       "published": "2026-09-10T22:43:12-05:00",
       "published_display": "Sep 10, 2026",
-      "likes": 5876,
+      "likes": 5877,
       "retweets": 744,
       "replies": 57,
-      "views": 120492,
+      "views": 120584,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 89
@@ -477,10 +477,10 @@
       "url": "https://x.com/YahooSports/status/2099592706225832265",
       "published": "2026-09-14T15:14:44-05:00",
       "published_display": "Sep 14, 2026",
-      "likes": 2781,
+      "likes": 2780,
       "retweets": 160,
       "replies": 21,
-      "views": 63320,
+      "views": 63345,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
       "rank_score": 88
@@ -497,7 +497,7 @@
       "likes": 1252,
       "retweets": 226,
       "replies": 9,
-      "views": 895647,
+      "views": 895683,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 87
