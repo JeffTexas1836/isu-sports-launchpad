@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Iowa State Sports Launchpad</title>
+<meta name="description" content="Curated Iowa State Cyclones launchpad prioritizing Cyclone Fanatic (latest two Daily Clones), Iowa Everywhere, and recent football/basketball content." />
+<style>
+  :root {
+    --cardinal: #C8102E;
+    --gold: #F1BE48;
+    --gold-dim: #c9a03a;
+    --bg: #0d0d0f;
+    --bg2: #16161a;
+    --card: #1c1c22;
+    --card-hover: #24242c;
+    --text: #f5f5f7;
+    --muted: #a0a0ab;
+    --border: #2e2e38;
+    --radius: 14px;
+    --shadow: 0 8px 24px rgba(0,0,0,.35);
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    font-family: "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif;
+    background:
+      radial-gradient(1200px 600px at 10% -10%, rgba(200,16,46,.28), transparent 55%),
+      radial-gradient(900px 500px at 100% 0%, rgba(241,190,72,.12), transparent 50%),
+      var(--bg);
+    color: var(--text);
+    line-height: 1.45;
+    min-height: 100vh;
+  }
+  a { color: var(--gold); }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
+  header.hero {
+    display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-end;
+    justify-content: space-between;
+    padding: 1.5rem 1.25rem;
+    background: linear-gradient(135deg, rgba(200,16,46,.92), rgba(90,8,20,.95));
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    border: 1px solid rgba(241,190,72,.25);
+    margin-bottom: 1.25rem;
+  }
+  header.hero h1 {
+    margin: 0; font-size: clamp(1.45rem, 3vw, 1.9rem); letter-spacing: .02em;
+  }
+  header.hero .sub { color: rgba(255,255,255,.85); margin: .35rem 0 0; max-width: 42rem; font-size: .95rem; }
+  .pill {
+    background: rgba(0,0,0,.28); border: 1px solid rgba(241,190,72,.45);
+    color: var(--gold); padding: .45rem .75rem; border-radius: 999px; font-size: .85rem;
+    white-space: nowrap;
+  }
+  nav.jump {
+    display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 1.25rem;
+  }
+  nav.jump a {
+    text-decoration: none; color: var(--text); background: var(--bg2);
+    border: 1px solid var(--border); padding: .4rem .75rem; border-radius: 999px; font-size: .85rem;
+  }
+  nav.jump a:hover { border-color: var(--gold); color: var(--gold); }
+  .section-head {
+    display: flex; align-items: baseline; justify-content: space-between; gap: .75rem;
+    margin: 1.5rem 0 .75rem;
+  }
+  .section-head h2 { margin: 0; font-size: 1.15rem; }
+  .section-head .count { color: var(--muted); font-size: .85rem; }
+  .grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+  .daily-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;
+  }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 1rem 1rem .9rem; display: flex; flex-direction: column; gap: .55rem;
+    transition: background .15s ease, border-color .15s ease, transform .15s ease;
+  }
+  .card:hover { background: var(--card-hover); border-color: rgba(241,190,72,.35); transform: translateY(-1px); }
+  .card.featured, .daily-hero {
+    border-color: rgba(241,190,72,.55);
+    box-shadow: 0 0 0 1px rgba(241,190,72,.12), var(--shadow);
+  }
+  .daily-hero { max-width: none; }
+  .card-top { display: flex; justify-content: space-between; gap: .5rem; align-items: center; }
+  .badge {
+    font-size: .72rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase;
+    padding: .22rem .5rem; border-radius: 6px; background: #2a2a33; color: #ddd;
+  }
+  .badge.yt { background: rgba(200,16,46,.22); color: #ff8a9a; border: 1px solid rgba(200,16,46,.45); }
+  .badge.yt.daily { background: rgba(241,190,72,.2); color: var(--gold); border: 1px solid rgba(241,190,72,.55); }
+  .badge.news { background: rgba(80,140,255,.15); color: #9bbbff; border: 1px solid rgba(80,140,255,.35); }
+  .badge.x { background: rgba(255,255,255,.08); color: #eee; border: 1px solid rgba(255,255,255,.2); }
+  .meta { color: var(--muted); font-size: .8rem; }
+  .card-title { margin: 0; font-size: 1.02rem; line-height: 1.35; }
+  .source { margin: 0; color: var(--muted); font-size: .82rem; }
+  .btn {
+    margin-top: auto; align-self: flex-start; text-decoration: none;
+    background: var(--cardinal); color: #fff; font-weight: 650;
+    padding: .45rem .8rem; border-radius: 8px; font-size: .88rem;
+    border: 1px solid rgba(255,255,255,.08);
+  }
+  .btn:hover { filter: brightness(1.08); }
+  .intro { color: var(--muted); }
+  footer {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--border);
+    color: var(--muted); font-size: .8rem;
+  }
+  footer code { color: #ccc; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <div>
+        <h1>Iowa State Sports Launchpad</h1>
+        <p class="sub">
+      Ranked for Cyclone fans: <strong style="color:var(--gold)">Cyclone Fanatic</strong> (latest <strong>two</strong> Daily Clones always featured),
+      then <strong style="color:var(--gold)">Iowa Everywhere</strong>, then other football/basketball.
+        </p>
+      </div>
+      <div class="pill">Updated Thu Sep 17, 2026 · 11:46 AM CT</div>
+    </header>
+
+    <nav class="jump">
+      <a href="#daily-clone">Daily Clone (2)</a>
+      <a href="#youtube">YouTube (15)</a>
+      <a href="#social">News / Social (15)</a>
+    </nav>
+
+    <section id="daily-clone" class="featured-section">
+      <div class="section-head">
+        <h2>★ Daily Clone</h2>
+        <span class="count">Latest 2 · Cyclone Fanatic</span>
+      </div>
+      <div class="daily-grid">
+      <article class="card featured daily-hero">
+        <div class="card-top">
+          <span class="badge yt daily">Newest Daily Clone</span>
+          <span class="meta">20 hours ago</span>
+        </div>
+        <h3 class="card-title">Where does Iowa State&#x27;s roster spending stack up against the Big 12? DAILY CLONE</h3>
+        <p class="source">Cyclone Fanatic · 2K views · always featured</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=KwBt0inYgQk" target="_blank" rel="noopener noreferrer">Watch Daily Clone</a>
+      </article>
+      <article class="card featured daily-hero">
+        <div class="card-top">
+          <span class="badge yt daily">Previous Daily Clone</span>
+          <span class="meta">1 day ago</span>
+        </div>
+        <h3 class="card-title">What&#x27;s Tamin Lipsey&#x27;s status? Emphasis of hitting big plays | DAILY CLONE</h3>
+        <p class="source">Cyclone Fanatic · 4.1K views · always featured</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=UUGH7AAaCPs" target="_blank" rel="noopener noreferrer">Watch Daily Clone</a>
+      </article>
+      </div>
+    </section>
+
+    <section id="youtube">
+      <div class="section-head">
+        <h2>▶ YouTube</h2>
+        <span class="count">15 videos</span>
+      </div>
+      <div class="grid">
+        
+      <article class="card featured">
+        <div class="card-top">
+          <span class="badge yt daily">Daily Clone</span>
+          <span class="meta">20 hours ago</span>
+        </div>
+        <h3 class="card-title">Where does Iowa State&#x27;s roster spending stack up against the Big 12? DAILY CLONE</h3>
+        <p class="source">Cyclone Fanatic · 2K views · CF</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=KwBt0inYgQk" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card featured">
+        <div class="card-top">
+          <span class="badge yt daily">Daily Clone</span>
+          <span class="meta">1 day ago</span>
+        </div>
+        <h3 class="card-title">What&#x27;s Tamin Lipsey&#x27;s status? Emphasis of hitting big plays | DAILY CLONE</h3>
+        <p class="source">Cyclone Fanatic · 4.1K views · CF</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=UUGH7AAaCPs" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">2 hours ago</span>
+        </div>
+        <h3 class="card-title">CyHawk Sorrows | BG Preview | Tamin Back to Iowa State?? | THE NIGHT CAP</h3>
+        <p class="source">Cyclone Fanatic · 755 views · CF</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=7_pzuj6oANQ" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">2 min ago</span>
+        </div>
+        <h3 class="card-title">What concert do you want to see at Jack Trice Stadium?</h3>
+        <p class="source">Cyclone Fanatic · 0 views · CF</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=b23ujKw0jkw" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">3 hours ago</span>
+        </div>
+        <h3 class="card-title">Changing Iowa State’s Expectations? Jimmy Rogers, Tamin Lipsey &amp; More | The Beat Reporters</h3>
+        <p class="source">Cyclone Fanatic · 287 views · CF</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=v1xGdMAOS48" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">1 day ago</span>
+        </div>
+        <h3 class="card-title">Who Will Be Iowa State&#x27;s Playmaker? | Williams &amp; Blum</h3>
+        <p class="source">Cyclone Fanatic · 5.9K views · CF</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=2m-ro0oEt1I" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">23 hours ago</span>
+        </div>
+        <h3 class="card-title">InCYde Zone Crew is Impressed with Iowa State&#x27;s OL</h3>
+        <p class="source">Cyclone Fanatic · 1.6K views · CF</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=iIuRFrcVJIc" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">14 hours ago</span>
+        </div>
+        <h3 class="card-title">Previewing Iowa State vs. Bowling Green and Iowa vs. UNI, Top Games of Week 3 | Two Guys</h3>
+        <p class="source">Iowa Everywhere · 5.5K views · IE</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=VWxSJpmsvMU" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">23 hours ago</span>
+        </div>
+        <h3 class="card-title">Where Can Jaylen Raynor Take Iowa State&#x27;s Offense? #cyclones</h3>
+        <p class="source">Iowa Everywhere · 1.1K views · IE</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=_1PYCsjKsko" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">1 day ago</span>
+        </div>
+        <h3 class="card-title">Fall Shows at the Casey&#x27;s Center, Kenny Chesney playing Jack Trice Stadium | All Access</h3>
+        <p class="source">Iowa Everywhere · 691 views · IE</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=r4H9YPEp6g4" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">2 days ago</span>
+        </div>
+        <h3 class="card-title">Can Iowa State Compete in the Big 12? Jeff Woody Breaks Down the Cyclones + Big 12 | CW Pod</h3>
+        <p class="source">Iowa Everywhere · 5.8K views · IE</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=DX56aFl0H1s" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">4 hours ago</span>
+        </div>
+        <h3 class="card-title">CHANGE: Iowa State&#x27;s Season Projection SHIFTS After Cyclones Hot Start, Will They Compete In Big 12?</h3>
+        <p class="source">Locked On Cyclones · 59 views · Other</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=GyW2OjM2BEE" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">19 hours ago</span>
+        </div>
+        <h3 class="card-title">BIG 12 SQUAD - Week Two OVERREACTIONS | Iowa State DID WHAT!?</h3>
+        <p class="source">Locked On Cyclones · 489 views · Other</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=QWQnhcVFG0M" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">2 days ago</span>
+        </div>
+        <h3 class="card-title">Iowa State Football Highlights vs. Southeast Missouri (2026)</h3>
+        <p class="source">Cyclones.tv · 255 views · Official</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=ARcQYfTWh5s" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge yt">YouTube</span>
+          <span class="meta">Apr 16, 2026</span>
+        </div>
+        <h3 class="card-title">Iowa State Athletics Press Conference</h3>
+        <p class="source">Cyclones.tv · 4.5K views · Official</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=8dS2dMrxK8c" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </article>
+      </div>
+    </section>
+
+    <section id="social">
+      <div class="section-head">
+        <h2>📰 News / Social</h2>
+        <span class="count">15 items</span>
+      </div>
+      <div class="grid">
+        
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 17, 2026</span>
+        </div>
+        <h3 class="card-title">Iowa State women’s basketball releases Big 12 schedule</h3>
+        <p class="source">Cyclone Fanatic · CF headline</p>
+        <a class="btn" href="https://cyclonefanatic.com/2026/09/iowa-state-womens-basketball-releases-big-12-schedule/" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 16, 2026</span>
+        </div>
+        <h3 class="card-title">PETERSON: Rand-O thoughts on Iowa State, Eddie George, Troy Davis — and Paul McCartney</h3>
+        <p class="source">Cyclone Fanatic · CF headline</p>
+        <a class="btn" href="https://cyclonefanatic.com/2026/09/peterson-rand-o-thoughts-on-iowa-state-eddie-george-troy-davis-and-paul-mccartney/" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 16, 2026</span>
+        </div>
+        <h3 class="card-title">ISU DE Caden Crawford’s path to Cyclone Country was paved on the opposing sideline</h3>
+        <p class="source">Cyclone Fanatic · CF headline</p>
+        <a class="btn" href="https://cyclonefanatic.com/2026/09/isu-de-caden-crawfords-path-to-cyclone-country-was-paved-on-the-opposing-sideline/" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 15, 2026</span>
+        </div>
+        <h3 class="card-title">WATCH Rogers, Roehl and players ahead of Bowling Green game</h3>
+        <p class="source">Cyclone Fanatic · CF headline</p>
+        <a class="btn" href="https://cyclonefanatic.com/2026/09/watch-rogers-roehl-and-players-ahead-of-bowling-green-game/" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 15, 2026</span>
+        </div>
+        <h3 class="card-title">Heavily favored ISU warily eyes winless Bowling Green in Saturday’s nonconference finale</h3>
+        <p class="source">Cyclone Fanatic · CF headline</p>
+        <a class="btn" href="https://cyclonefanatic.com/2026/09/heavily-favored-isu-warily-eyes-winless-bowling-green-in-saturdays-nonconference-finale/" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 14, 2026</span>
+        </div>
+        <h3 class="card-title">Five Bowling Green players to know on Saturday against Iowa State</h3>
+        <p class="source">Cyclone Fanatic · CF headline</p>
+        <a class="btn" href="https://cyclonefanatic.com/2026/09/five-bowling-green-players-to-know-on-saturday-against-iowa-state/" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 16, 2026</span>
+        </div>
+        <h3 class="card-title">Previewing Iowa State vs. Bowling Green and Iowa vs. UNI, Top Games of Week 3 | Two Guys (YouTube)</h3>
+        <p class="source">Iowa Everywhere · Iowa Everywhere</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=VWxSJpmsvMU" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 16, 2026</span>
+        </div>
+        <h3 class="card-title">Where Can Jaylen Raynor Take Iowa State&#x27;s Offense? #cyclones (YouTube clip)</h3>
+        <p class="source">Iowa Everywhere · Iowa Everywhere</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=_1PYCsjKsko" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 15, 2026</span>
+        </div>
+        <h3 class="card-title">Fall Shows at the Casey&#x27;s Center, Kenny Chesney playing Jack Trice Stadium | All Access (YouTube)</h3>
+        <p class="source">Iowa Everywhere · Iowa Everywhere</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=r4H9YPEp6g4" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 15, 2026</span>
+        </div>
+        <h3 class="card-title">Can Iowa State Compete in the Big 12? Jeff Woody Breaks Down the Cyclones + Big 12 | CW Pod (YouTube)</h3>
+        <p class="source">Iowa Everywhere · Iowa Everywhere</p>
+        <a class="btn" href="https://www.youtube.com/watch?v=DX56aFl0H1s" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 16, 2026</span>
+        </div>
+        <h3 class="card-title">Cyclones in the NFL: Week 1 Recap — 13 Cyclones took the field; Purdy, Montgomery, and more.</h3>
+        <p class="source">Iowa State Athletics · Official news</p>
+        <a class="btn" href="https://cyclones.com/news/2026/9/16/football-cyclones-in-the-nfl-2week-1-recap" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge x">X / Social</span>
+          <span class="meta">Sep 10, 2026</span>
+        </div>
+        <h3 class="card-title">Brock Purdy has the highest completion % by a QB in their first 50 career games in NFL history.</h3>
+        <p class="source">Real App · Cyclones in the NFL — Brock Purdy · 5876 likes, 120.5K views</p>
+        <a class="btn" href="https://x.com/realapp/status/2098256013858165182" target="_blank" rel="noopener noreferrer">Open on X</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge x">X / Social</span>
+          <span class="meta">Sep 14, 2026</span>
+        </div>
+        <h3 class="card-title">Vikings rookie DL Domonique Orange was feeling himself after stopping Jordan Love&#x27;s QB sneak attempt in the fourth quarter 🍊</h3>
+        <p class="source">NFL / Cyclones alum · Cyclones in the NFL · 2781 likes, 63.3K views</p>
+        <a class="btn" href="https://x.com/YahooSports/status/2099592706225832265" target="_blank" rel="noopener noreferrer">Open on X</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge news">News</span>
+          <span class="meta">Sep 15, 2026</span>
+        </div>
+        <h3 class="card-title">PRIMER: Iowa State vs. Bowling Green — Saturday, Sept. 19, 11 a.m. CT on ESPNU at Jack Trice Stadium.</h3>
+        <p class="source">Iowa State Athletics · Gameday primer</p>
+        <a class="btn" href="https://cyclones.com/news/2026/9/15/football-primer-iowa-state-vs-bowling-green" target="_blank" rel="noopener noreferrer">Read story</a>
+      </article>
+      <article class="card">
+        <div class="card-top">
+          <span class="badge x">X / Social</span>
+          <span class="meta">Sep 5, 2026</span>
+        </div>
+        <h3 class="card-title">BENI 😲🤯
+
+@beni_ngoyi 
+
+📺 ESPN+ // #SCTop10</h3>
+        <p class="source">Iowa State Football · Official — SEMO highlight · 1252 likes, 895.6K views</p>
+        <a class="btn" href="https://x.com/CycloneFB/status/2096309361005969853" target="_blank" rel="noopener noreferrer">Open on X</a>
+      </article>
+      </div>
+    </section>
+
+    <footer>
+      Public feeds only (YouTube RSS, Cyclone Fanatic WordPress, Iowa Everywhere pages, cyclones.com, fxtwitter).
+      Direct X timelines blocked. Generated <code>2026-09-17T11:46:47-05:00</code> · America/Chicago.
+    </footer>
+  </div>
+<!-- isu-ios-deep-links -->
+<script>
+(function () {
+  var ua = navigator.userAgent || "";
+  var isiOS = /iPhone|iPad|iPod/i.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  if (!isiOS) return;
+
+  function youtubeId(url) {
+    try {
+      var u = new URL(url, location.href);
+      if (u.hostname === "youtu.be" || /\.youtu\.be$/i.test(u.hostname)) {
+        return u.pathname.replace(/^\//, "").split("/")[0] || null;
+      }
+      if (u.hostname === "youtube.com" || /\.youtube\.com$/i.test(u.hostname)) {
+        if (u.searchParams.get("v")) return u.searchParams.get("v");
+        var m = u.pathname.match(/\/(?:embed|shorts|live)\/([^/?#]+)/);
+        return m ? m[1] : null;
+      }
+    } catch (e) {}
+    return null;
+  }
+
+  function xStatusId(url) {
+    try {
+      var u = new URL(url, location.href);
+      if (!/(^|\.)(x|twitter)\.com$/i.test(u.hostname)) return null;
+      var m = u.pathname.match(/\/status(?:es)?\/(\d+)/);
+      return m ? m[1] : null;
+    } catch (e) {}
+    return null;
+  }
+
+  // Launch app without navigating Safari away from the launchpad.
+  function tryOpenApp(appUrl) {
+    var iframe = document.createElement("iframe");
+    iframe.setAttribute("style", "display:none;width:0;height:0;border:0;");
+    iframe.src = appUrl;
+    document.body.appendChild(iframe);
+    setTimeout(function () {
+      try { document.body.removeChild(iframe); } catch (e) {}
+    }, 1500);
+  }
+
+  function ensureHint() {
+    var el = document.getElementById("isu-app-open-hint");
+    if (el) return el;
+    el = document.createElement("div");
+    el.id = "isu-app-open-hint";
+    el.setAttribute("style", [
+      "display:none",
+      "position:fixed",
+      "left:12px",
+      "right:12px",
+      "bottom:12px",
+      "z-index:9999",
+      "padding:12px 14px",
+      "border-radius:12px",
+      "background:#1c1c22",
+      "border:1px solid #F1BE48",
+      "color:#f5f5f7",
+      "font:600 14px/1.35 -apple-system,system-ui,sans-serif",
+      "box-shadow:0 8px 24px rgba(0,0,0,.4)"
+    ].join(";"));
+    el.innerHTML = '<div style="margin-bottom:8px">Trying the app…</div><a id="isu-app-open-web" href="#" style="color:#F1BE48">Open in browser instead</a> · <a href="#" id="isu-app-open-dismiss" style="color:#a0a0ab">Dismiss</a>';
+    document.body.appendChild(el);
+    document.getElementById("isu-app-open-dismiss").addEventListener("click", function (ev) {
+      ev.preventDefault();
+      el.style.display = "none";
+    });
+    return el;
+  }
+
+  document.addEventListener("click", function (e) {
+    var a = e.target && e.target.closest ? e.target.closest("a[href]") : null;
+    if (!a) return;
+    var href = a.href;
+    var yid = youtubeId(href);
+    var xid = xStatusId(href);
+    if (!yid && !xid) return;
+
+    e.preventDefault();
+    e.stopPropagation();
+
+    var appUrl = yid
+      ? ("youtube://watch?v=" + encodeURIComponent(yid))
+      : ("twitter://status?id=" + encodeURIComponent(xid));
+
+    tryOpenApp(appUrl);
+
+    var hint = ensureHint();
+    var web = document.getElementById("isu-app-open-web");
+    web.href = href;
+    web.onclick = function () { hint.style.display = "none"; };
+    hint.style.display = "block";
+    clearTimeout(window.__isuHintTimer);
+    window.__isuHintTimer = setTimeout(function () {
+      if (document.hidden) hint.style.display = "none";
+    }, 2500);
+  }, true);
+})();
+</script>
+
+</body>
+</html>

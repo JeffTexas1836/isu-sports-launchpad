@@ -1,0 +1,100 @@
+<script>
+(function () {
+  var ua = navigator.userAgent || "";
+  var isiOS = /iPhone|iPad|iPod/i.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  if (!isiOS) return;
+
+  function youtubeId(url) {
+    try {
+      var u = new URL(url, location.href);
+      if (u.hostname === "youtu.be" || /\.youtu\.be$/i.test(u.hostname)) {
+        return u.pathname.replace(/^\//, "").split("/")[0] || null;
+      }
+      if (u.hostname === "youtube.com" || /\.youtube\.com$/i.test(u.hostname)) {
+        if (u.searchParams.get("v")) return u.searchParams.get("v");
+        var m = u.pathname.match(/\/(?:embed|shorts|live)\/([^/?#]+)/);
+        return m ? m[1] : null;
+      }
+    } catch (e) {}
+    return null;
+  }
+
+  function xStatusId(url) {
+    try {
+      var u = new URL(url, location.href);
+      if (!/(^|\.)(x|twitter)\.com$/i.test(u.hostname)) return null;
+      var m = u.pathname.match(/\/status(?:es)?\/(\d+)/);
+      return m ? m[1] : null;
+    } catch (e) {}
+    return null;
+  }
+
+  // Launch app without navigating Safari away from the launchpad.
+  function tryOpenApp(appUrl) {
+    var iframe = document.createElement("iframe");
+    iframe.setAttribute("style", "display:none;width:0;height:0;border:0;");
+    iframe.src = appUrl;
+    document.body.appendChild(iframe);
+    setTimeout(function () {
+      try { document.body.removeChild(iframe); } catch (e) {}
+    }, 1500);
+  }
+
+  function ensureHint() {
+    var el = document.getElementById("isu-app-open-hint");
+    if (el) return el;
+    el = document.createElement("div");
+    el.id = "isu-app-open-hint";
+    el.setAttribute("style", [
+      "display:none",
+      "position:fixed",
+      "left:12px",
+      "right:12px",
+      "bottom:12px",
+      "z-index:9999",
+      "padding:12px 14px",
+      "border-radius:12px",
+      "background:#1c1c22",
+      "border:1px solid #F1BE48",
+      "color:#f5f5f7",
+      "font:600 14px/1.35 -apple-system,system-ui,sans-serif",
+      "box-shadow:0 8px 24px rgba(0,0,0,.4)"
+    ].join(";"));
+    el.innerHTML = '<div style="margin-bottom:8px">Trying the app…</div><a id="isu-app-open-web" href="#" style="color:#F1BE48">Open in browser instead</a> · <a href="#" id="isu-app-open-dismiss" style="color:#a0a0ab">Dismiss</a>';
+    document.body.appendChild(el);
+    document.getElementById("isu-app-open-dismiss").addEventListener("click", function (ev) {
+      ev.preventDefault();
+      el.style.display = "none";
+    });
+    return el;
+  }
+
+  document.addEventListener("click", function (e) {
+    var a = e.target && e.target.closest ? e.target.closest("a[href]") : null;
+    if (!a) return;
+    var href = a.href;
+    var yid = youtubeId(href);
+    var xid = xStatusId(href);
+    if (!yid && !xid) return;
+
+    e.preventDefault();
+    e.stopPropagation();
+
+    var appUrl = yid
+      ? ("youtube://watch?v=" + encodeURIComponent(yid))
+      : ("twitter://status?id=" + encodeURIComponent(xid));
+
+    tryOpenApp(appUrl);
+
+    var hint = ensureHint();
+    var web = document.getElementById("isu-app-open-web");
+    web.href = href;
+    web.onclick = function () { hint.style.display = "none"; };
+    hint.style.display = "block";
+    clearTimeout(window.__isuHintTimer);
+    window.__isuHintTimer = setTimeout(function () {
+      if (document.hidden) hint.style.display = "none";
+    }, 2500);
+  }, true);
+})();
+</script>
