@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-09-20T14:15:45-05:00",
-  "generated_at_display": "Sun Sep 20, 2026 · 2:15 PM CT",
+  "generated_at": "2026-09-20T18:14:33-05:00",
+  "generated_at_display": "Sun Sep 20, 2026 · 6:14 PM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -15,8 +15,8 @@
     "url": "https://www.youtube.com/watch?v=ZHVgQ-4cu_o",
     "channel": "Cyclone Fanatic",
     "published": "2026-09-17T15:30:41-05:00",
-    "published_display": "2 days ago",
-    "views": 2189
+    "published_display": "3 days ago",
+    "views": 2200
   },
   "daily_clones": [
     {
@@ -25,8 +25,8 @@
       "url": "https://www.youtube.com/watch?v=ZHVgQ-4cu_o",
       "channel": "Cyclone Fanatic",
       "published": "2026-09-17T15:30:41-05:00",
-      "published_display": "2 days ago",
-      "views": 2189
+      "published_display": "3 days ago",
+      "views": 2200
     },
     {
       "found": true,
@@ -34,7 +34,7 @@
       "url": "https://www.youtube.com/watch?v=KwBt0inYgQk",
       "channel": "Cyclone Fanatic",
       "published": "2026-09-16T15:24:09-05:00",
-      "published_display": "3 days ago",
+      "published_display": "4 days ago",
       "views": 2627
     }
   ],
@@ -75,8 +75,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=ZHVgQ-4cu_o",
       "published": "2026-09-17T15:30:41-05:00",
-      "published_display": "2 days ago",
-      "views": 2189,
+      "published_display": "3 days ago",
+      "views": 2200,
       "sport": "basketball",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -88,7 +88,7 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=KwBt0inYgQk",
       "published": "2026-09-16T15:24:09-05:00",
-      "published_display": "3 days ago",
+      "published_display": "4 days ago",
       "views": 2627,
       "sport": "football",
       "is_daily_clone": true,
@@ -96,17 +96,30 @@
       "rank_score": 99
     },
     {
+      "id": "yt-oshUxc_eP7A",
+      "title": "Arnold Barnes III Finding His Groove",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=oshUxc_eP7A",
+      "published": "2026-09-20T14:11:50-05:00",
+      "published_display": "4 hours ago",
+      "views": 381,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 98
+    },
+    {
       "id": "yt-w6OCP_8KVAE",
       "title": "Jimmy Rogers evaluates Jaylen Raynor's day",
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=w6OCP_8KVAE",
       "published": "2026-09-20T00:02:49-05:00",
-      "published_display": "14 hours ago",
-      "views": 809,
+      "published_display": "18 hours ago",
+      "views": 989,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "yt-J-rxQstLgas",
@@ -114,12 +127,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=J-rxQstLgas",
       "published": "2026-09-19T15:51:57-05:00",
-      "published_display": "22 hours ago",
-      "views": 5032,
+      "published_display": "1 day ago",
+      "views": 5469,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "yt-9s-rvla0tuw",
@@ -127,12 +140,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=9s-rvla0tuw",
       "published": "2026-09-19T14:44:02-05:00",
-      "published_display": "23 hours ago",
-      "views": 5758,
+      "published_display": "1 day ago",
+      "views": 6084,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
+      "rank_score": 95
     },
     {
       "id": "yt-lCh_DoYIn-A",
@@ -140,25 +153,25 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=lCh_DoYIn-A",
       "published": "2026-09-19T17:34:59-05:00",
-      "published_display": "20 hours ago",
-      "views": 3052,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-pLCMmO-mAcU",
-      "title": "Iowa State Dismantles Bowling Green 55-7 | Post Postgame Show",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=pLCMmO-mAcU",
-      "published": "2026-09-19T16:13:30-05:00",
-      "published_display": "22 hours ago",
-      "views": 2237,
+      "published_display": "1 day ago",
+      "views": 3374,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
+    },
+    {
+      "id": "yt-XLn02QYdr0k",
+      "title": "Hawkeyes and Cyclones dominate in Week 3 as conference play arrives | Two Guys",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=XLn02QYdr0k",
+      "published": "2026-09-20T14:41:31-05:00",
+      "published_display": "3 hours ago",
+      "views": 0,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "yt-nIGyIqj--RQ",
@@ -166,12 +179,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=nIGyIqj--RQ",
       "published": "2026-09-19T15:22:13-05:00",
-      "published_display": "22 hours ago",
-      "views": 6220,
+      "published_display": "1 day ago",
+      "views": 6627,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "yt-uarW3SoJBus",
@@ -179,21 +192,8 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=uarW3SoJBus",
       "published": "2026-09-19T15:20:53-05:00",
-      "published_display": "22 hours ago",
-      "views": 594,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
-      "rank_score": 92
-    },
-    {
-      "id": "yt-2CuhiaSHkTg",
-      "title": "Soccer Highlights vs. Colorado (2026)",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=2CuhiaSHkTg",
-      "published": "2026-09-18T07:20:36-05:00",
-      "published_display": "2 days ago",
-      "views": 76,
+      "published_display": "1 day ago",
+      "views": 656,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=ARcQYfTWh5s",
       "published": "2026-09-15T09:03:33-05:00",
       "published_display": "5 days ago",
-      "views": 362,
+      "views": 374,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -232,11 +232,24 @@
       "url": "https://www.youtube.com/watch?v=-zxPSqvFVa8",
       "published": "2026-09-11T08:51:23-05:00",
       "published_display": "Sep 11, 2026",
-      "views": 272,
+      "views": 273,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
       "rank_score": 88
+    },
+    {
+      "id": "yt-2CuhiaSHkTg",
+      "title": "Soccer Highlights vs. Colorado (2026)",
+      "channel": "Cyclones.tv",
+      "url": "https://www.youtube.com/watch?v=2CuhiaSHkTg",
+      "published": "2026-09-18T07:20:36-05:00",
+      "published_display": "2 days ago",
+      "views": 77,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "official",
+      "rank_score": 87
     },
     {
       "id": "yt-cc93Kof8buU",
@@ -246,19 +259,6 @@
       "published": "2026-09-10T10:04:44-05:00",
       "published_display": "Sep 10, 2026",
       "views": 229,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
-      "rank_score": 87
-    },
-    {
-      "id": "yt-salPprPAxEM",
-      "title": "Iowa State Volleyball Highlights vs. UNI (2026)",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=salPprPAxEM",
-      "published": "2026-09-10T10:04:01-05:00",
-      "published_display": "Sep 10, 2026",
-      "views": 166,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -369,6 +369,23 @@
       "rank_score": 95
     },
     {
+      "id": "ie-hawkeyes-and-cyclones-dominate-in-week-3",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Hawkeyes and Cyclones dominate in Week 3 as conference play arrives | Two Guys (YouTube)",
+      "url": "https://www.youtube.com/watch?v=XLn02QYdr0k",
+      "published": "2026-09-20T14:41:31-05:00",
+      "published_display": "Sep 20, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 94
+    },
+    {
       "id": "ie-iowa-state-blows-out-bowling-green-insta",
       "type": "news",
       "author": "Iowa Everywhere",
@@ -383,14 +400,14 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 94
+      "rank_score": 93
     },
     {
       "id": "ie-instant-iowa-state-iowa-state-blows-out",
       "type": "news",
       "author": "Iowa Everywhere",
       "author_name": "Iowa Everywhere",
-      "text": "Instant Iowa State / Iowa State blows out Bowling Green 23 hours ago",
+      "text": "Instant Iowa State / Iowa State blows out Bowling Green 1 day ago",
       "url": "https://www.iowaeverywhere.com/episodes/iowa-state-blows-out-bowling-green",
       "published": null,
       "published_display": "",
@@ -400,7 +417,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "x-2098256013858165182",
@@ -414,10 +431,10 @@
       "likes": 5877,
       "retweets": 744,
       "replies": 57,
-      "views": 121107,
+      "views": 121153,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
-      "rank_score": 92
+      "rank_score": 91
     },
     {
       "id": "x-2099592706225832265",
@@ -431,10 +448,10 @@
       "likes": 2779,
       "retweets": 160,
       "replies": 21,
-      "views": 63581,
+      "views": 63612,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
-      "rank_score": 91
+      "rank_score": 90
     },
     {
       "id": "x-2096309361005969853",
@@ -448,10 +465,10 @@
       "likes": 1252,
       "retweets": 225,
       "replies": 9,
-      "views": 896616,
+      "views": 896651,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
-      "rank_score": 90
+      "rank_score": 89
     },
     {
       "id": "news-2026-9-16-football-cyclones-in-the-nfl-2",
@@ -468,7 +485,7 @@
       "views": null,
       "topic": "Official news",
       "source_priority": "official",
-      "rank_score": 89
+      "rank_score": 88
     },
     {
       "id": "news-2026-9-15-football-primer-iowa-state-vs",
@@ -485,7 +502,7 @@
       "views": null,
       "topic": "Gameday primer",
       "source_priority": "official",
-      "rank_score": 88
+      "rank_score": 87
     },
     {
       "id": "x-2099262200737128671",
@@ -496,29 +513,12 @@
       "url": "https://x.com/CycloneFB/status/2099262200737128671",
       "published": "2026-09-13T17:21:25-05:00",
       "published_display": "Sep 13, 2026",
-      "likes": 1298,
+      "likes": 1299,
       "retweets": 73,
       "replies": 17,
-      "views": 38033,
+      "views": 38064,
       "topic": "Official social",
       "source_priority": "other",
-      "rank_score": 87
-    },
-    {
-      "id": "news-2026-9-14-football-iowa-state-utah-to-ki",
-      "type": "news",
-      "author": "Iowa State Athletics",
-      "author_name": "Iowa State Athletics",
-      "text": "Iowa State–Utah to kick off at 2:30 p.m. on Fox — first Big 12 home game Sept. 26.",
-      "url": "https://cyclones.com/news/2026/9/14/football-iowa-state-utah-to-kick-off-at-2-30-pm",
-      "published": "2026-09-14T12:00:00-05:00",
-      "published_display": "Sep 14, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Schedule",
-      "source_priority": "official",
       "rank_score": 86
     }
   ]
