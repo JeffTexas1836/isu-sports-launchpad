@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-09-20T18:14:33-05:00",
-  "generated_at_display": "Sun Sep 20, 2026 · 6:14 PM CT",
+  "generated_at": "2026-09-21T04:09:19-05:00",
+  "generated_at_display": "Mon Sep 21, 2026 · 4:09 AM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -16,7 +16,7 @@
     "channel": "Cyclone Fanatic",
     "published": "2026-09-17T15:30:41-05:00",
     "published_display": "3 days ago",
-    "views": 2200
+    "views": 2120
   },
   "daily_clones": [
     {
@@ -26,7 +26,7 @@
       "channel": "Cyclone Fanatic",
       "published": "2026-09-17T15:30:41-05:00",
       "published_display": "3 days ago",
-      "views": 2200
+      "views": 2120
     },
     {
       "found": true,
@@ -76,7 +76,7 @@
       "url": "https://www.youtube.com/watch?v=ZHVgQ-4cu_o",
       "published": "2026-09-17T15:30:41-05:00",
       "published_display": "3 days ago",
-      "views": 2200,
+      "views": 2120,
       "sport": "basketball",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -96,17 +96,43 @@
       "rank_score": 99
     },
     {
+      "id": "yt-SxftQaRlgEY",
+      "title": "Wrapping up Non-Con Play, Prepping for the Big 12 | InCYde Zone",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=SxftQaRlgEY",
+      "published": "2026-09-21T04:00:17-05:00",
+      "published_display": "9 min ago",
+      "views": 0,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 98
+    },
+    {
+      "id": "yt-Qk0qvvAt75Q",
+      "title": "Surging Cyclones set for showdown with Utah | Williams & Blum",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=Qk0qvvAt75Q",
+      "published": "2026-09-20T18:09:02-05:00",
+      "published_display": "10 hours ago",
+      "views": 4126,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 97
+    },
+    {
       "id": "yt-oshUxc_eP7A",
       "title": "Arnold Barnes III Finding His Groove",
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=oshUxc_eP7A",
       "published": "2026-09-20T14:11:50-05:00",
-      "published_display": "4 hours ago",
-      "views": 381,
+      "published_display": "13 hours ago",
+      "views": 993,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 96
     },
     {
       "id": "yt-w6OCP_8KVAE",
@@ -114,12 +140,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=w6OCP_8KVAE",
       "published": "2026-09-20T00:02:49-05:00",
-      "published_display": "18 hours ago",
-      "views": 989,
+      "published_display": "1 day ago",
+      "views": 1647,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 95
     },
     {
       "id": "yt-J-rxQstLgas",
@@ -128,33 +154,7 @@
       "url": "https://www.youtube.com/watch?v=J-rxQstLgas",
       "published": "2026-09-19T15:51:57-05:00",
       "published_display": "1 day ago",
-      "views": 5469,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "yt-9s-rvla0tuw",
-      "title": "Iowa State Blows Out Bowling Green | CF POSTGAME",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=9s-rvla0tuw",
-      "published": "2026-09-19T14:44:02-05:00",
-      "published_display": "1 day ago",
-      "views": 6084,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-lCh_DoYIn-A",
-      "title": "Bowling Green Recap with Jake Brend",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=lCh_DoYIn-A",
-      "published": "2026-09-19T17:34:59-05:00",
-      "published_display": "1 day ago",
-      "views": 3374,
+      "views": 5899,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -165,9 +165,9 @@
       "title": "Hawkeyes and Cyclones dominate in Week 3 as conference play arrives | Two Guys",
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=XLn02QYdr0k",
-      "published": "2026-09-20T14:41:31-05:00",
-      "published_display": "3 hours ago",
-      "views": 0,
+      "published": "2026-09-20T19:41:45-05:00",
+      "published_display": "8 hours ago",
+      "views": 6248,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -180,7 +180,7 @@
       "url": "https://www.youtube.com/watch?v=nIGyIqj--RQ",
       "published": "2026-09-19T15:22:13-05:00",
       "published_display": "1 day ago",
-      "views": 6627,
+      "views": 6850,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -193,7 +193,7 @@
       "url": "https://www.youtube.com/watch?v=uarW3SoJBus",
       "published": "2026-09-19T15:20:53-05:00",
       "published_display": "1 day ago",
-      "views": 656,
+      "views": 734,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -206,7 +206,7 @@
       "url": "https://www.youtube.com/watch?v=IPK42yXZOEA",
       "published": "2026-05-01T12:36:56-05:00",
       "published_display": "May 1, 2026",
-      "views": 697,
+      "views": 700,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -219,7 +219,7 @@
       "url": "https://www.youtube.com/watch?v=ARcQYfTWh5s",
       "published": "2026-09-15T09:03:33-05:00",
       "published_display": "5 days ago",
-      "views": 374,
+      "views": 377,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -239,26 +239,26 @@
       "rank_score": 88
     },
     {
-      "id": "yt-2CuhiaSHkTg",
-      "title": "Soccer Highlights vs. Colorado (2026)",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=2CuhiaSHkTg",
-      "published": "2026-09-18T07:20:36-05:00",
-      "published_display": "2 days ago",
-      "views": 77,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
-      "rank_score": 87
-    },
-    {
       "id": "yt-cc93Kof8buU",
       "title": "Iowa State Volleyball Highlights vs. Santa Barbara (2026)",
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=cc93Kof8buU",
       "published": "2026-09-10T10:04:44-05:00",
       "published_display": "Sep 10, 2026",
-      "views": 229,
+      "views": 233,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "official",
+      "rank_score": 87
+    },
+    {
+      "id": "yt-salPprPAxEM",
+      "title": "Iowa State Volleyball Highlights vs. UNI (2026)",
+      "channel": "Cyclones.tv",
+      "url": "https://www.youtube.com/watch?v=salPprPAxEM",
+      "published": "2026-09-10T10:04:01-05:00",
+      "published_display": "Sep 10, 2026",
+      "views": 170,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -266,6 +266,23 @@
     }
   ],
   "social": [
+    {
+      "id": "cf-photo-gallery-another-storm-rolls-throug",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "PHOTO GALLERY: Another storm rolls through Jack Trice, Iowa State rolls past Bowling Green",
+      "url": "https://cyclonefanatic.com/2026/09/full-game-day-photo-gallery-from-iowa-states-55-7-win-over-bowling-green/",
+      "published": "2026-09-20T17:32:32-05:00",
+      "published_display": "Sep 20, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
     {
       "id": "cf-gray-who-s-the-better-isu-returner-aiden",
       "type": "news",
@@ -281,7 +298,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 99
     },
     {
       "id": "cf-bowling-green-recap-with-jake-brend",
@@ -298,7 +315,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 98
     },
     {
       "id": "cf-peterson-iowa-state-s-aiden-flora-for-pr",
@@ -315,7 +332,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "cf-after-scary-injury-iowa-state-rolls-by-b",
@@ -332,7 +349,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "cf-watch-rogers-raynor-flora-and-pettaway-f",
@@ -349,23 +366,6 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "cf-iowa-state-wrestling-announces-2026-27-s",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "Iowa State Wrestling announces 2026-27 schedule for first season under Brent Metcalf",
-      "url": "https://cyclonefanatic.com/2026/09/iowa-state-wrestling-announces-2026-27-schedule-for-first-season-under-brent-metcalf/",
-      "published": "2026-09-18T13:48:42-05:00",
-      "published_display": "Sep 18, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
       "rank_score": 95
     },
     {
@@ -375,7 +375,7 @@
       "author_name": "Iowa Everywhere",
       "text": "Hawkeyes and Cyclones dominate in Week 3 as conference play arrives | Two Guys (YouTube)",
       "url": "https://www.youtube.com/watch?v=XLn02QYdr0k",
-      "published": "2026-09-20T14:41:31-05:00",
+      "published": "2026-09-20T19:41:45-05:00",
       "published_display": "Sep 20, 2026",
       "likes": null,
       "retweets": null,
@@ -403,6 +403,23 @@
       "rank_score": 93
     },
     {
+      "id": "ie-two-guys-hawkeyes-and-cyclones-dominate",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Two Guys / Hawkeyes and Cyclones dominate in Week 3 as conference play arrives 9 hours ago",
+      "url": "https://www.iowaeverywhere.com/episodes/hawkeyes-and-cyclones-dominate-in-week-3-as-conference-play-arrives",
+      "published": null,
+      "published_display": "",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 92
+    },
+    {
       "id": "ie-instant-iowa-state-iowa-state-blows-out",
       "type": "news",
       "author": "Iowa Everywhere",
@@ -417,7 +434,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 92
+      "rank_score": 91
     },
     {
       "id": "x-2098256013858165182",
@@ -428,13 +445,13 @@
       "url": "https://x.com/realapp/status/2098256013858165182",
       "published": "2026-09-10T22:43:12-05:00",
       "published_display": "Sep 10, 2026",
-      "likes": 5877,
+      "likes": 5878,
       "retweets": 744,
       "replies": 57,
-      "views": 121153,
+      "views": 121226,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
-      "rank_score": 91
+      "rank_score": 90
     },
     {
       "id": "x-2099592706225832265",
@@ -448,10 +465,10 @@
       "likes": 2779,
       "retweets": 160,
       "replies": 21,
-      "views": 63612,
+      "views": 63638,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
-      "rank_score": 90
+      "rank_score": 89
     },
     {
       "id": "x-2096309361005969853",
@@ -465,10 +482,10 @@
       "likes": 1252,
       "retweets": 225,
       "replies": 9,
-      "views": 896651,
+      "views": 896708,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
-      "rank_score": 89
+      "rank_score": 88
     },
     {
       "id": "news-2026-9-16-football-cyclones-in-the-nfl-2",
@@ -485,7 +502,7 @@
       "views": null,
       "topic": "Official news",
       "source_priority": "official",
-      "rank_score": 88
+      "rank_score": 87
     },
     {
       "id": "news-2026-9-15-football-primer-iowa-state-vs",
@@ -502,23 +519,6 @@
       "views": null,
       "topic": "Gameday primer",
       "source_priority": "official",
-      "rank_score": 87
-    },
-    {
-      "id": "x-2099262200737128671",
-      "type": "x",
-      "author": "@CycloneFB",
-      "author_name": "Iowa State Football",
-      "text": "More to come.",
-      "url": "https://x.com/CycloneFB/status/2099262200737128671",
-      "published": "2026-09-13T17:21:25-05:00",
-      "published_display": "Sep 13, 2026",
-      "likes": 1299,
-      "retweets": 73,
-      "replies": 17,
-      "views": 38064,
-      "topic": "Official social",
-      "source_priority": "other",
       "rank_score": 86
     }
   ]
