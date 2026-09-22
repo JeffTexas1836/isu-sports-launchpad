@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-21T18:16:22.205628-05:00",
-  "last_slot": "6pm CT",
+  "updated_at": "2026-09-22T04:08:46.120800-05:00",
+  "last_slot": "4am CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership/order change vs live; Featured Daily Clone ids/urls changed vs live; new ids in top8 vs live: yt-tb636NmVpNA, yt-x9EfSiZQqn8, yt-SxftQaRlgEY, yt-Qk0qvvAt75Q, yt-oshUxc_eP7A, yt-w6OCP_8KVAE",
-  "commit_hash": "9107186e88511c89fbe76c7cce3a126c29242d2a"
+  "reason": "Featured Daily Clone ids/urls changed vs live; YouTube top5 membership/order change vs live; new ids in top8 vs live: yt-EXW1FcGGo9A, yt-ZHVgQ-4cu_o",
+  "commit_hash": "c4cc308ce5b40e7e1241078b5179dfb9b4b66b7b"
 }
