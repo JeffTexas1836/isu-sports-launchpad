@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-09-22T04:07:35-05:00",
-  "generated_at_display": "Tue Sep 22, 2026 · 4:07 AM CT",
+  "generated_at": "2026-09-22T08:26:44-05:00",
+  "generated_at_display": "Tue Sep 22, 2026 · 8:26 AM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -15,8 +15,8 @@
     "url": "https://www.youtube.com/watch?v=tb636NmVpNA",
     "channel": "Cyclone Fanatic",
     "published": "2026-09-21T16:11:42-05:00",
-    "published_display": "11 hours ago",
-    "views": 2174
+    "published_display": "16 hours ago",
+    "views": 2274
   },
   "daily_clones": [
     {
@@ -25,16 +25,16 @@
       "url": "https://www.youtube.com/watch?v=tb636NmVpNA",
       "channel": "Cyclone Fanatic",
       "published": "2026-09-21T16:11:42-05:00",
-      "published_display": "11 hours ago",
-      "views": 2174
+      "published_display": "16 hours ago",
+      "views": 2274
     },
     {
       "found": true,
-      "title": "Big 12 Basketball Schedule Reaction | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=ZHVgQ-4cu_o",
+      "title": "Reevaluating Iowa State's 2026 Record | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=9A_5zC_k5Lo",
       "channel": "Cyclone Fanatic",
-      "published": "2026-09-18T04:07:35.478343-05:00",
-      "published_display": "4 days ago",
+      "published": null,
+      "published_display": "",
       "views": 0
     }
   ],
@@ -60,7 +60,7 @@
       "YouTube @CycloneFanatic handle maps to empty channel; used UC7_Jgn6pDG-tS0dRgXqdBEA",
       "cyclones.com/rss.aspx empty; /news listing 404 — used football pages + known article URLs",
       "iowaeverywhere.com/feed/ returns HTML not RSS; used episode pages + YouTube",
-      "Filled Daily Clone from search: Big 12 Basketball Schedule Reaction | DAILY CLONE",
+      "Filled Daily Clone from search: Reevaluating Iowa State's 2026 Record | DAILY CLONE",
       "Merged/filled 1 Daily Clone(s) to keep two featured"
     ]
   },
@@ -75,22 +75,22 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=tb636NmVpNA",
       "published": "2026-09-21T16:11:42-05:00",
-      "published_display": "11 hours ago",
-      "views": 2174,
+      "published_display": "16 hours ago",
+      "views": 2274,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 100
     },
     {
-      "id": "yt-ZHVgQ-4cu_o",
-      "title": "Big 12 Basketball Schedule Reaction | DAILY CLONE",
+      "id": "yt-9A_5zC_k5Lo",
+      "title": "Reevaluating Iowa State's 2026 Record | DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=ZHVgQ-4cu_o",
-      "published": "2026-09-18T04:07:35.478343-05:00",
-      "published_display": "4 days ago",
+      "url": "https://www.youtube.com/watch?v=9A_5zC_k5Lo",
+      "published": null,
+      "published_display": "",
       "views": 0,
-      "sport": "basketball",
+      "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 99
@@ -101,8 +101,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=EXW1FcGGo9A",
       "published": "2026-09-21T20:47:03-05:00",
-      "published_display": "7 hours ago",
-      "views": 596,
+      "published_display": "11 hours ago",
+      "views": 728,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -114,8 +114,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=x9EfSiZQqn8",
       "published": "2026-09-21T10:29:37-05:00",
-      "published_display": "17 hours ago",
-      "views": 1480,
+      "published_display": "21 hours ago",
+      "views": 1528,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -128,7 +128,7 @@
       "url": "https://www.youtube.com/watch?v=SxftQaRlgEY",
       "published": "2026-09-21T04:00:17-05:00",
       "published_display": "1 day ago",
-      "views": 2322,
+      "views": 2356,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -141,7 +141,7 @@
       "url": "https://www.youtube.com/watch?v=Qk0qvvAt75Q",
       "published": "2026-09-20T18:09:02-05:00",
       "published_display": "1 day ago",
-      "views": 11456,
+      "views": 11599,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -154,7 +154,7 @@
       "url": "https://www.youtube.com/watch?v=oshUxc_eP7A",
       "published": "2026-09-20T14:11:50-05:00",
       "published_display": "1 day ago",
-      "views": 1411,
+      "views": 1416,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -167,7 +167,7 @@
       "url": "https://www.youtube.com/watch?v=XLn02QYdr0k",
       "published": "2026-09-20T19:41:45-05:00",
       "published_display": "1 day ago",
-      "views": 13250,
+      "views": 13286,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -180,11 +180,24 @@
       "url": "https://www.youtube.com/watch?v=nIGyIqj--RQ",
       "published": "2026-09-19T15:22:13-05:00",
       "published_display": "2 days ago",
-      "views": 7208,
+      "views": 7214,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
       "rank_score": 92
+    },
+    {
+      "id": "yt-BmXrgUT-prc",
+      "title": "PROVEN: Iowa State Has Developed IDENTITY After Non-Conference Games, Will It Bring Big 12 Success?",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=BmXrgUT-prc",
+      "published": "2026-09-22T07:00:33-05:00",
+      "published_display": "1 hour ago",
+      "views": 12,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
+      "rank_score": 91
     },
     {
       "id": "yt-x4QWvs3NR0M",
@@ -192,12 +205,12 @@
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=x4QWvs3NR0M",
       "published": "2026-09-21T07:37:44-05:00",
-      "published_display": "20 hours ago",
-      "views": 703,
+      "published_display": "1 day ago",
+      "views": 717,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
-      "rank_score": 91
+      "rank_score": 90
     },
     {
       "id": "yt-uarW3SoJBus",
@@ -206,11 +219,11 @@
       "url": "https://www.youtube.com/watch?v=uarW3SoJBus",
       "published": "2026-09-19T15:20:53-05:00",
       "published_display": "2 days ago",
-      "views": 780,
+      "views": 787,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 90
+      "rank_score": 89
     },
     {
       "id": "yt-IPK42yXZOEA",
@@ -223,7 +236,7 @@
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 89
+      "rank_score": 88
     },
     {
       "id": "yt-ARcQYfTWh5s",
@@ -236,7 +249,7 @@
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 88
+      "rank_score": 87
     },
     {
       "id": "yt--zxPSqvFVa8",
@@ -246,19 +259,6 @@
       "published": "2026-09-11T08:51:23-05:00",
       "published_display": "Sep 11, 2026",
       "views": 273,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
-      "rank_score": 87
-    },
-    {
-      "id": "yt-cc93Kof8buU",
-      "title": "Iowa State Volleyball Highlights vs. Santa Barbara (2026)",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=cc93Kof8buU",
-      "published": "2026-09-10T10:04:44-05:00",
-      "published_display": "Sep 10, 2026",
-      "views": 235,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -448,7 +448,7 @@
       "likes": 5881,
       "retweets": 744,
       "replies": 57,
-      "views": 121416,
+      "views": 121440,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 90
@@ -462,10 +462,10 @@
       "url": "https://x.com/Big12Conference/status/2102082931003097570",
       "published": "2026-09-21T12:10:00-05:00",
       "published_display": "Sep 21, 2026",
-      "likes": 752,
-      "retweets": 80,
+      "likes": 769,
+      "retweets": 82,
       "replies": 24,
-      "views": 129553,
+      "views": 134773,
       "topic": "X / social",
       "source_priority": "other",
       "rank_score": 89
@@ -499,7 +499,7 @@
       "likes": 1253,
       "retweets": 225,
       "replies": 9,
-      "views": 896841,
+      "views": 896851,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 87
