@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-23T04:34:43.700894-05:00",
+  "updated_at": "2026-09-23T04:34:45.490382-05:00",
   "last_slot": "4am CT",
-  "last_published": false,
+  "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
   "reason": "YouTube lineup updated (new: White Out Week, AP Top 25, College GameDay Woes, & More | Th)",
-  "commit_hash": null
+  "commit_hash": "cd3be228e2e32120a7c0474896bab7a918052391"
 }
