@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-09-23T04:33:33-05:00",
-  "generated_at_display": "Wed Sep 23, 2026 · 4:33 AM CT",
+  "generated_at": "2026-09-23T08:58:36-05:00",
+  "generated_at_display": "Wed Sep 23, 2026 · 8:58 AM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -15,8 +15,8 @@
     "url": "https://www.youtube.com/watch?v=kaif2bIrGEY",
     "channel": "Cyclone Fanatic",
     "published": "2026-09-22T15:48:42-05:00",
-    "published_display": "12 hours ago",
-    "views": 2942
+    "published_display": "17 hours ago",
+    "views": 3149
   },
   "daily_clones": [
     {
@@ -25,8 +25,8 @@
       "url": "https://www.youtube.com/watch?v=kaif2bIrGEY",
       "channel": "Cyclone Fanatic",
       "published": "2026-09-22T15:48:42-05:00",
-      "published_display": "12 hours ago",
-      "views": 2942
+      "published_display": "17 hours ago",
+      "views": 3149
     },
     {
       "found": true,
@@ -35,7 +35,7 @@
       "channel": "Cyclone Fanatic",
       "published": "2026-09-21T16:11:42-05:00",
       "published_display": "1 day ago",
-      "views": 3292
+      "views": 3306
     }
   ],
   "sources_note": {
@@ -73,8 +73,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=kaif2bIrGEY",
       "published": "2026-09-22T15:48:42-05:00",
-      "published_display": "12 hours ago",
-      "views": 2942,
+      "published_display": "17 hours ago",
+      "views": 3149,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -87,11 +87,24 @@
       "url": "https://www.youtube.com/watch?v=tb636NmVpNA",
       "published": "2026-09-21T16:11:42-05:00",
       "published_display": "1 day ago",
-      "views": 3292,
+      "views": 3306,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 99
+    },
+    {
+      "id": "yt-2abE5RcfY8o",
+      "title": "Williams & Blum - September 23rd, 2026",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=2abE5RcfY8o",
+      "published": "2026-09-23T08:21:44-05:00",
+      "published_display": "36 min ago",
+      "views": 0,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 98
     },
     {
       "id": "yt-eVrgI0xaSzg",
@@ -99,12 +112,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=eVrgI0xaSzg",
       "published": "2026-09-22T20:13:46-05:00",
-      "published_display": "8 hours ago",
-      "views": 639,
+      "published_display": "12 hours ago",
+      "views": 825,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "yt-NxtgQ6XdhYc",
@@ -112,12 +125,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=NxtgQ6XdhYc",
       "published": "2026-09-22T13:32:24-05:00",
-      "published_display": "15 hours ago",
-      "views": 4546,
+      "published_display": "19 hours ago",
+      "views": 4749,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "yt-FEC61-5byeU",
@@ -125,12 +138,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=FEC61-5byeU",
       "published": "2026-09-22T13:24:00-05:00",
-      "published_display": "15 hours ago",
-      "views": 1506,
+      "published_display": "19 hours ago",
+      "views": 1589,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
+      "rank_score": 95
     },
     {
       "id": "yt-fXcqbPbKkS4",
@@ -138,21 +151,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=fXcqbPbKkS4",
       "published": "2026-09-22T14:01:24-05:00",
-      "published_display": "14 hours ago",
-      "views": 603,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-SWladWOrlqA",
-      "title": "LB Beau Goodwin Pre-Utah Interview",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=SWladWOrlqA",
-      "published": "2026-09-22T13:57:21-05:00",
-      "published_display": "14 hours ago",
-      "views": 545,
+      "published_display": "18 hours ago",
+      "views": 609,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -165,7 +165,7 @@
       "url": "https://www.youtube.com/watch?v=XLn02QYdr0k",
       "published": "2026-09-20T19:41:45-05:00",
       "published_display": "2 days ago",
-      "views": 14613,
+      "views": 14663,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -178,7 +178,7 @@
       "url": "https://www.youtube.com/watch?v=nIGyIqj--RQ",
       "published": "2026-09-19T15:22:13-05:00",
       "published_display": "3 days ago",
-      "views": 7337,
+      "views": 7340,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -190,12 +190,38 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=zjVwLmPyJ1s",
       "published": "2026-09-22T08:49:55-05:00",
-      "published_display": "19 hours ago",
-      "views": 81,
+      "published_display": "1 day ago",
+      "views": 82,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
       "rank_score": 91
+    },
+    {
+      "id": "yt-nIO1RFV87nU",
+      "title": "DANGER: Iowa State Set To SHOCK Utah In First Game Of Big 12 Play, Utes Have A TOUGH Game Ahead",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=nIO1RFV87nU",
+      "published": "2026-09-23T07:31:38-05:00",
+      "published_display": "1 hour ago",
+      "views": 40,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
+      "rank_score": 90
+    },
+    {
+      "id": "yt-DGw4nJN1li8",
+      "title": "BIG 12 SQUAD - The Big 12 had a WILD Week Three | What happened with Iowa State?",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=DGw4nJN1li8",
+      "published": "2026-09-23T07:22:50-05:00",
+      "published_display": "1 hour ago",
+      "views": 0,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
+      "rank_score": 89
     },
     {
       "id": "yt-BmXrgUT-prc",
@@ -203,12 +229,12 @@
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=BmXrgUT-prc",
       "published": "2026-09-22T07:00:33-05:00",
-      "published_display": "21 hours ago",
-      "views": 578,
+      "published_display": "1 day ago",
+      "views": 595,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
-      "rank_score": 90
+      "rank_score": 88
     },
     {
       "id": "yt-uarW3SoJBus",
@@ -221,7 +247,7 @@
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 89
+      "rank_score": 87
     },
     {
       "id": "yt-ARcQYfTWh5s",
@@ -231,32 +257,6 @@
       "published": "2026-09-15T09:03:33-05:00",
       "published_display": "Sep 15, 2026",
       "views": 383,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
-      "rank_score": 88
-    },
-    {
-      "id": "yt--zxPSqvFVa8",
-      "title": "Iowa State Soccer Highlights vs. Loyola Maryland (2026)",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=-zxPSqvFVa8",
-      "published": "2026-09-11T08:51:23-05:00",
-      "published_display": "Sep 11, 2026",
-      "views": 274,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
-      "rank_score": 87
-    },
-    {
-      "id": "yt-cc93Kof8buU",
-      "title": "Iowa State Volleyball Highlights vs. Santa Barbara (2026)",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=cc93Kof8buU",
-      "published": "2026-09-10T10:04:44-05:00",
-      "published_display": "Sep 10, 2026",
-      "views": 235,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -429,7 +429,7 @@
       "likes": 5881,
       "retweets": 744,
       "replies": 57,
-      "views": 121576,
+      "views": 121607,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 91
@@ -446,7 +446,7 @@
       "likes": 2779,
       "retweets": 160,
       "replies": 21,
-      "views": 63703,
+      "views": 63705,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
       "rank_score": 90
@@ -463,7 +463,7 @@
       "likes": 1253,
       "retweets": 225,
       "replies": 9,
-      "views": 896954,
+      "views": 896965,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 89
@@ -513,8 +513,8 @@
       "published_display": "Sep 21, 2026",
       "likes": 804,
       "retweets": 88,
-      "replies": 25,
-      "views": 150348,
+      "replies": 26,
+      "views": 150690,
       "topic": "X / social",
       "source_priority": "other",
       "rank_score": 86
