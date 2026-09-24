@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T14:24:46.251597-05:00",
-  "last_slot": "2pm CT",
+  "updated_at": "2026-09-24T18:18:32.682905-05:00",
+  "last_slot": "6pm CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "New Daily Clone: Utah Game PREDICTION & Tamin Lipsey Status; YT top5 + social top5 membership changed; new CF articles: Staff Picks Utah, Bowling Green date move",
-  "change_summary": "Daily Clone pair changed: ['https://www.youtube.com/watch?v=dtnqdRW4rsU', 'https://www.youtube.com/watch?v=kaif2bIrGEY'] -> ['https://www.youtube.com/watch?v=tpPTsRqd7oI', 'https://www.youtube.com/watch?v=dtnqdRW4rsU']; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-tpPTsRqd7oI; new high-signal social in top8: cf-staff-picks-no-15-utah-at-iowa-state, cf-iowa-state-moves-2027-bowling-green-game",
-  "commit_hash": "7a09b905a8f1a61141278576c55b698cf5e634c6"
+  "reason": "YT top5 + social top5 membership changed; new CF: Braden Smith center piece; CF PREGAME Utah; IE: Rain factor Utah",
+  "change_summary": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-4DMVHav5Jzo, yt-jqbY9f_DZvY; new high-signal social in top8: cf-isu-center-braden-smith-is-new-to-the-po, ie-rain-could-play-a-big-factor-for-isu-and",
+  "commit_hash": null
 }
