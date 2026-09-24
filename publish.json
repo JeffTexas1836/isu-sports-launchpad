@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-09-23T18:35:32.165388-05:00",
-  "last_slot": "6pm CT",
+  "updated_at": "2026-09-24T04:25:50.104214-05:00",
+  "last_slot": "4am CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
   "reason": "YouTube top5 refreshed",
-  "commit_hash": "db3be5458a3b9a46b42d92b58965625e02da0b7c"
+  "change_summary": "YouTube top5 refreshed",
+  "commit_hash": null
 }
