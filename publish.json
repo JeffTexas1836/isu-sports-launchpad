@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T14:20:18.561744-05:00",
+  "updated_at": "2026-09-25T14:20:18.621203-05:00",
   "last_slot": "2pm CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
   "reason": "YT top5 + social top5; new CF Aiden Flora; IE Utah preview",
   "change_summary": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-Xa7j13GsXoo, yt-ZeMNbqyGDMU, yt-pons_hrgWUc; new high-signal social in top8: cf-aiden-flora-finds-joy-and-perspective-in, ie-full-game-preview-iowa-state-vs-utah-two",
-  "commit_hash": null
+  "commit_hash": "3d728af35a75f49d46aaa1b51cc21fb5e96b356f"
 }
