@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-09-24T18:17:53-05:00",
-  "generated_at_display": "Thu Sep 24, 2026 · 6:17 PM CT",
+  "generated_at": "2026-09-25T04:19:09-05:00",
+  "generated_at_display": "Fri Sep 25, 2026 · 4:19 AM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -15,8 +15,8 @@
     "url": "https://www.youtube.com/watch?v=tpPTsRqd7oI",
     "channel": "Cyclone Fanatic",
     "published": "2026-09-24T11:22:16-05:00",
-    "published_display": "6 hours ago",
-    "views": 839
+    "published_display": "16 hours ago",
+    "views": 1443
   },
   "daily_clones": [
     {
@@ -25,8 +25,8 @@
       "url": "https://www.youtube.com/watch?v=tpPTsRqd7oI",
       "channel": "Cyclone Fanatic",
       "published": "2026-09-24T11:22:16-05:00",
-      "published_display": "6 hours ago",
-      "views": 839
+      "published_display": "16 hours ago",
+      "views": 1443
     },
     {
       "found": true,
@@ -35,7 +35,7 @@
       "channel": "Cyclone Fanatic",
       "published": "2026-09-23T11:22:05-05:00",
       "published_display": "1 day ago",
-      "views": 3489
+      "views": 3851
     }
   ],
   "sources_note": {
@@ -73,8 +73,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=tpPTsRqd7oI",
       "published": "2026-09-24T11:22:16-05:00",
-      "published_display": "6 hours ago",
-      "views": 839,
+      "published_display": "16 hours ago",
+      "views": 1443,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -87,7 +87,7 @@
       "url": "https://www.youtube.com/watch?v=dtnqdRW4rsU",
       "published": "2026-09-23T11:22:05-05:00",
       "published_display": "1 day ago",
-      "views": 3489,
+      "views": 3851,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -100,11 +100,24 @@
       "url": "https://www.youtube.com/watch?v=kaif2bIrGEY",
       "published": "2026-09-22T15:48:42-05:00",
       "published_display": "2 days ago",
-      "views": 6509,
+      "views": 7112,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 98
+    },
+    {
+      "id": "yt-wI5IqY-VSwE",
+      "title": "Utah Football W/ Brynn from the Utah Fans Podcast | CFAD INTERROGATES",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=wI5IqY-VSwE",
+      "published": "2026-09-24T19:57:03-05:00",
+      "published_display": "8 hours ago",
+      "views": 887,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 97
     },
     {
       "id": "yt-4DMVHav5Jzo",
@@ -112,12 +125,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=4DMVHav5Jzo",
       "published": "2026-09-24T15:15:52-05:00",
-      "published_display": "3 hours ago",
-      "views": 409,
+      "published_display": "13 hours ago",
+      "views": 2366,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "yt-hMVioMb4_Ao",
@@ -125,12 +138,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=hMVioMb4_Ao",
       "published": "2026-09-24T04:00:32-05:00",
-      "published_display": "14 hours ago",
-      "views": 1607,
+      "published_display": "1 day ago",
+      "views": 1925,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
+      "rank_score": 95
     },
     {
       "id": "yt-ws1dR7Hj06o",
@@ -138,25 +151,25 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=ws1dR7Hj06o",
       "published": "2026-09-23T22:05:17-05:00",
-      "published_display": "20 hours ago",
-      "views": 1466,
+      "published_display": "1 day ago",
+      "views": 1641,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 95
+      "rank_score": 94
     },
     {
-      "id": "yt-NzJxTk6uA_U",
-      "title": "Tamin Lipsey can play college basketball for Iowa State (for now)",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=NzJxTk6uA_U",
-      "published": "2026-09-23T14:28:58-05:00",
-      "published_display": "1 day ago",
-      "views": 2630,
-      "sport": "basketball",
+      "id": "yt-NvjjUlPEA2Q",
+      "title": "IOWA NICE GUY: Utah vs Iowa State",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=NvjjUlPEA2Q",
+      "published": "2026-09-24T20:03:13-05:00",
+      "published_display": "8 hours ago",
+      "views": 1139,
+      "sport": "football",
       "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 94
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "yt-jqbY9f_DZvY",
@@ -164,12 +177,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=jqbY9f_DZvY",
       "published": "2026-09-24T15:43:47-05:00",
-      "published_display": "2 hours ago",
-      "views": 20,
+      "published_display": "12 hours ago",
+      "views": 93,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "yt-iuxSjqwrmhU",
@@ -177,12 +190,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=iuxSjqwrmhU",
       "published": "2026-09-23T20:38:27-05:00",
-      "published_display": "21 hours ago",
-      "views": 8259,
+      "published_display": "1 day ago",
+      "views": 9414,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 92
+      "rank_score": 91
     },
     {
       "id": "yt-8LSPdv5rn5A",
@@ -191,20 +204,7 @@
       "url": "https://www.youtube.com/watch?v=8LSPdv5rn5A",
       "published": "2026-09-23T11:31:26-05:00",
       "published_display": "1 day ago",
-      "views": 2302,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "iowa_everywhere",
-      "rank_score": 91
-    },
-    {
-      "id": "yt-1S5GhMv93Zs",
-      "title": "Can Jaylen Raynor go out there and elevate his game in the Big 12? #cyclones",
-      "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=1S5GhMv93Zs",
-      "published": "2026-09-23T12:22:57-05:00",
-      "published_display": "1 day ago",
-      "views": 471,
+      "views": 2408,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -216,8 +216,8 @@
       "channel": "Iowa State Athletics",
       "url": "https://www.youtube.com/watch?v=IRXk9B1vKvU",
       "published": "2026-09-24T12:08:47-05:00",
-      "published_display": "6 hours ago",
-      "views": 62,
+      "published_display": "16 hours ago",
+      "views": 147,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -229,8 +229,8 @@
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=xr4DSZjFtrU",
       "published": "2026-09-24T07:11:47-05:00",
-      "published_display": "11 hours ago",
-      "views": 1100,
+      "published_display": "21 hours ago",
+      "views": 2936,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
@@ -242,8 +242,8 @@
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=Z_9nKmZiTHA",
       "published": "2026-09-24T11:00:01-05:00",
-      "published_display": "7 hours ago",
-      "views": 28,
+      "published_display": "17 hours ago",
+      "views": 119,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
@@ -255,8 +255,8 @@
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=XdsmtKsQ4H0",
       "published": "2026-09-24T06:09:43-05:00",
-      "published_display": "12 hours ago",
-      "views": 143,
+      "published_display": "22 hours ago",
+      "views": 155,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
@@ -367,6 +367,23 @@
       "rank_score": 95
     },
     {
+      "id": "ie-iowa-nice-guy-utah-vs-iowa-state",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "IOWA NICE GUY: Utah vs Iowa State (YouTube clip)",
+      "url": "https://www.youtube.com/watch?v=NvjjUlPEA2Q",
+      "published": "2026-09-24T20:03:13-05:00",
+      "published_display": "Sep 24, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 94
+    },
+    {
       "id": "ie-rain-could-play-a-big-factor-for-isu-and",
       "type": "news",
       "author": "Iowa Everywhere",
@@ -381,7 +398,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 94
+      "rank_score": 93
     },
     {
       "id": "ie-hawkeyes-head-to-big-house-for-top-20-sh",
@@ -391,23 +408,6 @@
       "text": "Hawkeyes head to Big House for top-20 showdown with Michigan, Cyclones host No. 15 Utah | Two Guys (YouTube)",
       "url": "https://www.youtube.com/watch?v=iuxSjqwrmhU",
       "published": "2026-09-23T20:38:27-05:00",
-      "published_display": "Sep 23, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
-      "rank_score": 93
-    },
-    {
-      "id": "ie-can-jaylen-raynor-go-out-there-and-eleva",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "Can Jaylen Raynor go out there and elevate his game in the Big 12? #cyclones (YouTube clip)",
-      "url": "https://www.youtube.com/watch?v=1S5GhMv93Zs",
-      "published": "2026-09-23T12:22:57-05:00",
       "published_display": "Sep 23, 2026",
       "likes": null,
       "retweets": null,
@@ -443,10 +443,10 @@
       "url": "https://x.com/realapp/status/2098256013858165182",
       "published": "2026-09-10T22:43:12-05:00",
       "published_display": "Sep 10, 2026",
-      "likes": 5881,
+      "likes": 5880,
       "retweets": 744,
       "replies": 57,
-      "views": 121797,
+      "views": 121929,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 90
@@ -460,10 +460,10 @@
       "url": "https://x.com/YahooSports/status/2099592706225832265",
       "published": "2026-09-14T15:14:44-05:00",
       "published_display": "Sep 14, 2026",
-      "likes": 2778,
+      "likes": 2779,
       "retweets": 160,
       "replies": 21,
-      "views": 63722,
+      "views": 63729,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
       "rank_score": 89
@@ -480,7 +480,7 @@
       "likes": 1253,
       "retweets": 225,
       "replies": 9,
-      "views": 897077,
+      "views": 897107,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 88
