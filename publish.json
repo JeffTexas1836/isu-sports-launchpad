@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T18:19:25.607743-05:00",
-  "last_slot": "6pm CT",
+  "updated_at": "2026-09-26T14:17:44.724002-05:00",
+  "last_slot": "2pm CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Social top5; new CF Cyclone Jerry tribute",
-  "change_summary": "Social top5 membership changed; new high-signal social in top8: cf-super-fan-cyclone-jerry-dies-at-87",
-  "commit_hash": "9000221bca4e9da4ac41e1fb7c5a35fe3075059a"
+  "reason": "new high-signal YT/social in top8",
+  "change_summary": "new IE Comma or No Comma in top8 YT/social",
+  "commit_hash": "233447017947b72fe9ab908ce458622075b4545c"
 }
