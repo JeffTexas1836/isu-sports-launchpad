@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-09-27T04:19:17-05:00",
-  "generated_at_display": "Sun Sep 27, 2026 · 4:19 AM CT",
+  "generated_at": "2026-09-27T14:16:44-05:00",
+  "generated_at_display": "Sun Sep 27, 2026 · 2:16 PM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -15,8 +15,8 @@
     "url": "https://www.youtube.com/watch?v=tpPTsRqd7oI",
     "channel": "Cyclone Fanatic",
     "published": "2026-09-24T11:22:16-05:00",
-    "published_display": "2 days ago",
-    "views": 1961
+    "published_display": "3 days ago",
+    "views": 1977
   },
   "daily_clones": [
     {
@@ -25,13 +25,13 @@
       "url": "https://www.youtube.com/watch?v=tpPTsRqd7oI",
       "channel": "Cyclone Fanatic",
       "published": "2026-09-24T11:22:16-05:00",
-      "published_display": "2 days ago",
-      "views": 1961
+      "published_display": "3 days ago",
+      "views": 1977
     },
     {
       "found": true,
-      "title": "Reevaluating Iowa State's 2026 Record | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=9A_5zC_k5Lo",
+      "title": "Preparing for two Utah quarterbacks at once | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=kaif2bIrGEY",
       "channel": "Cyclone Fanatic",
       "published": null,
       "published_display": "",
@@ -60,7 +60,7 @@
       "YouTube @CycloneFanatic handle maps to empty channel; used UC7_Jgn6pDG-tS0dRgXqdBEA",
       "cyclones.com/rss.aspx empty; /news listing 404 — used football pages + known article URLs",
       "iowaeverywhere.com/feed/ returns HTML not RSS; used episode pages + YouTube",
-      "Filled Daily Clone from search: Reevaluating Iowa State's 2026 Record | DAILY CLONE",
+      "Filled Daily Clone from search: Preparing for two Utah quarterbacks at once | DAILY CLONE",
       "Merged/filled 1 Daily Clone(s) to keep two featured"
     ]
   },
@@ -75,18 +75,18 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=tpPTsRqd7oI",
       "published": "2026-09-24T11:22:16-05:00",
-      "published_display": "2 days ago",
-      "views": 1961,
+      "published_display": "3 days ago",
+      "views": 1977,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 100
     },
     {
-      "id": "yt-9A_5zC_k5Lo",
-      "title": "Reevaluating Iowa State's 2026 Record | DAILY CLONE",
+      "id": "yt-kaif2bIrGEY",
+      "title": "Preparing for two Utah quarterbacks at once | DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=9A_5zC_k5Lo",
+      "url": "https://www.youtube.com/watch?v=kaif2bIrGEY",
       "published": null,
       "published_display": "",
       "views": 0,
@@ -96,26 +96,26 @@
       "rank_score": 99
     },
     {
-      "id": "yt-GAihVEaSpqc",
-      "title": "Jimmy Rogers Utah Postgame Press Conference",
+      "id": "yt-3_HVkQEFosM",
+      "title": "What to take from Iowa State’s uneven performance against Utah | Williams & Blum",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=GAihVEaSpqc",
-      "published": "2026-09-26T19:25:24-05:00",
-      "published_display": "8 hours ago",
-      "views": 5123,
+      "url": "https://www.youtube.com/watch?v=3_HVkQEFosM",
+      "published": "2026-09-27T14:13:38-05:00",
+      "published_display": "3 min ago",
+      "views": 0,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 98
     },
     {
-      "id": "yt-t589BXn5UzQ",
-      "title": "Iowa State Falls In Big 12 Opener, Cyclone Therapy | Post-Postgame Show",
+      "id": "yt-GAihVEaSpqc",
+      "title": "Jimmy Rogers Utah Postgame Press Conference",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=t589BXn5UzQ",
-      "published": "2026-09-26T22:08:55-05:00",
-      "published_display": "6 hours ago",
-      "views": 1890,
+      "url": "https://www.youtube.com/watch?v=GAihVEaSpqc",
+      "published": "2026-09-26T19:25:24-05:00",
+      "published_display": "18 hours ago",
+      "views": 7841,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -127,12 +127,25 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=pZqFSb3O8aI",
       "published": "2026-09-26T21:37:10-05:00",
-      "published_display": "6 hours ago",
-      "views": 2009,
+      "published_display": "16 hours ago",
+      "views": 3744,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 96
+    },
+    {
+      "id": "yt-t589BXn5UzQ",
+      "title": "Iowa State Falls In Big 12 Opener, Cyclone Therapy | Post-Postgame Show",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=t589BXn5UzQ",
+      "published": "2026-09-26T22:08:55-05:00",
+      "published_display": "16 hours ago",
+      "views": 2423,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 95
     },
     {
       "id": "yt-HxI59d7qc0E",
@@ -140,25 +153,25 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=HxI59d7qc0E",
       "published": "2026-09-26T18:30:18-05:00",
-      "published_display": "9 hours ago",
-      "views": 4049,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-ISWcO5vq6pw",
-      "title": "CW's Thoughts from Iowa State's loss to Utah",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=ISWcO5vq6pw",
-      "published": "2026-09-26T19:53:03-05:00",
-      "published_display": "8 hours ago",
-      "views": 1497,
+      "published_display": "19 hours ago",
+      "views": 5005,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
+    },
+    {
+      "id": "yt-8cKzOoj3Z2s",
+      "title": "Iowa's walk-off win at Michigan, Cyclones stumble against Utah | Two Guys",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=8cKzOoj3Z2s",
+      "published": "2026-09-27T13:32:00-05:00",
+      "published_display": "44 min ago",
+      "views": 0,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "yt-dNZJhFHKHAs",
@@ -166,12 +179,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=dNZJhFHKHAs",
       "published": "2026-09-26T19:22:42-05:00",
-      "published_display": "8 hours ago",
-      "views": 5326,
+      "published_display": "18 hours ago",
+      "views": 6815,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "yt-1kwpuajxs0g",
@@ -179,12 +192,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=1kwpuajxs0g",
       "published": "2026-09-26T11:38:00-05:00",
-      "published_display": "16 hours ago",
-      "views": 512,
+      "published_display": "1 day ago",
+      "views": 664,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 92
+      "rank_score": 91
     },
     {
       "id": "yt-Xa7j13GsXoo",
@@ -192,25 +205,25 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=Xa7j13GsXoo",
       "published": "2026-09-25T11:59:24-05:00",
-      "published_display": "1 day ago",
-      "views": 5589,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "iowa_everywhere",
-      "rank_score": 91
-    },
-    {
-      "id": "yt-NvjjUlPEA2Q",
-      "title": "IOWA NICE GUY: Utah vs Iowa State",
-      "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=NvjjUlPEA2Q",
-      "published": "2026-09-24T20:03:13-05:00",
       "published_display": "2 days ago",
-      "views": 3250,
+      "views": 5733,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
       "rank_score": 90
+    },
+    {
+      "id": "yt-lRP6Ieno1Ok",
+      "title": "Iowa State Volleyball Highlights vs. Texas Tech (9-25-26)",
+      "channel": "Cyclones.tv",
+      "url": "https://www.youtube.com/watch?v=lRP6Ieno1Ok",
+      "published": "2026-09-27T07:53:39-05:00",
+      "published_display": "6 hours ago",
+      "views": 15,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "official",
+      "rank_score": 89
     },
     {
       "id": "yt-dsHRHSOElkQ",
@@ -218,12 +231,12 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=dsHRHSOElkQ",
       "published": "2026-09-25T12:17:48-05:00",
-      "published_display": "1 day ago",
-      "views": 95,
+      "published_display": "2 days ago",
+      "views": 98,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 89
+      "rank_score": 88
     },
     {
       "id": "yt-uarW3SoJBus",
@@ -236,7 +249,7 @@
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 88
+      "rank_score": 87
     },
     {
       "id": "yt-ARcQYfTWh5s",
@@ -245,20 +258,7 @@
       "url": "https://www.youtube.com/watch?v=ARcQYfTWh5s",
       "published": "2026-09-15T09:03:33-05:00",
       "published_display": "Sep 15, 2026",
-      "views": 395,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
-      "rank_score": 87
-    },
-    {
-      "id": "yt--zxPSqvFVa8",
-      "title": "Iowa State Soccer Highlights vs. Loyola Maryland (2026)",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=-zxPSqvFVa8",
-      "published": "2026-09-11T08:51:23-05:00",
-      "published_display": "Sep 11, 2026",
-      "views": 276,
+      "views": 396,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -369,6 +369,23 @@
       "rank_score": 95
     },
     {
+      "id": "ie-iowa-s-walk-off-win-at-michigan-cyclones",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Iowa's walk-off win at Michigan, Cyclones stumble against Utah | Two Guys (YouTube)",
+      "url": "https://www.youtube.com/watch?v=8cKzOoj3Z2s",
+      "published": "2026-09-27T13:32:00-05:00",
+      "published_display": "Sep 27, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 94
+    },
+    {
       "id": "ie-cyclones-fall-to-no-15-utah-instant-iowa",
       "type": "news",
       "author": "Iowa Everywhere",
@@ -383,7 +400,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 94
+      "rank_score": 93
     },
     {
       "id": "ie-comma-or-no-comma-go-cyclones",
@@ -400,7 +417,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "ie-full-game-preview-iowa-state-vs-utah-two",
@@ -411,23 +428,6 @@
       "url": "https://www.youtube.com/watch?v=Xa7j13GsXoo",
       "published": "2026-09-25T11:59:24-05:00",
       "published_display": "Sep 25, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
-      "rank_score": 92
-    },
-    {
-      "id": "ie-iowa-nice-guy-utah-vs-iowa-state",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "IOWA NICE GUY: Utah vs Iowa State (YouTube clip)",
-      "url": "https://www.youtube.com/watch?v=NvjjUlPEA2Q",
-      "published": "2026-09-24T20:03:13-05:00",
-      "published_display": "Sep 24, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
@@ -445,10 +445,10 @@
       "url": "https://x.com/realapp/status/2098256013858165182",
       "published": "2026-09-10T22:43:12-05:00",
       "published_display": "Sep 10, 2026",
-      "likes": 5880,
+      "likes": 5881,
       "retweets": 744,
       "replies": 57,
-      "views": 122138,
+      "views": 122152,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 90
@@ -465,7 +465,7 @@
       "likes": 2778,
       "retweets": 160,
       "replies": 21,
-      "views": 63751,
+      "views": 63753,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
       "rank_score": 89
@@ -479,10 +479,10 @@
       "url": "https://x.com/CycloneFB/status/2096309361005969853",
       "published": "2026-09-05T13:47:53-05:00",
       "published_display": "Sep 5, 2026",
-      "likes": 1252,
+      "likes": 1251,
       "retweets": 225,
       "replies": 9,
-      "views": 897266,
+      "views": 897290,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 88
