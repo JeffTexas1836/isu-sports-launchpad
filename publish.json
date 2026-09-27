@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-27T14:18:02.282001-05:00",
-  "last_slot": "2pm CT",
+  "updated_at": "2026-09-27T18:26:55.052729-05:00",
+  "last_slot": "6pm CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "New Daily Clone featured (Preparing for two Utah quarterbacks); YouTube top-5 refreshed; new Iowa Everywhere item in social top-8",
-  "change_summary": "New Daily Clone featured (Preparing for two Utah quarterbacks); YouTube top-5 refreshed; new Iowa Everywhere item in social top-8",
-  "commit_hash": "14cfbd8df3598d25764093c509eb2441f47b8dc3",
-  "prior_published_at": "2026-09-27T04:20:03.681204-05:00",
-  "prior_slot": "4am CT"
+  "reason": "New Daily Clone featured (Reevaluating Iowa State's 2026 Record); YouTube top-5 refreshed",
+  "change_summary": "New Daily Clone featured (Reevaluating Iowa State's 2026 Record); YouTube top-5 refreshed",
+  "commit_hash": "98c8006dd7eb5f1e0cdeda95fe87e3146862cebe",
+  "prior_published_at": "2026-09-27T14:18:02.282001-05:00",
+  "prior_slot": "2pm CT"
 }
