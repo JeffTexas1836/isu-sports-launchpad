@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T18:21:41.722229-05:00",
-  "last_slot": "6pm CT",
+  "updated_at": "2026-09-27T04:19:57.091336-05:00",
+  "last_slot": "4am CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YT top5 + new Utah postgame/halftime/Instant Iowa in top8",
-  "change_summary": "new CF Utah postgame/halftime + IE Instant Iowa in top mix",
-  "commit_hash": "841acf7bc41e32461d8ac24f06fc8bbfad036e51"
+  "reason": "Daily Clone #2 rotated + YT/social top5 + Utah recap/notebook posts",
+  "change_summary": "new Daily Clone + CF Utah recap/notebook in top mix",
+  "commit_hash": null
 }
