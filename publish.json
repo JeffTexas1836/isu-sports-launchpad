@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-28T04:26:44.238387-05:00",
-  "last_slot": "4am CT",
+  "updated_at": "2026-09-28T08:38:33.842715-05:00",
+  "last_slot": "8am CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "New Daily Clone featured (What's the chess match between Morgan Scalley and Jimmy Rogers? DAILY CLONE); YouTube top-5 refreshed",
-  "change_summary": "New Daily Clone featured (What's the chess match between Morgan Scalley and Jimmy Rogers? DAILY CLONE); YouTube top-5 refreshed",
-  "commit_hash": "f336168e8a345927054a1f7efeb740e281b32318",
-  "prior_published_at": "2026-09-27T18:26:55.052729-05:00",
-  "prior_slot": "6pm CT"
+  "reason": "New CF article featured (Monday Musings: It takes 60 minutes, not 30); Social top-5 refreshed",
+  "change_summary": "New CF article featured (Monday Musings: It takes 60 minutes, not 30); Social top-5 refreshed",
+  "commit_hash": null,
+  "prior_published_at": "2026-09-28T04:26:44.238387-05:00",
+  "prior_slot": "4am CT"
 }
