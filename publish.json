@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-28T08:38:33.842715-05:00",
-  "last_slot": "8am CT",
+  "updated_at": "2026-09-28T14:25:26.221360-05:00",
+  "last_slot": "2pm CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "New CF article featured (Monday Musings: It takes 60 minutes, not 30); Social top-5 refreshed",
-  "change_summary": "New CF article featured (Monday Musings: It takes 60 minutes, not 30); Social top-5 refreshed",
-  "commit_hash": "95ced55ec877e24ad07fda4b21dde09aba7d2ad2",
-  "prior_published_at": "2026-09-28T04:26:44.238387-05:00",
-  "prior_slot": "4am CT"
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-0WS0hwLVRsw; new high-signal social in top8: cf-five-west-virginia-players-to-know-on-sa, cf-tamin-lipsey-listed-on-iowa-state-s-rost",
+  "change_summary": "New Daily Clone: Tamin Lipsey is BACK?!; YouTube + Social top-5 refreshed (CF West Virginia preview + Lipsey roster news)",
+  "commit_hash": "f76e4846d70d724c88568050f17a8a2e1060f678",
+  "prior_published_at": "2026-09-28T08:38:33.842715-05:00",
+  "prior_slot": "8am CT"
 }
