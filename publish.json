@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-29T14:26:38.803955-05:00",
-  "last_slot": "2pm CT",
+  "updated_at": "2026-09-29T18:21:14.073643-05:00",
+  "last_slot": "6pm CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-MoziaqWAz8s, yt-X3H9H3TmZQw, yt-bNbDvrgvqt0, yt-bv_ZrVezLjU",
-  "change_summary": "YouTube top shelf refreshed \u2014 Jimmy Rogers & Tyler Roehl Pre-West Virginia pressers plus \"We can be bald together\" joined the top5 (replaced Down The Stretch / InCYde / Utah takeaways)",
-  "prior_published_at": "2026-09-29T08:40:10.699492-05:00",
-  "prior_slot": "8am CT",
-  "commit_hash": "57f52452df04d3e04191e3ef1267f462adaed793",
-  "generated_at": "2026-09-29T14:25:46-05:00"
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-W9PM01nKlFs, yt-Ypl0nh1NRe4, yt-cAmvCJ2375o, yt-fP6nrPs6jEo; new high-signal social in top8: cf-iowa-state-prepares-to-face-west-virgini, cf-watch-rogers-roehl-and-players-ahead-of, ie-cyclones-passing-needs-work",
+  "change_summary": "New Daily Clone live \u2014 \"Can Iowa State slow down West Virginia's ELITE rushing attack?\" plus CF prep pieces on WVU's Mach-speed offense and Rogers/Roehl pressers",
+  "prior_published_at": "2026-09-29T14:26:38.803955-05:00",
+  "prior_slot": "2pm CT",
+  "commit_hash": "PENDING",
+  "generated_at": "2026-09-29T18:20:26-05:00"
 }
