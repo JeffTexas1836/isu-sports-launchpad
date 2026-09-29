@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-28T14:25:26.221360-05:00",
-  "last_slot": "2pm CT",
+  "updated_at": "2026-09-29T04:22:58.115702-05:00",
+  "last_slot": "4am CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-0WS0hwLVRsw; new high-signal social in top8: cf-five-west-virginia-players-to-know-on-sa, cf-tamin-lipsey-listed-on-iowa-state-s-rost",
-  "change_summary": "New Daily Clone: Tamin Lipsey is BACK?!; YouTube + Social top-5 refreshed (CF West Virginia preview + Lipsey roster news)",
-  "commit_hash": "4eddce51f8ff1960dedc7683c8e28047769d9ec7",
-  "prior_published_at": "2026-09-28T08:38:33.842715-05:00",
-  "prior_slot": "8am CT"
+  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-dtnqdRW4rsU, yt-fzsVuGrUVto",
+  "change_summary": "YouTube top5 updated \u2014 new Daily Clone #2 (chess match Scalley/Rogers) and DOWN THE PIPE West Virginia preview replaced older Utah clips",
+  "commit_hash": "6fe7af85426689f4180055bbfb9f708985eaf29d",
+  "prior_published_at": "2026-09-28T14:25:26.221360-05:00",
+  "prior_slot": "2pm CT"
 }
