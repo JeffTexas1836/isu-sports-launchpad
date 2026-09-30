@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-30T08:19:42.297236-05:00",
-  "last_slot": "8am CT",
+  "updated_at": "2026-09-30T14:26:46.599338-05:00",
+  "last_slot": "2pm CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-Uc7yDN_Eauo",
-  "change_summary": "Cyclone Fanatic \"Williams & Blum\" (Sep 30) joins the top shelf \u2014 Daily Clone WVU rush-defense prep still featured",
-  "prior_published_at": "2026-09-30T04:21:07.185237-05:00",
-  "prior_slot": "4am CT",
-  "generated_at": "2026-09-30T08:19:06-05:00",
-  "commit_hash": "deede82103e9e371314baaead5416d7403ed268e"
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-P2WwP8ONfLc, yt-TfwvN5WpzSY; new high-signal social in top8: cf-peterson-rand-o-thoughts-on-going-bald-t, ie-bald-cyclones-getting-iowa-ed-a-ja-vs-fa, ie-the-committee-iowa-ohio-state-isu-wvu-se",
+  "change_summary": "New Daily Clone drops \u2014 \u201cJamie Pollard Update\u201d \u2014 with CF Peterson bald/QBs notes climbing the social shelf",
+  "prior_published_at": "2026-09-30T08:19:42.297236-05:00",
+  "prior_slot": "8am CT",
+  "generated_at": "2026-09-30T14:26:17-05:00",
+  "commit_hash": "037f1c4279526fb35ffa9e325c854a30daf0f0fa"
 }
