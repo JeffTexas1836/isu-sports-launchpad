@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-29T18:21:14.073643-05:00",
-  "last_slot": "6pm CT",
+  "updated_at": "2026-09-30T04:21:07.185237-05:00",
+  "last_slot": "4am CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-W9PM01nKlFs, yt-Ypl0nh1NRe4, yt-cAmvCJ2375o, yt-fP6nrPs6jEo; new high-signal social in top8: cf-iowa-state-prepares-to-face-west-virgini, cf-watch-rogers-roehl-and-players-ahead-of, ie-cyclones-passing-needs-work",
-  "change_summary": "New Daily Clone live \u2014 \"Can Iowa State slow down West Virginia's ELITE rushing attack?\" plus CF prep pieces on WVU's Mach-speed offense and Rogers/Roehl pressers",
-  "prior_published_at": "2026-09-29T14:26:38.803955-05:00",
-  "prior_slot": "2pm CT",
-  "commit_hash": "875b7ff5aa07d2b5efb47b3d3a592cbe684f0818",
-  "generated_at": "2026-09-29T18:20:26-05:00"
+  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-4HO3aO45CSo",
+  "change_summary": "Cyclone Fanatic Litecast climbs into the top shelf \u2014 \"Tamin Time, Utah Recap, Season Long FB Outlook\" \u2014 with Daily Clone WVU prep still featured",
+  "prior_published_at": "2026-09-29T18:21:14.073643-05:00",
+  "prior_slot": "6pm CT",
+  "generated_at": "2026-09-30T04:20:12-05:00",
+  "commit_hash": null
 }
