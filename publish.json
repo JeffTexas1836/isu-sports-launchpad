@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-30T14:26:46.599338-05:00",
-  "last_slot": "2pm CT",
+  "updated_at": "2026-09-30T18:18:33.043831-05:00",
+  "last_slot": "6pm CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-P2WwP8ONfLc, yt-TfwvN5WpzSY; new high-signal social in top8: cf-peterson-rand-o-thoughts-on-going-bald-t, ie-bald-cyclones-getting-iowa-ed-a-ja-vs-fa, ie-the-committee-iowa-ohio-state-isu-wvu-se",
-  "change_summary": "New Daily Clone drops \u2014 \u201cJamie Pollard Update\u201d \u2014 with CF Peterson bald/QBs notes climbing the social shelf",
-  "prior_published_at": "2026-09-30T08:19:42.297236-05:00",
-  "prior_slot": "8am CT",
-  "generated_at": "2026-09-30T14:26:17-05:00",
-  "commit_hash": "037f1c4279526fb35ffa9e325c854a30daf0f0fa"
+  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-yoWsc7wvO6s; new high-signal social in top8: cf-isu-dt-max-baloun-rolls-with-old-man-jok, ie-previewing-iowa-vs-ohio-state-and-iowa-s",
+  "change_summary": "Night Cap \u201cUtah Fallout, WVU Preview\u201d climbs the YouTube shelf; Cyclone Fanatic\u2019s Max Baloun \u201cold man\u201d jokes piece tops the social shelf",
+  "prior_published_at": "2026-09-30T14:26:46.599338-05:00",
+  "prior_slot": "2pm CT",
+  "generated_at": "2026-09-30T18:18:20-05:00",
+  "commit_hash": null
 }
