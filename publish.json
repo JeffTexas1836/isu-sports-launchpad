@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-30T18:18:33.043831-05:00",
-  "last_slot": "6pm CT",
+  "updated_at": "2026-10-01T04:20:24.239300-05:00",
+  "last_slot": "4am CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-yoWsc7wvO6s; new high-signal social in top8: cf-isu-dt-max-baloun-rolls-with-old-man-jok, ie-previewing-iowa-vs-ohio-state-and-iowa-s",
-  "change_summary": "Night Cap \u201cUtah Fallout, WVU Preview\u201d climbs the YouTube shelf; Cyclone Fanatic\u2019s Max Baloun \u201cold man\u201d jokes piece tops the social shelf",
-  "prior_published_at": "2026-09-30T14:26:46.599338-05:00",
-  "prior_slot": "2pm CT",
-  "generated_at": "2026-09-30T18:18:20-05:00",
-  "commit_hash": "69858f971375774ab9e9ff690a8ae8e71529fe0f"
+  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-fO9eTxdFX_4, yt-fQygN6d4Szs",
+  "change_summary": "Beat Reporters \u201cHuge QB Test, Hutchins Returns & Tamin Lipsey Is BACK?!\u201d joins the YouTube top shelf; Iowa Everywhere\u2019s Two Guys Iowa/ISU Week 5 preview also climbs in",
+  "prior_published_at": "2026-09-30T18:18:33.043831-05:00",
+  "prior_slot": "6pm CT",
+  "generated_at": "2026-10-01T04:19:51-05:00",
+  "commit_hash": null
 }
