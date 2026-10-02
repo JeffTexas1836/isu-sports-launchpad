@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-10-01T04:20:24.239300-05:00",
+  "updated_at": "2026-10-02T04:25:01.914344-05:00",
   "last_slot": "4am CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-fO9eTxdFX_4, yt-fQygN6d4Szs",
-  "change_summary": "Beat Reporters \u201cHuge QB Test, Hutchins Returns & Tamin Lipsey Is BACK?!\u201d joins the YouTube top shelf; Iowa Everywhere\u2019s Two Guys Iowa/ISU Week 5 preview also climbs in",
-  "prior_published_at": "2026-09-30T18:18:33.043831-05:00",
+  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-D0sQlqTx57o",
+  "change_summary": "YouTube shelf adds CFAD\u2019s Talkin\u2019 West Virginia with Mountaineer Paul; Daily Clones stay WVU Full Preview + Jamie Pollard Update",
+  "prior_published_at": "2026-10-01T18:20:04.301252-05:00",
   "prior_slot": "6pm CT",
-  "generated_at": "2026-10-01T04:19:51-05:00",
-  "commit_hash": "3ad7b16e8ac89db5643edb3da0bc320f11deec66"
+  "generated_at": "2026-10-02T04:24:25-05:00",
+  "generated_at_display": "Fri Oct 2, 2026 \u00b7 4:24 AM CT",
+  "commit_hash": null,
+  "meaningful": true,
+  "daily_clones": [
+    {
+      "title": "Iowa State vs West Virginia FULL Preview, 3 Keys to the Game, Big 12 Week 5 Preview | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=8AUuf5_Vv-0",
+      "published_display": "14 hours ago"
+    },
+    {
+      "title": "Jamie Pollard Update | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=TfwvN5WpzSY",
+      "published_display": "1 day ago"
+    }
+  ]
 }
