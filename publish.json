@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-02T18:24:37.608866-05:00",
-  "last_slot": "6pm CT",
+  "updated_at": "2026-10-03T14:20:53.549744-05:00",
+  "last_slot": "2pm CT",
   "last_published": true,
   "pages_url": "https://JeffTexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Social top5 membership changed; new high-signal social in top8: cf-big-12-buzz-week-5-preview",
-  "change_summary": "CF Big 12 Buzz Week 5 Preview tops social; YT shelf order shifts PAD above CFAD Interrogates; Daily Clones unchanged (WVU Preview + Pollard)",
-  "prior_published_at": "2026-10-02T14:21:40.266517-05:00",
-  "prior_slot": "2pm CT",
-  "generated_at": "2026-10-02T18:24:17-05:00",
-  "generated_at_display": "Fri Oct 2, 2026 \u00b7 6:24 PM CT",
+  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-7-xrwbgMhw8, yt-Lf5-NuN5tv8; new high-signal social in top8: ie-iowa-state-west-virginia-reaction-instan",
+  "change_summary": "YT shelf adds CF Halftime + IE WVU Reaction; Daily Clones unchanged (WVU Preview + Pollard)",
+  "prior_published_at": "2026-10-02T18:24:37.608866-05:00",
+  "prior_slot": "6pm CT",
+  "generated_at": "2026-10-03T14:20:12-05:00",
+  "generated_at_display": "Sat Oct 3, 2026 \u00b7 2:20 PM CT",
   "commit_hash": "c1dcdc6b540d3df6cc235ef5f8d2878041d854e7",
   "meaningful": true,
   "daily_clones": [
     {
       "title": "Iowa State vs West Virginia FULL Preview, 3 Keys to the Game, Big 12 Week 5 Preview | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=8AUuf5_Vv-0",
-      "published_display": "1 day ago"
+      "published_display": "2 days ago"
     },
     {
       "title": "Jamie Pollard Update | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=TfwvN5WpzSY",
-      "published_display": "2 days ago"
+      "published_display": "3 days ago"
     }
   ]
 }
