@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-10-03T18:24:45-05:00",
-  "generated_at_display": "Sat Oct 3, 2026 · 6:24 PM CT",
+  "generated_at": "2026-10-04T04:22:11-05:00",
+  "generated_at_display": "Sun Oct 4, 2026 · 4:22 AM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -16,7 +16,7 @@
     "channel": "Cyclone Fanatic",
     "published": "2026-10-01T13:38:11-05:00",
     "published_display": "2 days ago",
-    "views": 3736
+    "views": 3836
   },
   "daily_clones": [
     {
@@ -26,16 +26,16 @@
       "channel": "Cyclone Fanatic",
       "published": "2026-10-01T13:38:11-05:00",
       "published_display": "2 days ago",
-      "views": 3736
+      "views": 3836
     },
     {
       "found": true,
       "title": "Jamie Pollard Update | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=TfwvN5WpzSY",
       "channel": "Cyclone Fanatic",
-      "published": "2026-09-30T12:54:47-05:00",
+      "published": "2026-10-01T04:22:11.036971-05:00",
       "published_display": "3 days ago",
-      "views": 4206
+      "views": 0
     }
   ],
   "sources_note": {
@@ -60,7 +60,7 @@
       "YouTube @CycloneFanatic handle maps to empty channel; used UC7_Jgn6pDG-tS0dRgXqdBEA",
       "cyclones.com/rss.aspx empty; /news listing 404 — used football pages + known article URLs",
       "iowaeverywhere.com/feed/ returns HTML not RSS; used episode pages + YouTube",
-      "Filled Daily Clone from prior: Jamie Pollard Update | DAILY CLONE",
+      "Filled Daily Clone from search: Jamie Pollard Update | DAILY CLONE",
       "Merged/filled 1 Daily Clone(s) to keep two featured"
     ]
   },
@@ -76,7 +76,7 @@
       "url": "https://www.youtube.com/watch?v=8AUuf5_Vv-0",
       "published": "2026-10-01T13:38:11-05:00",
       "published_display": "2 days ago",
-      "views": 3736,
+      "views": 3836,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -87,26 +87,13 @@
       "title": "Jamie Pollard Update | DAILY CLONE",
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=TfwvN5WpzSY",
-      "published": "2026-09-30T12:54:47-05:00",
+      "published": "2026-10-01T04:22:11.036971-05:00",
       "published_display": "3 days ago",
-      "views": 4206,
+      "views": 0,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 99
-    },
-    {
-      "id": "yt-Y4_P4wQLyvk",
-      "title": "CF POSTGAME: Iowa State beats West Virginia",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=Y4_P4wQLyvk",
-      "published": "2026-10-03T14:57:14-05:00",
-      "published_display": "3 hours ago",
-      "views": 2189,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 98
     },
     {
       "id": "yt-aAV_OWUtvgY",
@@ -114,25 +101,25 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=aAV_OWUtvgY",
       "published": "2026-10-03T15:58:15-05:00",
-      "published_display": "2 hours ago",
-      "views": 838,
+      "published_display": "12 hours ago",
+      "views": 4904,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 98
+    },
+    {
+      "id": "yt-TvSNIpaBShI",
+      "title": "Jimmy Rogers praises the Cyclone faithful at Jack Trice Stadium",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=TvSNIpaBShI",
+      "published": "2026-10-04T00:07:39-05:00",
+      "published_display": "4 hours ago",
+      "views": 212,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 97
-    },
-    {
-      "id": "yt-DeHaLJZU2MM",
-      "title": "Aiden Flora WV Postgame Interview",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=DeHaLJZU2MM",
-      "published": "2026-10-03T16:20:38-05:00",
-      "published_display": "2 hours ago",
-      "views": 255,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
     },
     {
       "id": "yt-vooCzTu-UJU",
@@ -140,21 +127,34 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=vooCzTu-UJU",
       "published": "2026-10-03T18:21:56-05:00",
-      "published_display": "2 min ago",
-      "views": 0,
+      "published_display": "10 hours ago",
+      "views": 2547,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 96
+    },
+    {
+      "id": "yt-Y4_P4wQLyvk",
+      "title": "CF POSTGAME: Iowa State beats West Virginia",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=Y4_P4wQLyvk",
+      "published": "2026-10-03T14:57:14-05:00",
+      "published_display": "13 hours ago",
+      "views": 3980,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 95
     },
     {
-      "id": "yt-pVkfD8ktalM",
-      "title": "Jaylen Raynor WV Postgame Interview",
+      "id": "yt-DeHaLJZU2MM",
+      "title": "Aiden Flora WV Postgame Interview",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=pVkfD8ktalM",
-      "published": "2026-10-03T16:14:37-05:00",
-      "published_display": "2 hours ago",
-      "views": 154,
+      "url": "https://www.youtube.com/watch?v=DeHaLJZU2MM",
+      "published": "2026-10-03T16:20:38-05:00",
+      "published_display": "12 hours ago",
+      "views": 1859,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -166,8 +166,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=Lf5-NuN5tv8",
       "published": "2026-10-03T16:10:36-05:00",
-      "published_display": "2 hours ago",
-      "views": 1669,
+      "published_display": "12 hours ago",
+      "views": 5274,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -179,8 +179,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=0uWFfpQc1qg",
       "published": "2026-10-03T15:05:35-05:00",
-      "published_display": "3 hours ago",
-      "views": 641,
+      "published_display": "13 hours ago",
+      "views": 2908,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -193,20 +193,20 @@
       "url": "https://www.youtube.com/watch?v=-Ii9gS68WDo",
       "published": "2026-10-02T10:57:11-05:00",
       "published_display": "1 day ago",
-      "views": 3057,
+      "views": 3232,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
       "rank_score": 91
     },
     {
-      "id": "yt-_zpjh5v6G5k",
-      "title": "Iowa State Fans: Get in your seats! #cyclones",
+      "id": "yt-UdHwa_E--Vs",
+      "title": "Iowa State MUST Beat West Virginia | Two Guys",
       "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=_zpjh5v6G5k",
-      "published": "2026-10-01T15:00:11-05:00",
+      "url": "https://www.youtube.com/watch?v=UdHwa_E--Vs",
+      "published": "2026-10-01T11:48:58-05:00",
       "published_display": "2 days ago",
-      "views": 3119,
+      "views": 3256,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -218,8 +218,8 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=gz_dE_fNoqs",
       "published": "2026-10-03T14:43:13-05:00",
-      "published_display": "3 hours ago",
-      "views": 46,
+      "published_display": "13 hours ago",
+      "views": 393,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -231,8 +231,8 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=wMLMtJ3AmS8",
       "published": "2026-10-03T14:10:24-05:00",
-      "published_display": "4 hours ago",
-      "views": 5,
+      "published_display": "14 hours ago",
+      "views": 58,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -244,8 +244,8 @@
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=O-OnqxwAU34",
       "published": "2026-10-03T15:23:35-05:00",
-      "published_display": "3 hours ago",
-      "views": 50,
+      "published_display": "12 hours ago",
+      "views": 380,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
@@ -257,8 +257,8 @@
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=lG_nMHIA3ME",
       "published": "2026-10-03T08:00:19-05:00",
-      "published_display": "10 hours ago",
-      "views": 420,
+      "published_display": "20 hours ago",
+      "views": 460,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
@@ -266,6 +266,23 @@
     }
   ],
   "social": [
+    {
+      "id": "cf-notebook-cody-jackson-says-action-and-ry",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "NOTEBOOK: Cody Jackson says “action,” and Ryver Pepper returns in ISU’s wild win over West Virginia",
+      "url": "https://cyclonefanatic.com/2026/10/notebook-cody-jackson-says-action-and-ryver-pepper-returns-in-isus-wind-win-over-west-virginia/",
+      "published": "2026-10-03T18:31:44-05:00",
+      "published_display": "Oct 3, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
     {
       "id": "cf-peterson-aiden-flora-is-iowa-state-s-new",
       "type": "news",
@@ -281,7 +298,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 99
     },
     {
       "id": "cf-watch-rogers-flora-raynor-after-west-vir",
@@ -298,7 +315,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 98
     },
     {
       "id": "cf-trick-and-treat-aiden-flora-s-5-td-flour",
@@ -315,7 +332,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "cf-big-12-buzz-week-5-preview",
@@ -332,7 +349,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "cf-cf-staff-picks-west-virginia-iowa-state",
@@ -343,23 +360,6 @@
       "url": "https://cyclonefanatic.com/2026/10/cf-staff-picks-west-virginia-iowa-state/",
       "published": "2026-10-02T12:26:08-05:00",
       "published_display": "Oct 2, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "cf-isu-will-need-wr-dominic-overby-s-oomph",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "ISU will need WR Dominic Overby’s “oomph” plays on Saturday against West Virginia",
-      "url": "https://cyclonefanatic.com/2026/10/isu-will-need-wr-dominic-overbys-oomph-plays-on-saturday-against-west-virginia/",
-      "published": "2026-10-01T13:10:29-05:00",
-      "published_display": "Oct 1, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
@@ -420,13 +420,13 @@
       "rank_score": 92
     },
     {
-      "id": "ie-iowa-state-fans-get-in-your-seats-cyclon",
+      "id": "ie-iowa-state-must-beat-west-virginia-two-g",
       "type": "news",
       "author": "Iowa Everywhere",
       "author_name": "Iowa Everywhere",
-      "text": "Iowa State Fans: Get in your seats! #cyclones (YouTube clip)",
-      "url": "https://www.youtube.com/watch?v=_zpjh5v6G5k",
-      "published": "2026-10-01T15:00:11-05:00",
+      "text": "Iowa State MUST Beat West Virginia | Two Guys (YouTube clip)",
+      "url": "https://www.youtube.com/watch?v=UdHwa_E--Vs",
+      "published": "2026-10-01T11:48:58-05:00",
       "published_display": "Oct 1, 2026",
       "likes": null,
       "retweets": null,
@@ -448,7 +448,7 @@
       "likes": 5876,
       "retweets": 744,
       "replies": 57,
-      "views": 122502,
+      "views": 122512,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 90
@@ -465,7 +465,7 @@
       "likes": 2775,
       "retweets": 160,
       "replies": 21,
-      "views": 63780,
+      "views": 63781,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
       "rank_score": 89
@@ -482,7 +482,7 @@
       "likes": 1251,
       "retweets": 225,
       "replies": 9,
-      "views": 897758,
+      "views": 897796,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 88
