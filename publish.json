@@ -1,26 +1,25 @@
 {
-  "updated_at": "2026-10-05T08:33:03.792212-05:00",
-  "last_slot": "8am CT",
+  "updated_at": "2026-10-05T14:21:18.681128-05:00",
+  "last_slot": "2pm CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-T7a0Rb4Vl1c",
-  "change_summary": "YT shelf swaps CF Daily Clone 'Jamie Pollard Update' for 'The Importance of Vulnerability for Cyclone Football'; Social unchanged; featured Daily Clones now WVU Preview + Vulnerability",
-  "prior_published_at": "2026-10-05T04:17:30.745796-05:00",
-  "prior_slot": "4am CT",
-  "generated_at": "2026-10-05T08:32:33-05:00",
-  "generated_at_display": "Mon Oct 5, 2026 \u00b7 8:32 AM CT",
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-C8JbHaZt1h4, yt-NzCmtup4RYs; new high-signal social in top8: cf-aiden-flora-s-five-td-day-nets-him-natio, cf-five-byu-players-to-know-on-friday-night, cf-monday-musings-big-band-of-bald-ballers, ie-aiden-flora-is-unreal-iowa-state-s-break",
+  "change_summary": "New CF Daily Clone 'What did Brend Learn This Weekend?' (Oct 5) now featured with WVU Preview; Social adds CF 'Five BYU players to know', 'Flora five-TD day nets national/Big 12 honors', 'Monday Musings', and IE 'Aiden Flora Is UNREAL!'",
+  "prior_published_at": "2026-10-05T08:33:03.792212-05:00",
+  "prior_slot": "8am CT",
+  "generated_at": "2026-10-05T14:20:56-05:00",
+  "generated_at_display": "Mon Oct 5, 2026 \u00b7 2:20 PM CT",
   "meaningful": true,
   "daily_clones": [
     {
-      "title": "Iowa State vs West Virginia FULL Preview, 3 Keys to the Game, Big 12 Week 5 Preview | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=8AUuf5_Vv-0",
-      "published_display": "3 days ago"
+      "title": "What did Brend Learn This Weekend? DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
+      "published_display": "2 hours ago"
     },
     {
-      "title": "The Importance of Vulnerability for Cyclone Football | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=T7a0Rb4Vl1c",
-      "published_display": "Sep 5, 2026"
+      "title": "Iowa State vs West Virginia FULL Preview, 3 Keys to the Game, Big 12 Week 5 Preview | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=8AUuf5_Vv-0",
+      "published_display": "4 days ago"
     }
-  ],
-  "commit_hash": "6cc09e862937cf12f4015a9a50bf30a51ee70b8b"
+  ]
 }
