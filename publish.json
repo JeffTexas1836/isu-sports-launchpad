@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-10-05T04:17:30.745796-05:00",
-  "last_slot": "4am CT",
+  "updated_at": "2026-10-05T08:33:03.792212-05:00",
+  "last_slot": "8am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-U0dq1cbpgFg",
-  "change_summary": "YT shelf adds CF InCYde Zone 'Aiden Flora Is a STAR! Can the Cyclones Shock BYU?'; Social unchanged; Daily Clones unchanged (WVU Preview + Pollard)",
-  "prior_published_at": "2026-10-04T18:21:23.547898-05:00",
-  "prior_slot": "6pm CT",
-  "generated_at": "2026-10-05T04:16:58-05:00",
-  "generated_at_display": "Mon Oct 5, 2026 \u00b7 4:16 AM CT",
-  "commit_hash": "d10d65bd90683774be1d4970e343c97b0e9f2430",
+  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-T7a0Rb4Vl1c",
+  "change_summary": "YT shelf swaps CF Daily Clone 'Jamie Pollard Update' for 'The Importance of Vulnerability for Cyclone Football'; Social unchanged; featured Daily Clones now WVU Preview + Vulnerability",
+  "prior_published_at": "2026-10-05T04:17:30.745796-05:00",
+  "prior_slot": "4am CT",
+  "generated_at": "2026-10-05T08:32:33-05:00",
+  "generated_at_display": "Mon Oct 5, 2026 \u00b7 8:32 AM CT",
   "meaningful": true,
   "daily_clones": [
     {
@@ -18,9 +17,10 @@
       "published_display": "3 days ago"
     },
     {
-      "title": "Jamie Pollard Update | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=TfwvN5WpzSY",
-      "published_display": "4 days ago"
+      "title": "The Importance of Vulnerability for Cyclone Football | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=T7a0Rb4Vl1c",
+      "published_display": "Sep 5, 2026"
     }
-  ]
+  ],
+  "commit_hash": "pending"
 }
