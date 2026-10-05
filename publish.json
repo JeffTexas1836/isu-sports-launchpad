@@ -1,26 +1,25 @@
 {
-  "updated_at": "2026-10-05T14:21:18.681128-05:00",
-  "last_slot": "2pm CT",
+  "updated_at": "2026-10-05T18:18:12.253270-05:00",
+  "last_slot": "6pm CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-C8JbHaZt1h4, yt-NzCmtup4RYs; new high-signal social in top8: cf-aiden-flora-s-five-td-day-nets-him-natio, cf-five-byu-players-to-know-on-friday-night, cf-monday-musings-big-band-of-bald-ballers, ie-aiden-flora-is-unreal-iowa-state-s-break",
-  "change_summary": "New CF Daily Clone 'What did Brend Learn This Weekend?' (Oct 5) now featured with WVU Preview; Social adds CF 'Five BYU players to know', 'Flora five-TD day nets national/Big 12 honors', 'Monday Musings', and IE 'Aiden Flora Is UNREAL!'",
-  "prior_published_at": "2026-10-05T08:33:03.792212-05:00",
-  "prior_slot": "8am CT",
-  "generated_at": "2026-10-05T14:20:56-05:00",
-  "generated_at_display": "Mon Oct 5, 2026 \u00b7 2:20 PM CT",
+  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-afiH3x9ohYc, yt-dHIB6OvVo_0; new high-signal social in top8: ie-aidan-flora-s-historic-day-leads-iowa-st, ie-iowa-state-s-next-great-running-back",
+  "change_summary": "New CF clip 'The importance of the halfback pass' and IE 'Iowa State's Next Great Running Back' join the YouTube shelf; Social adds IE 'Aidan Flora's Historic Day' (Murph & Andy) and 'Next Great Running Back'; featured Daily Clones unchanged (Brend Learn This Weekend + WVU Preview)",
+  "prior_published_at": "2026-10-05T14:21:18.681128-05:00",
+  "prior_slot": "2pm CT",
+  "generated_at": "2026-10-05T18:17:53-05:00",
+  "generated_at_display": "Mon Oct 5, 2026 \u00b7 6:17 PM CT",
   "meaningful": true,
   "daily_clones": [
     {
       "title": "What did Brend Learn This Weekend? DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
-      "published_display": "2 hours ago"
+      "published_display": "6 hours ago"
     },
     {
       "title": "Iowa State vs West Virginia FULL Preview, 3 Keys to the Game, Big 12 Week 5 Preview | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=8AUuf5_Vv-0",
       "published_display": "4 days ago"
     }
-  ],
-  "commit_hash": "d7cdad8d60f20a075b53413e0c8beca68c6b5d26"
+  ]
 }
