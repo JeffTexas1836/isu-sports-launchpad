@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-05T18:18:12.253270-05:00",
-  "last_slot": "6pm CT",
+  "updated_at": "2026-10-06T04:17:19.564314-05:00",
+  "last_slot": "4am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-afiH3x9ohYc, yt-dHIB6OvVo_0; new high-signal social in top8: ie-aidan-flora-s-historic-day-leads-iowa-st, ie-iowa-state-s-next-great-running-back",
-  "change_summary": "New CF clip 'The importance of the halfback pass' and IE 'Iowa State's Next Great Running Back' join the YouTube shelf; Social adds IE 'Aidan Flora's Historic Day' (Murph & Andy) and 'Next Great Running Back'; featured Daily Clones unchanged (Brend Learn This Weekend + WVU Preview)",
-  "prior_published_at": "2026-10-05T14:21:18.681128-05:00",
-  "prior_slot": "2pm CT",
-  "generated_at": "2026-10-05T18:17:53-05:00",
-  "generated_at_display": "Mon Oct 5, 2026 \u00b7 6:17 PM CT",
+  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-pqP9p2w9_zk; new high-signal social in top8: cf-williams-the-next-20-years",
+  "change_summary": "CF 'Cyclones Win Shootout with WVU | BYU Preview | DOWN THE PIPE' joins the YouTube top five; Social leads with CF column 'WILLIAMS: The next 20 years'; featured Daily Clones unchanged (Brend Learn This Weekend + WVU Preview)",
+  "prior_published_at": "2026-10-05T18:18:12.253270-05:00",
+  "prior_slot": "6pm CT",
+  "generated_at": "2026-10-06T04:17:02-05:00",
+  "generated_at_display": "Tue Oct 6, 2026 \u00b7 4:17 AM CT",
   "meaningful": true,
   "daily_clones": [
     {
       "title": "What did Brend Learn This Weekend? DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
-      "published_display": "6 hours ago"
+      "published_display": "16 hours ago"
     },
     {
       "title": "Iowa State vs West Virginia FULL Preview, 3 Keys to the Game, Big 12 Week 5 Preview | DAILY CLONE",

@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-10-05T18:17:53-05:00",
-  "generated_at_display": "Mon Oct 5, 2026 · 6:17 PM CT",
+  "generated_at": "2026-10-06T04:17:02-05:00",
+  "generated_at_display": "Tue Oct 6, 2026 · 4:17 AM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -15,8 +15,8 @@
     "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
     "channel": "Cyclone Fanatic",
     "published": "2026-10-05T12:12:58-05:00",
-    "published_display": "6 hours ago",
-    "views": 1255
+    "published_display": "16 hours ago",
+    "views": 2829
   },
   "daily_clones": [
     {
@@ -25,8 +25,8 @@
       "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-05T12:12:58-05:00",
-      "published_display": "6 hours ago",
-      "views": 1255
+      "published_display": "16 hours ago",
+      "views": 2829
     },
     {
       "found": true,
@@ -75,8 +75,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
       "published": "2026-10-05T12:12:58-05:00",
-      "published_display": "6 hours ago",
-      "views": 1255,
+      "published_display": "16 hours ago",
+      "views": 2829,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -96,17 +96,30 @@
       "rank_score": 99
     },
     {
+      "id": "yt-pqP9p2w9_zk",
+      "title": "Cyclones Win Shootout with WVU | BYU Preview | DOWN THE PIPE",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=pqP9p2w9_zk",
+      "published": "2026-10-05T19:09:41-05:00",
+      "published_display": "9 hours ago",
+      "views": 686,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 98
+    },
+    {
       "id": "yt-afiH3x9ohYc",
       "title": "The importance of the halfback pass",
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=afiH3x9ohYc",
       "published": "2026-10-05T18:14:18-05:00",
-      "published_display": "3 min ago",
-      "views": 1,
+      "published_display": "10 hours ago",
+      "views": 739,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "yt-U0dq1cbpgFg",
@@ -114,12 +127,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=U0dq1cbpgFg",
       "published": "2026-10-05T04:00:16-05:00",
-      "published_display": "14 hours ago",
-      "views": 1412,
+      "published_display": "1 day ago",
+      "views": 1783,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "yt-rPj14elR96I",
@@ -128,11 +141,11 @@
       "url": "https://www.youtube.com/watch?v=rPj14elR96I",
       "published": "2026-10-04T15:05:29-05:00",
       "published_display": "1 day ago",
-      "views": 7003,
+      "views": 7734,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
+      "rank_score": 95
     },
     {
       "id": "yt-7vH-8WmHtXA",
@@ -141,20 +154,7 @@
       "url": "https://www.youtube.com/watch?v=7vH-8WmHtXA",
       "published": "2026-10-04T05:07:06-05:00",
       "published_display": "1 day ago",
-      "views": 2689,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-TvSNIpaBShI",
-      "title": "Jimmy Rogers praises the Cyclone faithful at Jack Trice Stadium",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=TvSNIpaBShI",
-      "published": "2026-10-04T00:07:39-05:00",
-      "published_display": "1 day ago",
-      "views": 2990,
+      "views": 2751,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -166,8 +166,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=dHIB6OvVo_0",
       "published": "2026-10-05T16:27:20-05:00",
-      "published_display": "1 hour ago",
-      "views": 361,
+      "published_display": "11 hours ago",
+      "views": 1986,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -179,8 +179,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=6Q50JM2R4CM",
       "published": "2026-10-05T17:00:25-05:00",
-      "published_display": "1 hour ago",
-      "views": 104,
+      "published_display": "11 hours ago",
+      "views": 1113,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -192,8 +192,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=NzCmtup4RYs",
       "published": "2026-10-05T09:50:17-05:00",
-      "published_display": "8 hours ago",
-      "views": 548,
+      "published_display": "18 hours ago",
+      "views": 1285,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -205,8 +205,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=GTkBX473RcY",
       "published": "2026-10-04T19:53:03-05:00",
-      "published_display": "22 hours ago",
-      "views": 10608,
+      "published_display": "1 day ago",
+      "views": 11589,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -218,8 +218,8 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=Jscl-vxummY",
       "published": "2026-10-05T10:18:21-05:00",
-      "published_display": "7 hours ago",
-      "views": 6119,
+      "published_display": "17 hours ago",
+      "views": 9195,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -231,8 +231,8 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=l-QqtpL_bZg",
       "published": "2026-10-05T09:54:24-05:00",
-      "published_display": "8 hours ago",
-      "views": 47,
+      "published_display": "18 hours ago",
+      "views": 71,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -244,8 +244,8 @@
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=AXSdlcJneYk",
       "published": "2026-10-05T07:37:29-05:00",
-      "published_display": "10 hours ago",
-      "views": 299,
+      "published_display": "20 hours ago",
+      "views": 484,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
@@ -258,7 +258,7 @@
       "url": "https://www.youtube.com/watch?v=gz_dE_fNoqs",
       "published": "2026-10-03T14:43:13-05:00",
       "published_display": "2 days ago",
-      "views": 1023,
+      "views": 1065,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -266,6 +266,23 @@
     }
   ],
   "social": [
+    {
+      "id": "cf-williams-the-next-20-years",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "WILLIAMS: The next 20 years",
+      "url": "https://cyclonefanatic.com/2026/10/williams-the-next-20-years/",
+      "published": "2026-10-05T18:33:16-05:00",
+      "published_display": "Oct 5, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
     {
       "id": "cf-five-byu-players-to-know-on-friday-night",
       "type": "news",
@@ -281,7 +298,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 99
     },
     {
       "id": "cf-aiden-flora-s-five-td-day-nets-him-natio",
@@ -298,7 +315,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 98
     },
     {
       "id": "cf-monday-musings-big-band-of-bald-ballers",
@@ -315,7 +332,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "cf-little-league-teammates-aiden-flora-and",
@@ -332,7 +349,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "cf-notebook-cody-jackson-says-action-and-ry",
@@ -342,23 +359,6 @@
       "text": "NOTEBOOK: Cody Jackson says “action,” and Ryver Pepper returns in ISU’s wild win over West Virginia",
       "url": "https://cyclonefanatic.com/2026/10/notebook-cody-jackson-says-action-and-ryver-pepper-returns-in-isus-wind-win-over-west-virginia/",
       "published": "2026-10-03T18:31:44-05:00",
-      "published_display": "Oct 3, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "cf-peterson-aiden-flora-is-iowa-state-s-new",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "PETERSON: Aiden Flora is Iowa State’s newest Mr. Excitement",
-      "url": "https://cyclonefanatic.com/2026/10/peterson-aiden-flora-is-iowa-states-newest-mr-excitement/",
-      "published": "2026-10-03T17:08:44-05:00",
       "published_display": "Oct 3, 2026",
       "likes": null,
       "retweets": null,
@@ -448,7 +448,7 @@
       "likes": 5875,
       "retweets": 744,
       "replies": 57,
-      "views": 122548,
+      "views": 122558,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 90
@@ -462,10 +462,10 @@
       "url": "https://x.com/YahooSports/status/2099592706225832265",
       "published": "2026-09-14T15:14:44-05:00",
       "published_display": "Sep 14, 2026",
-      "likes": 2772,
+      "likes": 2771,
       "retweets": 160,
       "replies": 21,
-      "views": 63789,
+      "views": 63793,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
       "rank_score": 89
@@ -482,7 +482,7 @@
       "likes": 1249,
       "retweets": 225,
       "replies": 9,
-      "views": 897902,
+      "views": 897922,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 88
