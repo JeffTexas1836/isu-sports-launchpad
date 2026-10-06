@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-10-06T04:17:02-05:00",
-  "generated_at_display": "Tue Oct 6, 2026 · 4:17 AM CT",
+  "generated_at": "2026-10-06T14:24:25-05:00",
+  "generated_at_display": "Tue Oct 6, 2026 · 2:24 PM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -15,8 +15,8 @@
     "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
     "channel": "Cyclone Fanatic",
     "published": "2026-10-05T12:12:58-05:00",
-    "published_display": "16 hours ago",
-    "views": 2829
+    "published_display": "1 day ago",
+    "views": 3375
   },
   "daily_clones": [
     {
@@ -25,8 +25,8 @@
       "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-05T12:12:58-05:00",
-      "published_display": "16 hours ago",
-      "views": 2829
+      "published_display": "1 day ago",
+      "views": 3375
     },
     {
       "found": true,
@@ -34,7 +34,7 @@
       "url": "https://www.youtube.com/watch?v=8AUuf5_Vv-0",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-01T13:38:11-05:00",
-      "published_display": "4 days ago",
+      "published_display": "5 days ago",
       "views": 3872
     }
   ],
@@ -75,8 +75,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
       "published": "2026-10-05T12:12:58-05:00",
-      "published_display": "16 hours ago",
-      "views": 2829,
+      "published_display": "1 day ago",
+      "views": 3375,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -88,7 +88,7 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=8AUuf5_Vv-0",
       "published": "2026-10-01T13:38:11-05:00",
-      "published_display": "4 days ago",
+      "published_display": "5 days ago",
       "views": 3872,
       "sport": "football",
       "is_daily_clone": true,
@@ -96,69 +96,82 @@
       "rank_score": 99
     },
     {
-      "id": "yt-pqP9p2w9_zk",
-      "title": "Cyclones Win Shootout with WVU | BYU Preview | DOWN THE PIPE",
+      "id": "yt-RTgzsdTIuyQ",
+      "title": "Jimmy Rogers Pre-BYU Press Conference",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=pqP9p2w9_zk",
-      "published": "2026-10-05T19:09:41-05:00",
-      "published_display": "9 hours ago",
-      "views": 686,
+      "url": "https://www.youtube.com/watch?v=RTgzsdTIuyQ",
+      "published": "2026-10-06T12:52:12-05:00",
+      "published_display": "1 hour ago",
+      "views": 492,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 98
     },
     {
-      "id": "yt-afiH3x9ohYc",
-      "title": "The importance of the halfback pass",
+      "id": "yt-pqP9p2w9_zk",
+      "title": "Cyclones Win Shootout with WVU | BYU Preview | DOWN THE PIPE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=afiH3x9ohYc",
-      "published": "2026-10-05T18:14:18-05:00",
-      "published_display": "10 hours ago",
-      "views": 739,
+      "url": "https://www.youtube.com/watch?v=pqP9p2w9_zk",
+      "published": "2026-10-06T10:19:32-05:00",
+      "published_display": "4 hours ago",
+      "views": 1236,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 97
     },
     {
-      "id": "yt-U0dq1cbpgFg",
-      "title": "Aiden Flora Is a STAR! Can the Cyclones Shock BYU? | InCYde Zone",
+      "id": "yt-j4i9vCo0IYA",
+      "title": "Jesse Bobbit Pre-BYU Press Conference",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=U0dq1cbpgFg",
-      "published": "2026-10-05T04:00:16-05:00",
-      "published_display": "1 day ago",
-      "views": 1783,
+      "url": "https://www.youtube.com/watch?v=j4i9vCo0IYA",
+      "published": "2026-10-06T12:59:59-05:00",
+      "published_display": "1 hour ago",
+      "views": 138,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 96
     },
     {
-      "id": "yt-rPj14elR96I",
-      "title": "Offensive outburst for the Cyclones on homecoming; date with BYU is next | Williams & Blum",
+      "id": "yt-xgHUVQrykns",
+      "title": "Jesse Bobbit far from satisfied with Cyclone defense",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=rPj14elR96I",
-      "published": "2026-10-04T15:05:29-05:00",
-      "published_display": "1 day ago",
-      "views": 7734,
+      "url": "https://www.youtube.com/watch?v=xgHUVQrykns",
+      "published": "2026-10-06T13:21:01-05:00",
+      "published_display": "1 hour ago",
+      "views": 76,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 95
     },
     {
-      "id": "yt-7vH-8WmHtXA",
-      "title": "Iowa State Wins Shootout Vs West Virginia | The Post-Postgame Show",
+      "id": "yt-2QpLcV3zr3Q",
+      "title": "Best ISU RB Performances of the Last Decade",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=7vH-8WmHtXA",
-      "published": "2026-10-04T05:07:06-05:00",
-      "published_display": "1 day ago",
-      "views": 2751,
+      "url": "https://www.youtube.com/watch?v=2QpLcV3zr3Q",
+      "published": "2026-10-06T10:32:26-05:00",
+      "published_display": "3 hours ago",
+      "views": 139,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
+    },
+    {
+      "id": "yt-7AC-RHgTA08",
+      "title": "Iowa State’s NEXT 20 Years & AI Takes Over College Sports | CW Pod",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=7AC-RHgTA08",
+      "published": "2026-10-06T12:42:08-05:00",
+      "published_display": "1 hour ago",
+      "views": 180,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "yt-dHIB6OvVo_0",
@@ -166,12 +179,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=dHIB6OvVo_0",
       "published": "2026-10-05T16:27:20-05:00",
-      "published_display": "11 hours ago",
-      "views": 1986,
+      "published_display": "21 hours ago",
+      "views": 2726,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "yt-6Q50JM2R4CM",
@@ -179,12 +192,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=6Q50JM2R4CM",
       "published": "2026-10-05T17:00:25-05:00",
-      "published_display": "11 hours ago",
-      "views": 1113,
+      "published_display": "21 hours ago",
+      "views": 1436,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 92
+      "rank_score": 91
     },
     {
       "id": "yt-NzCmtup4RYs",
@@ -192,21 +205,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=NzCmtup4RYs",
       "published": "2026-10-05T09:50:17-05:00",
-      "published_display": "18 hours ago",
-      "views": 1285,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "iowa_everywhere",
-      "rank_score": 91
-    },
-    {
-      "id": "yt-GTkBX473RcY",
-      "title": "Cyclones secure first Big 12 win over WVU, Hawkeyes can't hold on against Ohio State | Two Guys",
-      "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=GTkBX473RcY",
-      "published": "2026-10-04T19:53:03-05:00",
       "published_display": "1 day ago",
-      "views": 11589,
+      "views": 1403,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -218,8 +218,8 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=Jscl-vxummY",
       "published": "2026-10-05T10:18:21-05:00",
-      "published_display": "17 hours ago",
-      "views": 9195,
+      "published_display": "1 day ago",
+      "views": 9598,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -231,21 +231,21 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=l-QqtpL_bZg",
       "published": "2026-10-05T09:54:24-05:00",
-      "published_display": "18 hours ago",
-      "views": 71,
+      "published_display": "1 day ago",
+      "views": 109,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
       "rank_score": 88
     },
     {
-      "id": "yt-AXSdlcJneYk",
-      "title": "EXPLOSIVE: ISU UNLEASHES Best Offense In Big 12 On West Virginia, Unexpected Strength For Cyclones",
+      "id": "yt-17kW_Q9ZRkE",
+      "title": "UPSET ALERT: Iowa State Set To SHOCK BYU Cougars After BIG Win Over West Virginia And BYU Struggles",
       "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=AXSdlcJneYk",
-      "published": "2026-10-05T07:37:29-05:00",
-      "published_display": "20 hours ago",
-      "views": 484,
+      "url": "https://www.youtube.com/watch?v=17kW_Q9ZRkE",
+      "published": "2026-10-06T07:36:30-05:00",
+      "published_display": "6 hours ago",
+      "views": 561,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
@@ -258,7 +258,7 @@
       "url": "https://www.youtube.com/watch?v=gz_dE_fNoqs",
       "published": "2026-10-03T14:43:13-05:00",
       "published_display": "2 days ago",
-      "views": 1065,
+      "views": 1084,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -266,6 +266,23 @@
     }
   ],
   "social": [
+    {
+      "id": "cf-iowa-state-will-face-a-bear-of-a-challen",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "Iowa State will face a “Bear” of a challenge Friday night at No. 8 BYU",
+      "url": "https://cyclonefanatic.com/2026/10/iowa-state-will-face-a-bear-of-a-challenge-friday-night-at-no-8-byu/",
+      "published": "2026-10-06T14:06:51-05:00",
+      "published_display": "Oct 6, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
     {
       "id": "cf-williams-the-next-20-years",
       "type": "news",
@@ -281,7 +298,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 99
     },
     {
       "id": "cf-five-byu-players-to-know-on-friday-night",
@@ -298,7 +315,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 98
     },
     {
       "id": "cf-aiden-flora-s-five-td-day-nets-him-natio",
@@ -315,7 +332,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "cf-monday-musings-big-band-of-bald-ballers",
@@ -332,7 +349,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "cf-little-league-teammates-aiden-flora-and",
@@ -349,24 +366,24 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
+      "rank_score": 95
     },
     {
-      "id": "cf-notebook-cody-jackson-says-action-and-ry",
+      "id": "ie-iowa-state-s-next-20-years-ai-takes-over",
       "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "NOTEBOOK: Cody Jackson says “action,” and Ryver Pepper returns in ISU’s wild win over West Virginia",
-      "url": "https://cyclonefanatic.com/2026/10/notebook-cody-jackson-says-action-and-ryver-pepper-returns-in-isus-wind-win-over-west-virginia/",
-      "published": "2026-10-03T18:31:44-05:00",
-      "published_display": "Oct 3, 2026",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Iowa State’s NEXT 20 Years & AI Takes Over College Sports | CW Pod (YouTube)",
+      "url": "https://www.youtube.com/watch?v=7AC-RHgTA08",
+      "published": "2026-10-06T12:42:08-05:00",
+      "published_display": "Oct 6, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
       "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 94
     },
     {
       "id": "ie-aidan-flora-s-historic-day-leads-iowa-st",
@@ -383,7 +400,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 94
+      "rank_score": 93
     },
     {
       "id": "ie-iowa-state-s-next-great-running-back",
@@ -400,7 +417,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "ie-aiden-flora-is-unreal-iowa-state-s-break",
@@ -411,23 +428,6 @@
       "url": "https://www.youtube.com/watch?v=NzCmtup4RYs",
       "published": "2026-10-05T09:50:17-05:00",
       "published_display": "Oct 5, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
-      "rank_score": 92
-    },
-    {
-      "id": "ie-cyclones-secure-first-big-12-win-over-wv",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "Cyclones secure first Big 12 win over WVU, Hawkeyes can't hold on against Ohio State | Two Guys (YouTube)",
-      "url": "https://www.youtube.com/watch?v=GTkBX473RcY",
-      "published": "2026-10-04T19:53:03-05:00",
-      "published_display": "Oct 4, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
@@ -448,7 +448,7 @@
       "likes": 5875,
       "retweets": 744,
       "replies": 57,
-      "views": 122558,
+      "views": 122566,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 90
@@ -462,7 +462,7 @@
       "url": "https://x.com/YahooSports/status/2099592706225832265",
       "published": "2026-09-14T15:14:44-05:00",
       "published_display": "Sep 14, 2026",
-      "likes": 2771,
+      "likes": 2770,
       "retweets": 160,
       "replies": 21,
       "views": 63793,
@@ -482,7 +482,7 @@
       "likes": 1249,
       "retweets": 225,
       "replies": 9,
-      "views": 897922,
+      "views": 897941,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 88

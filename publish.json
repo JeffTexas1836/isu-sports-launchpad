@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-06T04:17:19.564314-05:00",
-  "last_slot": "4am CT",
-  "last_published": true,
-  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-pqP9p2w9_zk; new high-signal social in top8: cf-williams-the-next-20-years",
-  "change_summary": "CF 'Cyclones Win Shootout with WVU | BYU Preview | DOWN THE PIPE' joins the YouTube top five; Social leads with CF column 'WILLIAMS: The next 20 years'; featured Daily Clones unchanged (Brend Learn This Weekend + WVU Preview)",
-  "prior_published_at": "2026-10-05T18:18:12.253270-05:00",
-  "prior_slot": "6pm CT",
-  "generated_at": "2026-10-06T04:17:02-05:00",
-  "generated_at_display": "Tue Oct 6, 2026 \u00b7 4:17 AM CT",
-  "meaningful": true,
-  "daily_clones": [
-    {
-      "title": "What did Brend Learn This Weekend? DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
-      "published_display": "16 hours ago"
-    },
-    {
-      "title": "Iowa State vs West Virginia FULL Preview, 3 Keys to the Game, Big 12 Week 5 Preview | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=8AUuf5_Vv-0",
-      "published_display": "4 days ago"
-    }
-  ]
+ "updated_at": "2026-10-06T14:24:57.622270-05:00",
+ "last_slot": "2pm CT",
+ "last_published": true,
+ "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
+ "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-2QpLcV3zr3Q, yt-7AC-RHgTA08, yt-RTgzsdTIuyQ, yt-j4i9vCo0IYA, yt-xgHUVQrykns; new high-signal social in top8: cf-iowa-state-will-face-a-bear-of-a-challen, ie-iowa-state-s-next-20-years-ai-takes-over",
+ "change_summary": "CF Jimmy Rogers + Jesse Bobbit Pre-BYU pressers join the YouTube top five; IE 'NEXT 20 Years & AI' CW Pod added; Social leads with CF 'Bear of a challenge at No. 8 BYU'; featured Daily Clones unchanged (Brend Learn This Weekend + WVU Preview)",
+ "prior_published_at": "2026-10-06T04:17:19.564314-05:00",
+ "prior_slot": "4am CT",
+ "generated_at": "2026-10-06T14:24:25-05:00",
+ "generated_at_display": "Tue Oct 6, 2026 \u00b7 2:24 PM CT",
+ "meaningful": true,
+ "daily_clones": [
+  {
+   "title": "What did Brend Learn This Weekend? DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
+   "published_display": "1 day ago"
+  },
+  {
+   "title": "Iowa State vs West Virginia FULL Preview, 3 Keys to the Game, Big 12 Week 5 Preview | DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=8AUuf5_Vv-0",
+   "published_display": "5 days ago"
+  }
+ ]
 }
