@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-10-07T04:25:50-05:00",
-  "generated_at_display": "Wed Oct 7, 2026 · 4:25 AM CT",
+  "generated_at": "2026-10-07T14:27:46-05:00",
+  "generated_at_display": "Wed Oct 7, 2026 · 2:27 PM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -11,31 +11,31 @@
   ],
   "daily_clone": {
     "found": true,
-    "title": "How can Iowa State slow down Bear Bachmeier? | DAILY CLONE",
-    "url": "https://www.youtube.com/watch?v=lH03N3Fv_6E",
+    "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
+    "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
     "channel": "Cyclone Fanatic",
-    "published": "2026-10-06T17:11:16-05:00",
-    "published_display": "11 hours ago",
-    "views": 1002
+    "published": "2026-10-07T13:10:54-05:00",
+    "published_display": "1 hour ago",
+    "views": 110
   },
   "daily_clones": [
+    {
+      "found": true,
+      "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
+      "channel": "Cyclone Fanatic",
+      "published": "2026-10-07T13:10:54-05:00",
+      "published_display": "1 hour ago",
+      "views": 110
+    },
     {
       "found": true,
       "title": "How can Iowa State slow down Bear Bachmeier? | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=lH03N3Fv_6E",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-06T17:11:16-05:00",
-      "published_display": "11 hours ago",
-      "views": 1002
-    },
-    {
-      "found": true,
-      "title": "What did Brend Learn This Weekend? DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
-      "channel": "Cyclone Fanatic",
-      "published": "2026-10-05T12:12:58-05:00",
-      "published_display": "1 day ago",
-      "views": 3680
+      "published_display": "21 hours ago",
+      "views": 1328
     }
   ],
   "sources_note": {
@@ -68,30 +68,69 @@
   },
   "youtube": [
     {
-      "id": "yt-lH03N3Fv_6E",
-      "title": "How can Iowa State slow down Bear Bachmeier? | DAILY CLONE",
+      "id": "yt-3fKdyVHoaQE",
+      "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=lH03N3Fv_6E",
-      "published": "2026-10-06T17:11:16-05:00",
-      "published_display": "11 hours ago",
-      "views": 1002,
+      "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
+      "published": "2026-10-07T13:10:54-05:00",
+      "published_display": "1 hour ago",
+      "views": 110,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 100
     },
     {
-      "id": "yt-C8JbHaZt1h4",
-      "title": "What did Brend Learn This Weekend? DAILY CLONE",
+      "id": "yt-lH03N3Fv_6E",
+      "title": "How can Iowa State slow down Bear Bachmeier? | DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
-      "published": "2026-10-05T12:12:58-05:00",
-      "published_display": "1 day ago",
-      "views": 3680,
+      "url": "https://www.youtube.com/watch?v=lH03N3Fv_6E",
+      "published": "2026-10-06T17:11:16-05:00",
+      "published_display": "21 hours ago",
+      "views": 1328,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 99
+    },
+    {
+      "id": "yt-2G4F6DdiJ_8",
+      "title": "The Flora Game, Stadium Logistics, BYU Preview, & More | The Litecast",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=2G4F6DdiJ_8",
+      "published": "2026-10-07T10:14:45-05:00",
+      "published_display": "4 hours ago",
+      "views": 742,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 98
+    },
+    {
+      "id": "yt-Dm-LjZt9GWA",
+      "title": "Tyrese Haliburton Shoot-around Media Availability",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=Dm-LjZt9GWA",
+      "published": "2026-10-07T11:07:35-05:00",
+      "published_display": "3 hours ago",
+      "views": 376,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 97
+    },
+    {
+      "id": "yt-WcrqToAg-ps",
+      "title": "An opportunity against BYU, the NBA at Hilton | The Beat Reporters",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=WcrqToAg-ps",
+      "published": "2026-10-07T08:43:29-05:00",
+      "published_display": "5 hours ago",
+      "views": 577,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 96
     },
     {
       "id": "yt-yVYVfx-HrwY",
@@ -99,12 +138,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=yVYVfx-HrwY",
       "published": "2026-10-06T17:29:18-05:00",
-      "published_display": "10 hours ago",
-      "views": 3256,
+      "published_display": "20 hours ago",
+      "views": 5235,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 95
     },
     {
       "id": "yt-RTgzsdTIuyQ",
@@ -112,47 +151,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=RTgzsdTIuyQ",
       "published": "2026-10-06T12:52:12-05:00",
-      "published_display": "15 hours ago",
-      "views": 7536,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 97
-    },
-    {
-      "id": "yt-2G4F6DdiJ_8",
-      "title": "The Flora Game, Stadium Logistics, BYU Preview, & More | The Litecast",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=2G4F6DdiJ_8",
-      "published": "2026-10-06T19:43:03-05:00",
-      "published_display": "8 hours ago",
-      "views": 480,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "yt-j4i9vCo0IYA",
-      "title": "Jesse Bobbit Pre-BYU Press Conference",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=j4i9vCo0IYA",
-      "published": "2026-10-06T12:59:59-05:00",
-      "published_display": "15 hours ago",
-      "views": 2634,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-t7tvwV5DXrI",
-      "title": "DL Bryson Lamb Pre-BYU Interview",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=t7tvwV5DXrI",
-      "published": "2026-10-06T15:12:57-05:00",
-      "published_display": "13 hours ago",
-      "views": 693,
+      "published_display": "1 day ago",
+      "views": 8937,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -164,8 +164,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=7AC-RHgTA08",
       "published": "2026-10-06T12:42:08-05:00",
-      "published_display": "15 hours ago",
-      "views": 2181,
+      "published_display": "1 day ago",
+      "views": 2414,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -178,7 +178,7 @@
       "url": "https://www.youtube.com/watch?v=dHIB6OvVo_0",
       "published": "2026-10-05T16:27:20-05:00",
       "published_display": "1 day ago",
-      "views": 3175,
+      "views": 3281,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -191,24 +191,50 @@
       "url": "https://www.youtube.com/watch?v=6Q50JM2R4CM",
       "published": "2026-10-05T17:00:25-05:00",
       "published_display": "1 day ago",
-      "views": 1624,
+      "views": 1641,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
       "rank_score": 91
     },
     {
-      "id": "yt-NzCmtup4RYs",
-      "title": "Aiden Flora Is UNREAL! Iowa State’s Breakout Star Is Much More Than a Gadget Player",
+      "id": "yt-GTkBX473RcY",
+      "title": "Cyclones secure first Big 12 win over WVU, Hawkeyes can't hold on against Ohio State | Two Guys",
       "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=NzCmtup4RYs",
-      "published": "2026-10-05T09:50:17-05:00",
-      "published_display": "1 day ago",
-      "views": 1636,
+      "url": "https://www.youtube.com/watch?v=GTkBX473RcY",
+      "published": "2026-10-04T19:53:03-05:00",
+      "published_display": "2 days ago",
+      "views": 13092,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
       "rank_score": 90
+    },
+    {
+      "id": "yt-Uo5c9nPPJYk",
+      "title": "BIG 12 SQUAD - The CONTENDERS are EMERGING in the Big 12 | Where Iowa State sits",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=Uo5c9nPPJYk",
+      "published": "2026-10-07T12:22:11-05:00",
+      "published_display": "2 hours ago",
+      "views": 0,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
+      "rank_score": 89
+    },
+    {
+      "id": "yt-W6PG9pGcq1k",
+      "title": "WARNING: Jimmy Rogers Is Learning How To DOMINATE With ISU Every Passing Week, BYU In TROUBLE",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=W6PG9pGcq1k",
+      "published": "2026-10-07T07:45:19-05:00",
+      "published_display": "6 hours ago",
+      "views": 211,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
+      "rank_score": 88
     },
     {
       "id": "yt-Jscl-vxummY",
@@ -216,25 +242,12 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=Jscl-vxummY",
       "published": "2026-10-05T10:18:21-05:00",
-      "published_display": "1 day ago",
-      "views": 9964,
+      "published_display": "2 days ago",
+      "views": 10117,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 89
-    },
-    {
-      "id": "yt-ESJ8LSVZlVk",
-      "title": "BIG 12 SQUAD - The CONTENDERS are EMERGING in the Big 12 | Where Iowa State sits",
-      "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=ESJ8LSVZlVk",
-      "published": "2026-10-06T21:18:12-05:00",
-      "published_display": "7 hours ago",
-      "views": 0,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "other",
-      "rank_score": 88
+      "rank_score": 87
     },
     {
       "id": "yt-l-QqtpL_bZg",
@@ -242,28 +255,32 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=l-QqtpL_bZg",
       "published": "2026-10-05T09:54:24-05:00",
-      "published_display": "1 day ago",
-      "views": 161,
+      "published_display": "2 days ago",
+      "views": 181,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 87
-    },
-    {
-      "id": "yt-17kW_Q9ZRkE",
-      "title": "UPSET ALERT: Iowa State Set To SHOCK BYU Cougars After BIG Win Over West Virginia And BYU Struggles",
-      "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=17kW_Q9ZRkE",
-      "published": "2026-10-06T07:36:30-05:00",
-      "published_display": "20 hours ago",
-      "views": 1109,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "other",
       "rank_score": 86
     }
   ],
   "social": [
+    {
+      "id": "cf-peterson-rand-o-thoughts-on-cyclone-frid",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "PETERSON: Rand-O thoughts on Cyclone Friday Night Lights and a CFP history lesson",
+      "url": "https://cyclonefanatic.com/2026/10/peterson-rand-o-thoughts-on-cyclone-friday-night-lights-and-a-cfp-history-lesson/",
+      "published": "2026-10-07T12:29:22-05:00",
+      "published_display": "Oct 7, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
     {
       "id": "cf-iowa-state-will-face-a-bear-of-a-challen",
       "type": "news",
@@ -279,7 +296,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 99
     },
     {
       "id": "cf-williams-the-next-20-years",
@@ -296,7 +313,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 98
     },
     {
       "id": "cf-five-byu-players-to-know-on-friday-night",
@@ -313,7 +330,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "cf-aiden-flora-s-five-td-day-nets-him-natio",
@@ -330,7 +347,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "cf-monday-musings-big-band-of-bald-ballers",
@@ -341,23 +358,6 @@
       "url": "https://cyclonefanatic.com/2026/10/monday-musings-big-band-of-bald-ballers/",
       "published": "2026-10-05T09:13:10-05:00",
       "published_display": "Oct 5, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "cf-little-league-teammates-aiden-flora-and",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "Little League teammates Aiden Flora and Vince Benetti are now big-time players for Iowa State",
-      "url": "https://cyclonefanatic.com/2026/10/little-league-teammates-aiden-flora-and-vince-benetti-are-now-big-time-players-for-iowa-state/",
-      "published": "2026-10-04T15:05:00-05:00",
-      "published_display": "Oct 4, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
@@ -418,14 +418,14 @@
       "rank_score": 92
     },
     {
-      "id": "ie-aiden-flora-is-unreal-iowa-state-s-break",
+      "id": "ie-cyclones-secure-first-big-12-win-over-wv",
       "type": "news",
       "author": "Iowa Everywhere",
       "author_name": "Iowa Everywhere",
-      "text": "Aiden Flora Is UNREAL! Iowa State’s Breakout Star Is Much More Than a Gadget Player (YouTube)",
-      "url": "https://www.youtube.com/watch?v=NzCmtup4RYs",
-      "published": "2026-10-05T09:50:17-05:00",
-      "published_display": "Oct 5, 2026",
+      "text": "Cyclones secure first Big 12 win over WVU, Hawkeyes can't hold on against Ohio State | Two Guys (YouTube)",
+      "url": "https://www.youtube.com/watch?v=GTkBX473RcY",
+      "published": "2026-10-04T19:53:03-05:00",
+      "published_display": "Oct 4, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
@@ -446,7 +446,7 @@
       "likes": 5876,
       "retweets": 744,
       "replies": 57,
-      "views": 122574,
+      "views": 122588,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 90
@@ -480,7 +480,7 @@
       "likes": 1249,
       "retweets": 225,
       "replies": 9,
-      "views": 897973,
+      "views": 897995,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 88

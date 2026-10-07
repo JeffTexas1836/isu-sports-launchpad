@@ -1,25 +1,25 @@
 {
- "updated_at": "2026-10-07T04:26:07.072650-05:00",
- "last_slot": "4am CT",
- "last_published": true,
- "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
- "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-2G4F6DdiJ_8",
- "change_summary": "New CF Litecast 'The Flora Game, Stadium Logistics, BYU Preview, & More' joins the top five; Daily Clones unchanged (Bachmeier + Brend Learn This Weekend)",
- "prior_published_at": "2026-10-06T18:23:35.461334-05:00",
- "prior_slot": "6pm CT",
- "generated_at": "2026-10-07T04:25:50-05:00",
- "generated_at_display": "Wed Oct 7, 2026 \u00b7 4:25 AM CT",
- "meaningful": true,
- "daily_clones": [
-  {
-   "title": "How can Iowa State slow down Bear Bachmeier? | DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=lH03N3Fv_6E",
-   "published_display": "11 hours ago"
-  },
-  {
-   "title": "What did Brend Learn This Weekend? DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=C8JbHaZt1h4",
-   "published_display": "1 day ago"
-  }
- ]
+  "updated_at": "2026-10-07T14:28:03.888148-05:00",
+  "last_slot": "2pm CT",
+  "last_published": true,
+  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-3fKdyVHoaQE, yt-Dm-LjZt9GWA, yt-WcrqToAg-ps; new high-signal social in top8: cf-peterson-rand-o-thoughts-on-cyclone-frid",
+  "change_summary": "New CF Daily Clone 'Haliburton Homecoming at Hilton' leads; Daily Clones now Haliburton + Bachmeier (Brend drops off). Also new: CF Haliburton shoot-around media availability, CF Beat Reporters (BYU / NBA at Hilton), Peterson Rand-O thoughts column",
+  "prior_published_at": "2026-10-07T04:26:07.072650-05:00",
+  "prior_slot": "4am CT",
+  "generated_at": "2026-10-07T14:27:46-05:00",
+  "generated_at_display": "Wed Oct 7, 2026 · 2:27 PM CT",
+  "meaningful": true,
+  "daily_clones": [
+    {
+      "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
+      "published_display": "1 hour ago"
+    },
+    {
+      "title": "How can Iowa State slow down Bear Bachmeier? | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=lH03N3Fv_6E",
+      "published_display": "21 hours ago"
+    }
+  ]
 }
