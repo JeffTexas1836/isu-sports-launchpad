@@ -1,20 +1,20 @@
 {
- "updated_at": "2026-10-06T18:23:35.461334-05:00",
- "last_slot": "6pm CT",
+ "updated_at": "2026-10-07T04:26:07.072650-05:00",
+ "last_slot": "4am CT",
  "last_published": true,
  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
- "reason": "Daily Clone URL changed; YouTube top5 membership changed; new high-signal YT in top8: yt-BKPZDMtU944, yt-lH03N3Fv_6E, yt-t7tvwV5DXrI, yt-yVYVfx-HrwY",
- "change_summary": "New CF Daily Clone 'How can Iowa State slow down Bear Bachmeier?' now leads (featured pair: Bachmeier + Brend Learn This Weekend; WVU Preview rotated out); CF 'Can Iowa State Beat No. 8 BYU?' (Williams & Blum) plus DL Bryson Lamb and TE Vince Benetti Pre-BYU interviews added",
- "prior_published_at": "2026-10-06T14:24:57.622270-05:00",
- "prior_slot": "2pm CT",
- "generated_at": "2026-10-06T18:23:26-05:00",
- "generated_at_display": "Tue Oct 6, 2026 \u00b7 6:23 PM CT",
+ "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-2G4F6DdiJ_8",
+ "change_summary": "New CF Litecast 'The Flora Game, Stadium Logistics, BYU Preview, & More' joins the top five; Daily Clones unchanged (Bachmeier + Brend Learn This Weekend)",
+ "prior_published_at": "2026-10-06T18:23:35.461334-05:00",
+ "prior_slot": "6pm CT",
+ "generated_at": "2026-10-07T04:25:50-05:00",
+ "generated_at_display": "Wed Oct 7, 2026 \u00b7 4:25 AM CT",
  "meaningful": true,
  "daily_clones": [
   {
    "title": "How can Iowa State slow down Bear Bachmeier? | DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=lH03N3Fv_6E",
-   "published_display": "1 hour ago"
+   "published_display": "11 hours ago"
   },
   {
    "title": "What did Brend Learn This Weekend? DAILY CLONE",
