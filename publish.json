@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-08T04:19:19-05:00",
-  "last_slot": "4am CT",
+  "updated_at": "2026-10-08T08:41:06-05:00",
+  "last_slot": "8am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-R7jFX-tjTOc, yt-ofL0GHAKmmU, yt-pDECKWC_lJU, yt-u8zt2RSO1lg; new high-signal social in top8: cf-tyrese-haliburton-s-long-awaited-return, cf-tyrese-s-homecoming-postgame-report-with, cf-watch-tyrese-haliburton-and-rick-carlisl, ie-iowa-iowa-state-head-west-qb-questions-a",
-  "change_summary": "Daily Clones unchanged (Haliburton Homecoming + Bachmeier). New: CF Haliburton homecoming coverage (Postgame Report with Jake Brend, Haliburton and Rick Carlisle pressers, Carlisle on Hilton atmosphere, CF articles on Haliburton's return), Iowa Everywhere The Committee (QB questions, Aiden Flora, BYU)",
-  "prior_published_at": "2026-10-07T18:16:43.034136-05:00",
-  "prior_slot": "6pm CT",
-  "generated_at": "2026-10-08T04:19:19-05:00",
-  "generated_at_display": "Thu Oct 8, 2026 · 4:19 AM CT",
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; new high-signal YT in top8: yt-Vc9IuZ2c0Jk",
+  "change_summary": "New Daily Clone: Three Keys to Iowa State @ BYU (replaces Bachmeier episode in the featured pair; Haliburton Homecoming stays #2). YouTube top5 reshuffled with new BYU Daily Clone + CFAD Interrogates Talkin' BYU; CF Haliburton homecoming coverage still leads social.",
+  "prior_published_at": "2026-10-08T04:19:19-05:00",
+  "prior_slot": "4am CT",
+  "generated_at": "2026-10-08T08:41:06-05:00",
+  "generated_at_display": "Thu Oct 8, 2026 \u00b7 8:41 AM CT",
   "meaningful": true,
   "daily_clones": [
     {
-      "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
-      "published_display": "15 hours ago"
+      "title": "Three Keys to Iowa State @ BYU | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=Vc9IuZ2c0Jk",
+      "published_display": "40 min ago"
     },
     {
-      "title": "How can Iowa State slow down Bear Bachmeier? | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=lH03N3Fv_6E",
-      "published_display": "1 day ago"
+      "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
+      "published_display": "19 hours ago"
     }
   ]
 }

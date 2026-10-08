@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-10-08T04:19:19-05:00",
-  "generated_at_display": "Thu Oct 8, 2026 · 4:19 AM CT",
+  "generated_at": "2026-10-08T08:41:06-05:00",
+  "generated_at_display": "Thu Oct 8, 2026 · 8:41 AM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -11,31 +11,31 @@
   ],
   "daily_clone": {
     "found": true,
-    "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
-    "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
+    "title": "Three Keys to Iowa State @ BYU | DAILY CLONE",
+    "url": "https://www.youtube.com/watch?v=Vc9IuZ2c0Jk",
     "channel": "Cyclone Fanatic",
-    "published": "2026-10-07T13:10:54-05:00",
-    "published_display": "15 hours ago",
-    "views": 1228
+    "published": "2026-10-08T08:00:23-05:00",
+    "published_display": "40 min ago",
+    "views": 44
   },
   "daily_clones": [
+    {
+      "found": true,
+      "title": "Three Keys to Iowa State @ BYU | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=Vc9IuZ2c0Jk",
+      "channel": "Cyclone Fanatic",
+      "published": "2026-10-08T08:00:23-05:00",
+      "published_display": "40 min ago",
+      "views": 44
+    },
     {
       "found": true,
       "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-07T13:10:54-05:00",
-      "published_display": "15 hours ago",
-      "views": 1228
-    },
-    {
-      "found": true,
-      "title": "How can Iowa State slow down Bear Bachmeier? | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=lH03N3Fv_6E",
-      "channel": "Cyclone Fanatic",
-      "published": "2026-10-06T17:11:16-05:00",
-      "published_display": "1 day ago",
-      "views": 1660
+      "published_display": "19 hours ago",
+      "views": 1268
     }
   ],
   "sources_note": {
@@ -68,30 +68,43 @@
   },
   "youtube": [
     {
-      "id": "yt-3fKdyVHoaQE",
-      "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
+      "id": "yt-Vc9IuZ2c0Jk",
+      "title": "Three Keys to Iowa State @ BYU | DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
-      "published": "2026-10-07T13:10:54-05:00",
-      "published_display": "15 hours ago",
-      "views": 1228,
+      "url": "https://www.youtube.com/watch?v=Vc9IuZ2c0Jk",
+      "published": "2026-10-08T08:00:23-05:00",
+      "published_display": "40 min ago",
+      "views": 44,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 100
     },
     {
-      "id": "yt-lH03N3Fv_6E",
-      "title": "How can Iowa State slow down Bear Bachmeier? | DAILY CLONE",
+      "id": "yt-3fKdyVHoaQE",
+      "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=lH03N3Fv_6E",
-      "published": "2026-10-06T17:11:16-05:00",
-      "published_display": "1 day ago",
-      "views": 1660,
+      "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
+      "published": "2026-10-07T13:10:54-05:00",
+      "published_display": "19 hours ago",
+      "views": 1268,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 99
+    },
+    {
+      "id": "yt-pOM4QMnmW-E",
+      "title": "Talkin' BYU With Jake Hatch | CFAD Interrogates",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=pOM4QMnmW-E",
+      "published": "2026-10-08T06:41:28-05:00",
+      "published_display": "1 hour ago",
+      "views": 400,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 98
     },
     {
       "id": "yt-ofL0GHAKmmU",
@@ -99,12 +112,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=ofL0GHAKmmU",
       "published": "2026-10-07T22:23:00-05:00",
-      "published_display": "5 hours ago",
-      "views": 459,
+      "published_display": "10 hours ago",
+      "views": 634,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "yt-R7jFX-tjTOc",
@@ -112,12 +125,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=R7jFX-tjTOc",
       "published": "2026-10-07T21:30:39-05:00",
-      "published_display": "6 hours ago",
-      "views": 681,
+      "published_display": "11 hours ago",
+      "views": 861,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "yt-u8zt2RSO1lg",
@@ -125,12 +138,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=u8zt2RSO1lg",
       "published": "2026-10-07T21:28:08-05:00",
-      "published_display": "6 hours ago",
-      "views": 587,
+      "published_display": "11 hours ago",
+      "views": 791,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
+      "rank_score": 95
     },
     {
       "id": "yt-pDECKWC_lJU",
@@ -138,21 +151,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=pDECKWC_lJU",
       "published": "2026-10-07T21:19:49-05:00",
-      "published_display": "6 hours ago",
-      "views": 246,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-pOM4QMnmW-E",
-      "title": "Talkin' BYU With Jake Hatch | CFAD Interrogates",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=pOM4QMnmW-E",
-      "published": "2026-10-07T17:57:06-05:00",
-      "published_display": "10 hours ago",
-      "views": 343,
+      "published_display": "11 hours ago",
+      "views": 386,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -164,8 +164,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=QEACxkwhxfo",
       "published": "2026-10-07T21:04:36-05:00",
-      "published_display": "7 hours ago",
-      "views": 3997,
+      "published_display": "11 hours ago",
+      "views": 4480,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -177,8 +177,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=uTSaNZ6o8hA",
       "published": "2026-10-07T18:25:59-05:00",
-      "published_display": "9 hours ago",
-      "views": 858,
+      "published_display": "14 hours ago",
+      "views": 981,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -191,7 +191,7 @@
       "url": "https://www.youtube.com/watch?v=7AC-RHgTA08",
       "published": "2026-10-06T12:42:08-05:00",
       "published_display": "1 day ago",
-      "views": 2753,
+      "views": 2759,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -204,11 +204,24 @@
       "url": "https://www.youtube.com/watch?v=dHIB6OvVo_0",
       "published": "2026-10-05T16:27:20-05:00",
       "published_display": "2 days ago",
-      "views": 3420,
+      "views": 3443,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
       "rank_score": 90
+    },
+    {
+      "id": "yt-rcFugIrOOdU",
+      "title": "BREAKING: BYU Will STRUGGLE Against Cyclones Without KEY Offensive Players, ISU UPSET Incoming",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=rcFugIrOOdU",
+      "published": "2026-10-08T07:30:29-05:00",
+      "published_display": "1 hour ago",
+      "views": 24,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
+      "rank_score": 89
     },
     {
       "id": "yt-Uo5c9nPPJYk",
@@ -216,12 +229,12 @@
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=Uo5c9nPPJYk",
       "published": "2026-10-07T16:00:08-05:00",
-      "published_display": "12 hours ago",
-      "views": 155,
+      "published_display": "16 hours ago",
+      "views": 174,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
-      "rank_score": 89
+      "rank_score": 88
     },
     {
       "id": "yt-Jscl-vxummY",
@@ -230,11 +243,11 @@
       "url": "https://www.youtube.com/watch?v=Jscl-vxummY",
       "published": "2026-10-05T10:18:21-05:00",
       "published_display": "2 days ago",
-      "views": 10301,
+      "views": 10317,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 88
+      "rank_score": 87
     },
     {
       "id": "yt-W6PG9pGcq1k",
@@ -242,24 +255,11 @@
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=W6PG9pGcq1k",
       "published": "2026-10-07T07:45:19-05:00",
-      "published_display": "20 hours ago",
-      "views": 400,
+      "published_display": "1 day ago",
+      "views": 413,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
-      "rank_score": 87
-    },
-    {
-      "id": "yt-gz_dE_fNoqs",
-      "title": "Football Highlights vs. West Virginia (2026)",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=gz_dE_fNoqs",
-      "published": "2026-10-03T14:43:13-05:00",
-      "published_display": "4 days ago",
-      "views": 1112,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
       "rank_score": 86
     }
   ],
@@ -435,6 +435,23 @@
       "rank_score": 91
     },
     {
+      "id": "x-2108032474421117181",
+      "type": "x",
+      "author": "@Pacers",
+      "author_name": "Indiana Pacers",
+      "text": "Thank you Iowa State ❤️💛",
+      "url": "https://x.com/Pacers/status/2108032474421117181",
+      "published": "2026-10-07T22:11:21-05:00",
+      "published_display": "Oct 7, 2026",
+      "likes": 1230,
+      "retweets": 67,
+      "replies": 12,
+      "views": 19924,
+      "topic": "X / social",
+      "source_priority": "other",
+      "rank_score": 90
+    },
+    {
       "id": "x-2098256013858165182",
       "type": "x",
       "author": "@realapp",
@@ -446,10 +463,44 @@
       "likes": 5874,
       "retweets": 744,
       "replies": 57,
-      "views": 122606,
+      "views": 122608,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
-      "rank_score": 90
+      "rank_score": 89
+    },
+    {
+      "id": "x-2108025887086280850",
+      "type": "x",
+      "author": "@CycloneMBB",
+      "author_name": "Iowa State Men’s Basketball",
+      "text": "What a Night in Ames, Iowa.\n\nThank You, @Pacers.\n\n#Cyclones | #C5C",
+      "url": "https://x.com/CycloneMBB/status/2108025887086280850",
+      "published": "2026-10-07T21:45:11-05:00",
+      "published_display": "Oct 7, 2026",
+      "likes": 534,
+      "retweets": 20,
+      "replies": 4,
+      "views": 6304,
+      "topic": "X / social",
+      "source_priority": "other",
+      "rank_score": 88
+    },
+    {
+      "id": "x-2108015287882719292",
+      "type": "x",
+      "author": "@cyclonefanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "Tyrese Haliburton has no clue why Braden Smith got booed every time he touched the ball.\n\nAdding to his confusion, \"we beat the shit out of Purdue.\"",
+      "url": "https://x.com/cyclonefanatic/status/2108015287882719292",
+      "published": "2026-10-07T21:03:04-05:00",
+      "published_display": "Oct 7, 2026",
+      "likes": 499,
+      "retweets": 9,
+      "replies": null,
+      "views": 14165,
+      "topic": "X / social",
+      "source_priority": "other",
+      "rank_score": 87
     },
     {
       "id": "x-2099592706225832265",
@@ -466,57 +517,6 @@
       "views": 63797,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
-      "rank_score": 89
-    },
-    {
-      "id": "x-2096309361005969853",
-      "type": "x",
-      "author": "@CycloneFB",
-      "author_name": "Iowa State Football",
-      "text": "BENI 😲🤯\n\n@beni_ngoyi \n\n📺 ESPN+ // #SCTop10",
-      "url": "https://x.com/CycloneFB/status/2096309361005969853",
-      "published": "2026-09-05T13:47:53-05:00",
-      "published_display": "Sep 5, 2026",
-      "likes": 1249,
-      "retweets": 225,
-      "replies": 9,
-      "views": 898025,
-      "topic": "Official — SEMO highlight",
-      "source_priority": "other",
-      "rank_score": 88
-    },
-    {
-      "id": "news-2026-9-16-football-cyclones-in-the-nfl-2",
-      "type": "news",
-      "author": "Iowa State Athletics",
-      "author_name": "Iowa State Athletics",
-      "text": "Cyclones in the NFL: Week 1 Recap — 13 Cyclones took the field; Purdy, Montgomery, and more.",
-      "url": "https://cyclones.com/news/2026/9/16/football-cyclones-in-the-nfl-2week-1-recap",
-      "published": "2026-09-16T08:00:00-05:00",
-      "published_display": "Sep 16, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Official news",
-      "source_priority": "official",
-      "rank_score": 87
-    },
-    {
-      "id": "news-2026-9-15-football-primer-iowa-state-vs",
-      "type": "news",
-      "author": "Iowa State Athletics",
-      "author_name": "Iowa State Athletics",
-      "text": "PRIMER: Iowa State vs. Bowling Green — Saturday, Sept. 19, 11 a.m. CT on ESPNU at Jack Trice Stadium.",
-      "url": "https://cyclones.com/news/2026/9/15/football-primer-iowa-state-vs-bowling-green",
-      "published": "2026-09-15T12:00:00-05:00",
-      "published_display": "Sep 15, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Gameday primer",
-      "source_priority": "official",
       "rank_score": 86
     }
   ]
