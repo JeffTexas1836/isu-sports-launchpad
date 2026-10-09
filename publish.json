@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-08T15:06:56-05:00",
-  "last_slot": "2pm CT",
+  "updated_at": "2026-10-09T04:22:57-05:00",
+  "last_slot": "4am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--GJgyNTGuLQ, yt-E2lpJf3MUEk, yt-uTSaNZ6o8hA; new high-signal social in top8: cf-cf-staff-picks-iowa-state-at-no-8-byu, cf-isu-de-malaki-ta-ase-s-a-loving-husband, ie-do-the-cyclones-have-a-real-shot-at-the",
-  "change_summary": "YouTube top5 refreshed with CF Pregame (Iowa State Can SHOCK BYU?) and Night Cap Flora/BYU preview joining the two Daily Clones; social top5 now led by CF Staff Picks at No. 8 BYU and Malaki Ta'ase feature, with Haliburton homecoming coverage still strong.",
-  "prior_published_at": "2026-10-08T08:41:06-05:00",
-  "prior_slot": "8am CT",
-  "generated_at": "2026-10-08T15:06:56-05:00",
-  "generated_at_display": "Thu Oct 8, 2026 \u00b7 3:06 PM CT",
+  "reason": "new high-signal YT in top8: yt-mHOvFgJXpLA; new high-signal social in top8: ie-iowa-nice-guy-cyclones-travel-to-byu",
+  "change_summary": "Iowa Everywhere's IOWA NICE GUY: Cyclones travel to BYU joins the top 8 on YouTube and social; Daily Clones and top 5s unchanged. Overnight X adds CycloneMBB Haliburton video and Jake Brend in Provo.",
+  "prior_published_at": "2026-10-08T15:06:56-05:00",
+  "prior_slot": "2pm CT",
+  "generated_at": "2026-10-09T04:22:57-05:00",
+  "generated_at_display": "Fri Oct 9, 2026 \u00b7 4:22 AM CT",
   "meaningful": true,
   "daily_clones": [
     {
       "title": "Three Keys to Iowa State @ BYU | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=Vc9IuZ2c0Jk",
-      "published_display": "7 hours ago"
+      "published_display": "20 hours ago"
     },
     {
       "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
