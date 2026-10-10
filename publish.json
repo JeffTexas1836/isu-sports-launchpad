@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-10T04:22:36-05:00",
-  "last_slot": "4am CT",
+  "updated_at": "2026-10-10T08:20:47-05:00",
+  "last_slot": "8am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-5BiIQhXJq-c, yt-Oeem58kQ5Bc, yt-ku0UP6THJP8, yt-r9Y9dYs8ygk; new high-signal social in top8: cf-byu-recap-with-jake-brend, cf-peterson-again-if-only-iowa-state-had-an, cf-radio-recap-missed-tackles-offensive-woe",
-  "change_summary": "Postgame refresh after ISU's 24-10 loss at No. 8 BYU: CF Postgame, Jimmy Rogers presser, After Dark 2nd half, and BYU Recap with Jake Brend join the YouTube top 8; CF radio recap + Peterson column lead social; CycloneFB 'Final.' and CF presser posts added. Daily Clones unchanged (Three Keys @ BYU + Haliburton Homecoming).",
-  "prior_published_at": "2026-10-09T18:21:36-05:00",
-  "prior_slot": "6pm CT",
-  "generated_at": "2026-10-10T04:22:36-05:00",
-  "generated_at_display": "Sat Oct 10, 2026 \u00b7 4:22 AM CT",
+  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal social in top8: cf-big-12-buzz-week-6-is-here",
+  "change_summary": "Light Saturday-morning refresh: CF 'Big 12 Buzz: Week 6 is here' leads social; BYU Recap with Jake Brend video moves into YT top 5; CycloneFB Beni Ngoyi SC Top 10 post added. Daily Clones unchanged (Three Keys @ BYU + Haliburton Homecoming); fixed drift that briefly flipped their order.",
+  "prior_published_at": "2026-10-10T04:22:36-05:00",
+  "prior_slot": "4am CT",
+  "generated_at": "2026-10-10T08:20:47-05:00",
+  "generated_at_display": "Sat Oct 10, 2026 \u00b7 8:20 AM CT",
   "meaningful": true,
   "daily_clones": [
     {
       "title": "Three Keys to Iowa State @ BYU | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=Vc9IuZ2c0Jk",
-      "published_display": "1 day ago"
+      "published_display": "2 days ago"
     },
     {
       "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
