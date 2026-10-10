@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-10T08:20:47-05:00",
-  "last_slot": "8am CT",
+  "updated_at": "2026-10-10T14:20:31-05:00",
+  "last_slot": "2pm CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal social in top8: cf-big-12-buzz-week-6-is-here",
-  "change_summary": "Light Saturday-morning refresh: CF 'Big 12 Buzz: Week 6 is here' leads social; BYU Recap with Jake Brend video moves into YT top 5; CycloneFB Beni Ngoyi SC Top 10 post added. Daily Clones unchanged (Three Keys @ BYU + Haliburton Homecoming); fixed drift that briefly flipped their order.",
-  "prior_published_at": "2026-10-10T04:22:36-05:00",
-  "prior_slot": "4am CT",
-  "generated_at": "2026-10-10T08:20:47-05:00",
-  "generated_at_display": "Sat Oct 10, 2026 \u00b7 8:20 AM CT",
+  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-A6Lw6t9o65k, yt-WHACUloymZg, yt-wxOyH_1V5x8; new high-signal social in top8: ie-iowa-state-s-offense-gets-exposed-in-byu",
+  "change_summary": "Saturday-afternoon refresh: Iowa Everywhere 'Iowa State's Offense Gets Exposed in BYU Loss | Instant Iowa State' and CF 'Rogers on Offensive Struggles' video enter the lineup; new CycloneMBB Blake Buchanan post and CF Rogers offense clip on X. Daily Clones unchanged (Three Keys @ BYU + Haliburton Homecoming); pinned Daily Clone publish times to stop order drift.",
+  "prior_published_at": "2026-10-10T08:20:47-05:00",
+  "prior_slot": "8am CT",
+  "generated_at": "2026-10-10T14:20:31-05:00",
+  "generated_at_display": "Sat Oct 10, 2026 \u00b7 2:20 PM CT",
   "meaningful": true,
   "daily_clones": [
     {
@@ -19,7 +19,7 @@
     {
       "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
-      "published_display": "2 days ago"
+      "published_display": "3 days ago"
     }
   ]
 }
