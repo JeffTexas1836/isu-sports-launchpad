@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-10T18:19:22-05:00",
-  "last_slot": "6pm CT",
+  "updated_at": "2026-10-11T14:26:11-05:00",
+  "last_slot": "2pm CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-0kewvLSH4S0",
-  "change_summary": "Saturday-evening refresh: new Cyclone Fanatic 'Iowa State Falls In Provo | Post-Postgame Show' enters YouTube top 3. Daily Clones unchanged (Three Keys @ BYU + Haliburton Homecoming); social lineup unchanged.",
-  "prior_published_at": "2026-10-10T14:20:31-05:00",
-  "prior_slot": "2pm CT",
-  "generated_at": "2026-10-10T18:19:22-05:00",
-  "generated_at_display": "Sat Oct 10, 2026 \u00b7 6:19 PM CT",
+  "reason": "new high-signal YT in top8: yt-H3BBtUVwOoo; new high-signal social in top8: ie-hecklinski-leads-iowa-to-a-win-at-washin",
+  "change_summary": "Sunday-afternoon refresh: new Iowa Everywhere 'Two Guys' episode (Hecklinski leads Iowa to a win at Washington, Cyclones struggle at BYU) enters YouTube top 8 and social; new X posts on Jaylin Noel's first NFL touchdown of the season (CycloneFB + Cyclone Fanatic). Daily Clones unchanged (Three Keys @ BYU + Haliburton Homecoming).",
+  "prior_published_at": "2026-10-10T18:19:22-05:00",
+  "prior_slot": "6pm CT",
+  "generated_at": "2026-10-11T14:26:11-05:00",
+  "generated_at_display": "Sun Oct 11, 2026 \u00b7 2:26 PM CT",
   "meaningful": true,
   "daily_clones": [
     {
       "title": "Three Keys to Iowa State @ BYU | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=Vc9IuZ2c0Jk",
-      "published_display": "2 days ago"
+      "published_display": "3 days ago"
     },
     {
       "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
-      "published_display": "3 days ago"
+      "published_display": "4 days ago"
     }
   ]
 }
