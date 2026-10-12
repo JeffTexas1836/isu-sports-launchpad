@@ -1,25 +1,27 @@
 {
-  "updated_at": "2026-10-12T04:23:49-05:00",
-  "last_slot": "4am CT",
+  "updated_at": "2026-10-12T14:28:11-05:00",
+  "last_slot": "2pm CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; new CF InCYde Zone + Williams & Blum in top 5",
-  "change_summary": "Monday 4am refresh: CF InCYde Zone (BYU loss exposes major problems, can a bye fix it?) and CF Williams & Blum (assessing the Cyclones heading into the bye week) enter YT top 5; new CF/IE X posts added to social pool; Daily Clones unchanged (Three Keys @ BYU + Haliburton Homecoming).",
-  "prior_published_at": "2026-10-11T18:21:56-05:00",
-  "prior_slot": "6pm CT",
-  "generated_at": "2026-10-12T04:23:49-05:00",
-  "generated_at_display": "Mon Oct 12, 2026 \u00b7 4:23 AM CT",
+  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-3TyoDKeyDVA, yt-ZJg4cTV4JZg, yt-b2MB8_KXoeg; new high-signal social in top8: cf-bill-fennelly-announces-that-2026-27-wil, cf-t-j-otzelberger-media-day-press-conferen, cf-tamin-lipsey-s-already-elevated-isu-s-pr, ie-is-it-time-for-iowa-state-to-make-a-chan, ie-should-connor-moberly-get-more-snaps-at",
+  "change_summary": "Monday 2pm CT refresh: Bill Fennelly retirement news + MBB media day surge. Social top5 now led by Fennelly's final-season announcement, Lipsey elevating practices, and Otzelberger media day presser (vs 8am's Big 12 Buzz / BYU recap / radio recap). YT top5 adds Otzelberger Media Day Press Conference + 2026 MBB Media Day 1-on-1 Special (InCYde Zone BYU loss slides to #5; Williams & Blum bye-week episode drops out of top5). Daily Clones unchanged (Three Keys @ BYU + Haliburton Homecoming). vs last publish 4am (8a2f2c7): social shelf fully reshuffled with Fennelly/Lipsey/media-day; YT gains media-day pair beyond the 4am InCYde/Williams&Blum adds.",
+  "prior_published_at": "2026-10-12T04:23:49-05:00",
+  "prior_slot": "4am CT",
+  "generated_at": "2026-10-12T14:28:11-05:00",
+  "generated_at_display": "Mon Oct 12, 2026 \u00b7 2:28 PM CT",
   "meaningful": true,
   "daily_clones": [
     {
       "title": "Three Keys to Iowa State @ BYU | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=Vc9IuZ2c0Jk",
-      "published_display": "3 days ago"
+      "published_display": "4 days ago"
     },
     {
       "title": "Haliburton Homecoming at Hilton | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=3fKdyVHoaQE",
-      "published_display": "4 days ago"
+      "published_display": "5 days ago"
     }
-  ]
+  ],
+  "last_actual_publish_at": "2026-10-12T14:28:11-05:00",
+  "last_actual_publish_commit": "5c372f9"
 }
