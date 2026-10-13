@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-12T18:25:29-05:00",
-  "last_slot": "6pm CT",
+  "updated_at": "2026-10-13T04:18:55-05:00",
+  "last_slot": "4am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; new high-signal YT in top8: yt-CDxRnZkL6Ow, yt-as4tyDJPodM",
-  "change_summary": "Monday 6pm CT refresh: NEW Daily Clone \u2014 Media Day Takeaways with Jake Brend (CDxRnZkL6Ow) displaces Haliburton Homecoming as #2 featured; Three Keys @ BYU stays as second Daily Clone. YT top5 now led by new Daily Clone + Three Keys, then MBB Media Day 1-on-1, Otzelberger Media Day Presser, and Bill Fennelly retiring after 2026-27 (Haliburton Homecoming + InCYde Zone BYU loss drop out of top5). Social top5 membership unchanged (Fennelly retirement / Lipsey / Otzelberger / Big 12 Buzz / BYU recap). vs last publish 2pm CT (71e8133): Daily Clone URL change is the headline.",
-  "prior_published_at": "2026-10-12T14:28:11-05:00",
-  "prior_slot": "2pm CT",
-  "generated_at": "2026-10-12T18:25:29-05:00",
-  "generated_at_display": "Mon Oct 12, 2026 \u00b7 6:25 PM CT",
+  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-49EXoFIJZ5c, yt-Am0GPXK3dpY; new high-signal social in top8: cf-2026-men-s-basketball-media-day-1-on-1-s, cf-jake-brend-s-experience-in-provo, cf-peterson-bill-fennelly-will-forever-be-i",
+  "change_summary": "Tuesday 4am CT refresh: Daily Clones unchanged (Media Day Takeaways with Jake Brend + Three Keys @ BYU). New Cyclone Fanatic content moves up: 'Jake Brend's Experience in Provo' and 'Tamin Seeking March Success' enter YT top5 (Otzelberger presser and Fennelly retirement video drop out); CF social top now leads with Jake Brend in Provo, Randy Peterson's Fennelly legacy column, and the MBB Media Day 1-on-1 Special.",
+  "prior_published_at": "2026-10-12T18:25:29-05:00",
+  "prior_slot": "6pm CT",
+  "generated_at": "2026-10-13T04:18:55-05:00",
+  "generated_at_display": "Tue Oct 13, 2026 \u00b7 4:18 AM CT",
   "meaningful": true,
   "daily_clones": [
     {
       "title": "Media Day Takeaways with Jake Brend | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=CDxRnZkL6Ow",
-      "published_display": "2 hours ago"
+      "published_display": "11 hours ago"
     },
     {
       "title": "Three Keys to Iowa State @ BYU | DAILY CLONE",
