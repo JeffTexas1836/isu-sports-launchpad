@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-13T14:26:17-05:00",
-  "last_slot": "2pm CT",
+  "updated_at": "2026-10-13T18:23:16-05:00",
+  "last_slot": "6pm CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; new high-signal YT in top8: yt-lKCc2Fv8KlM, yt-uBHe-kAgVlQ; new high-signal social in top8: ie-bill-fennelly-announces-retirement-his-i, ie-should-iowa-state-make-a-change-at-quart",
-  "change_summary": "Tuesday 2pm CT refresh: NEW Daily Clone — Fennelly's Legacy / ISU MBB Offensive Identity (replaces Three Keys @ BYU as featured #2; Media Day Takeaways Jake Brend stays as #2). YouTube top5 refreshed with the new Daily Clone leading; Iowa Everywhere Murph & Andy QB-change and Fennelly-retirement episodes enter the shelf.",
-  "prior_published_at": "2026-10-13T04:18:55-05:00",
-  "prior_slot": "4am CT",
-  "generated_at": "2026-10-13T14:26:17-05:00",
-  "generated_at_display": "Tue Oct 13, 2026 · 2:26 PM CT",
+  "reason": "Social top5 membership changed; new high-signal YT in top8: yt-2Nu4nUM4w58; new high-signal social in top8: cf-isu-star-killyan-toure-s-focused-on-lead, ie-iowa-state-always-competes",
+  "change_summary": "Tuesday 6pm CT refresh: Daily Clone pair unchanged (Fennelly's Legacy / Media Day Takeaways). Social shelf reshuffled \u2014 Cyclone Fanatic\u2019s new Killyan Toure rehab/leadership piece leads; Iowa Everywhere\u2019s \u201cIowa State Always Competes\u201d episode enters the top8 (and YouTube shelf). YouTube top5 membership unchanged.",
+  "prior_published_at": "2026-10-13T14:26:17-05:00",
+  "prior_slot": "2pm CT",
+  "generated_at": "2026-10-13T18:23:16-05:00",
+  "generated_at_display": "Tue Oct 13, 2026 \u00b7 6:23 PM CT",
   "meaningful": true,
   "daily_clones": [
     {
       "title": "Fennelly's Legacy, What will be ISU MBB's Offensive Identity?  DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=lKCc2Fv8KlM",
-      "published_display": "1 hour ago"
+      "published_display": "5 hours ago"
     },
     {
       "title": "Media Day Takeaways with Jake Brend | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=CDxRnZkL6Ow",
-      "published_display": "22 hours ago"
+      "published_display": "1 day ago"
     }
   ],
-  "last_actual_publish_at": "2026-10-13T14:26:17-05:00",
-  "last_actual_publish_commit": "f18a5b3"
+  "last_actual_publish_at": "2026-10-13T18:23:16-05:00",
+  "last_actual_publish_commit": null
 }
