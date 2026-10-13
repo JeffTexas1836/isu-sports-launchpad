@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-13T04:18:55-05:00",
-  "last_slot": "4am CT",
+  "updated_at": "2026-10-13T14:26:17-05:00",
+  "last_slot": "2pm CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-49EXoFIJZ5c, yt-Am0GPXK3dpY; new high-signal social in top8: cf-2026-men-s-basketball-media-day-1-on-1-s, cf-jake-brend-s-experience-in-provo, cf-peterson-bill-fennelly-will-forever-be-i",
-  "change_summary": "Tuesday 4am CT refresh: Daily Clones unchanged (Media Day Takeaways with Jake Brend + Three Keys @ BYU). New Cyclone Fanatic content moves up: 'Jake Brend's Experience in Provo' and 'Tamin Seeking March Success' enter YT top5 (Otzelberger presser and Fennelly retirement video drop out); CF social top now leads with Jake Brend in Provo, Randy Peterson's Fennelly legacy column, and the MBB Media Day 1-on-1 Special.",
-  "prior_published_at": "2026-10-12T18:25:29-05:00",
-  "prior_slot": "6pm CT",
-  "generated_at": "2026-10-13T04:18:55-05:00",
-  "generated_at_display": "Tue Oct 13, 2026 \u00b7 4:18 AM CT",
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; new high-signal YT in top8: yt-lKCc2Fv8KlM, yt-uBHe-kAgVlQ; new high-signal social in top8: ie-bill-fennelly-announces-retirement-his-i, ie-should-iowa-state-make-a-change-at-quart",
+  "change_summary": "Tuesday 2pm CT refresh: NEW Daily Clone — Fennelly's Legacy / ISU MBB Offensive Identity (replaces Three Keys @ BYU as featured #2; Media Day Takeaways Jake Brend stays as #2). YouTube top5 refreshed with the new Daily Clone leading; Iowa Everywhere Murph & Andy QB-change and Fennelly-retirement episodes enter the shelf.",
+  "prior_published_at": "2026-10-13T04:18:55-05:00",
+  "prior_slot": "4am CT",
+  "generated_at": "2026-10-13T14:26:17-05:00",
+  "generated_at_display": "Tue Oct 13, 2026 · 2:26 PM CT",
   "meaningful": true,
   "daily_clones": [
     {
-      "title": "Media Day Takeaways with Jake Brend | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=CDxRnZkL6Ow",
-      "published_display": "11 hours ago"
+      "title": "Fennelly's Legacy, What will be ISU MBB's Offensive Identity?  DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=lKCc2Fv8KlM",
+      "published_display": "1 hour ago"
     },
     {
-      "title": "Three Keys to Iowa State @ BYU | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=Vc9IuZ2c0Jk",
-      "published_display": "4 days ago"
+      "title": "Media Day Takeaways with Jake Brend | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=CDxRnZkL6Ow",
+      "published_display": "22 hours ago"
     }
   ],
-  "last_actual_publish_at": "2026-10-13T04:18:55-05:00",
-  "last_actual_publish_commit": "e43a492"
+  "last_actual_publish_at": "2026-10-13T14:26:17-05:00",
+  "last_actual_publish_commit": null
 }
