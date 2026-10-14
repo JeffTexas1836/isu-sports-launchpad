@@ -1,20 +1,37 @@
 {
-  "updated_at": "2026-10-14T08:34:20-05:00",
-  "last_slot": "8am CT",
-  "last_published": true,
+  "updated_at": "2026-10-14T18:29:01-05:00",
+  "last_slot": "6pm CT",
+  "last_published": false,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-m1pia66nzKc",
-  "change_summary": "Wednesday 8am CT refresh: Daily Clone pair unchanged (Fennelly's Legacy / Media Day Takeaways \u2014 still the two latest DC episodes). YouTube top5 membership changed \u2014 new high-signal entry: \"Williams & Blum - October 14th, 2026\" (Iowa Everywhere) enters at #3; prior #5 (Tamin Seeking March Success / related) drops out of top5. Litecast + Down The Pipe hold #4\u20135. Social top5 membership unchanged (CF Killyan Toure piece still leads).",
-  "prior_published_at": "2026-10-14T04:28:55-05:00",
-  "prior_slot": "4am CT",
-  "generated_at": "2026-10-14T08:34:20-05:00",
-  "generated_at_display": "Wed Oct 14, 2026 \u00b7 8:34 AM CT",
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--EGKYGHL4eM, yt-CxOZt2_VK8g, yt-w95yCikDZ6I; new high-signal social in top8: cf-isu-s-bill-fennelly-on-his-final-season, cf-watch-bill-fennelly-s-press-conference-a, ie-is-bill-fennelly-leaving-iowa-state-at-t",
+  "change_summary": "Wednesday 6pm CT refresh: NEW Daily Clone \u2014 \"WBB Media Day Takeaways | DAILY CLONE\" (Cyclone Fanatic, posted ~5:09 PM CT) now leads; featured pair is WBB Media Day Takeaways + Fennelly's Legacy, and \"Media Day Takeaways with Jake Brend\" rotates out. YouTube top5 membership changed \u2014 new WBB Daily Clone at #1 and \"Bill Fennelly Media Day Press Conference\" (CF) enters at #4; Media Day Takeaways w/ Jake Brend and Down The Pipe drop out; Williams & Blum (#3) and Litecast (#5) hold. Iowa Everywhere adds \"Is Bill Fennelly Leaving Iowa State at the Right Time? | Murph & Andy\". Social top5 changed \u2014 CF's Fennelly final-season story (\"This is about the team\") and the Fennelly media day presser post move to #1\u20132 ahead of the Killyan Toure piece. Note: YouTube RSS returned 404/500 this slot; new uploads were gap-filled via yt-dlp.",
+  "prior_published_at": "2026-10-14T14:24:59-05:00",
+  "prior_slot": "2pm CT",
+  "generated_at": "2026-10-14T18:29:01-05:00",
+  "generated_at_display": "Wed Oct 14, 2026 \u00b7 6:29 PM CT",
   "meaningful": true,
   "daily_clones": [
     {
+      "title": "WBB Media Day Takeaways | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
+      "published_display": "1 hour ago"
+    },
+    {
       "title": "Fennelly's Legacy, What will be ISU MBB's Offensive Identity?  DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=lKCc2Fv8KlM",
-      "published_display": "19 hours ago"
+      "published_display": "1 day ago"
+    }
+  ],
+  "last_actual_publish_at": "2026-10-14T08:34:20-05:00",
+  "last_actual_publish_commit": "dc7f7eb",
+  "prior_meaningful": false,
+  "prior_reason": "same Daily Clone + same top items; view/time bumps only",
+  "prior_change_summary": "Wednesday 2pm CT refresh: Daily Clone pair unchanged (Fennelly's Legacy / Media Day Takeaways \u2014 still the two latest DC episodes). YouTube top5 membership unchanged (same five IDs: two Daily Clones, Williams & Blum, Litecast, Down The Pipe); #3 title string refreshed on the same video (m1pia66nzKc) but not a new entry. Social top5 membership unchanged (CF Killyan Toure piece still leads). View/time bumps only \u2014 not meaningful.",
+  "prior_daily_clones": [
+    {
+      "title": "Fennelly's Legacy, What will be ISU MBB's Offensive Identity?  DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=lKCc2Fv8KlM",
+      "published_display": "1 day ago"
     },
     {
       "title": "Media Day Takeaways with Jake Brend | DAILY CLONE",
@@ -22,6 +39,5 @@
       "published_display": "1 day ago"
     }
   ],
-  "last_actual_publish_at": "2026-10-14T08:34:20-05:00",
-  "last_actual_publish_commit": "dc7f7eb"
+  "prior_last_published": false
 }
