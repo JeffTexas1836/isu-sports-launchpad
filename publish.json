@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-14T04:28:55-05:00",
-  "last_slot": "4am CT",
+  "updated_at": "2026-10-14T08:34:20-05:00",
+  "last_slot": "8am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-H3HZ84qSQZA, yt-O88cY5nv0uo",
-  "change_summary": "Wednesday 4am CT refresh: Daily Clone pair unchanged (Fennelly's Legacy / Media Day Takeaways \u2014 still the two latest DC episodes). YouTube top5 reshuffled \u2014 two new Cyclone Fanatic videos enter: \"Rough Night in Provo, KenPom, Fennelly Retiring, & More | The Litecast\" and \"BYU Recap | Midseason Review & Bye Week Thoughts | DOWN THE PIPE\" (Tamin Seeking March Success / MBB Media Day 1-on-1 drop to 6\u20137). Social top5 membership unchanged (CF Killyan Toure piece still leads).",
-  "prior_published_at": "2026-10-13T18:23:16-05:00",
-  "prior_slot": "6pm CT",
-  "generated_at": "2026-10-14T04:28:55-05:00",
-  "generated_at_display": "Wed Oct 14, 2026 \u00b7 4:28 AM CT",
+  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-m1pia66nzKc",
+  "change_summary": "Wednesday 8am CT refresh: Daily Clone pair unchanged (Fennelly's Legacy / Media Day Takeaways \u2014 still the two latest DC episodes). YouTube top5 membership changed \u2014 new high-signal entry: \"Williams & Blum - October 14th, 2026\" (Iowa Everywhere) enters at #3; prior #5 (Tamin Seeking March Success / related) drops out of top5. Litecast + Down The Pipe hold #4\u20135. Social top5 membership unchanged (CF Killyan Toure piece still leads).",
+  "prior_published_at": "2026-10-14T04:28:55-05:00",
+  "prior_slot": "4am CT",
+  "generated_at": "2026-10-14T08:34:20-05:00",
+  "generated_at_display": "Wed Oct 14, 2026 \u00b7 8:34 AM CT",
   "meaningful": true,
   "daily_clones": [
     {
       "title": "Fennelly's Legacy, What will be ISU MBB's Offensive Identity?  DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=lKCc2Fv8KlM",
-      "published_display": "15 hours ago"
+      "published_display": "19 hours ago"
     },
     {
       "title": "Media Day Takeaways with Jake Brend | DAILY CLONE",
@@ -22,6 +22,6 @@
       "published_display": "1 day ago"
     }
   ],
-  "last_actual_publish_at": "2026-10-14T04:28:55-05:00",
-  "last_actual_publish_commit": "aab71fd"
+  "last_actual_publish_at": "2026-10-14T08:34:20-05:00",
+  "last_actual_publish_commit": null
 }
