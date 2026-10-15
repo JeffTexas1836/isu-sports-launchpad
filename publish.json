@@ -22,8 +22,8 @@
       "published_display": "1 day ago"
     }
   ],
-  "last_actual_publish_at": "2026-10-14T18:29:28-05:00",
-  "last_actual_publish_commit": "b2f1e44",
+  "last_actual_publish_at": "2026-10-15T04:22:27-05:00",
+  "last_actual_publish_commit": "4593b00",
   "prior_meaningful": true,
   "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--EGKYGHL4eM, yt-CxOZt2_VK8g, yt-w95yCikDZ6I; new high-signal social in top8: cf-isu-s-bill-fennelly-on-his-final-season, cf-watch-bill-fennelly-s-press-conference-a, ie-is-bill-fennelly-leaving-iowa-state-at-t",
   "prior_change_summary": "Wednesday 6pm CT refresh: NEW Daily Clone \u2014 \"WBB Media Day Takeaways | DAILY CLONE\" (Cyclone Fanatic, posted ~5:09 PM CT) now leads; featured pair is WBB Media Day Takeaways + Fennelly's Legacy, and \"Media Day Takeaways with Jake Brend\" rotates out. YouTube top5 membership changed \u2014 new WBB Daily Clone at #1 and \"Bill Fennelly Media Day Press Conference\" (CF) enters at #4; Media Day Takeaways w/ Jake Brend and Down The Pipe drop out; Williams & Blum (#3) and Litecast (#5) hold. Iowa Everywhere adds \"Is Bill Fennelly Leaving Iowa State at the Right Time? | Murph & Andy\". Social top5 changed \u2014 CF's Fennelly final-season story (\"This is about the team\") and the Fennelly media day presser post move to #1\u20132 ahead of the Killyan Toure piece. Note: YouTube RSS returned 404/500 this slot; new uploads were gap-filled via yt-dlp.",
