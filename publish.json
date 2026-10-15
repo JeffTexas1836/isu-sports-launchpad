@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-10-15T04:21:45-05:00",
-  "last_slot": "4am CT",
+  "updated_at": "2026-10-15T14:21:16-05:00",
+  "last_slot": "2pm CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-0-qNs4B2gsU, yt-1bmkSpG-w7g, yt-2lHI4w93lgI, yt-8BEPdado_7M, yt-E7pHStnr14s, yt-nd3OpGccjLU; new high-signal social in top8: ie-assessing-iowa-iowa-state-at-the-halfway",
-  "change_summary": "Thursday 4am CT refresh: Daily Clone pair unchanged \u2014 \"WBB Media Day Takeaways | DAILY CLONE\" (Wed ~5:09 PM CT) and \"Fennelly's Legacy, What will be ISU MBB's Offensive Identity?\" are still the two latest episodes and lead YouTube. YouTube top5 membership changed \u2014 Cyclone Fanatic's new \"How deep can MBB be? + WBB Impressions, Midseason Football Eval | The Beat Reporters\" (posted ~4:00 AM CT) enters at #3, and CF's overnight batch of WBB media day interviews (Xiao \"Smile\" Zhang #4, Ashleigh Connor #5, Arianna Jackson, Sienna Harvey) fills in behind it; Williams & Blum, the Fennelly media day presser, Litecast, Down The Pipe, and Jake Brend's Provo video fell out of CF's RSS window and off the list. Iowa Everywhere adds \"Assessing Iowa & Iowa State at the halfway point of the season, Top Games of Week 7 | Two Guys\" (YouTube #8, social #7). Social top5 is unchanged (CF's Fennelly final-season story still leads).",
-  "prior_published_at": "2026-10-14T18:29:28-05:00",
-  "prior_slot": "6pm CT",
-  "generated_at": "2026-10-15T04:21:45-05:00",
-  "generated_at_display": "Thu Oct 15, 2026 \u00b7 4:21 AM CT",
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; new high-signal YT in top8: yt-OWe65TTn4nQ, yt-WRalkBdN5nY",
+  "change_summary": "Thursday 2pm CT refresh: new Daily Clone \"Can Iowa State Go 10 Deep? DAILY CLONE\" (posted ~12:35 PM CT) now leads, paired with \"WBB Media Day Takeaways | DAILY CLONE\"; \"Fennelly's Legacy\" rotates out of the featured pair. CF's Evangelia Paulk Media Day Interview enters YouTube top8. Social top5 unchanged (CF's Fennelly final-season story still leads).",
+  "prior_published_at": "2026-10-15T04:22:27-05:00",
+  "prior_slot": "8am CT",
+  "generated_at": "2026-10-15T14:21:16-05:00",
+  "generated_at_display": "Thu Oct 15, 2026 \u00b7 2:21 PM CT",
   "meaningful": true,
   "daily_clones": [
     {
-      "title": "WBB Media Day Takeaways | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
-      "published_display": "11 hours ago"
+      "title": "Can Iowa State Go 10 Deep? DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
+      "published_display": "1 hour ago"
     },
     {
-      "title": "Fennelly's Legacy, What will be ISU MBB's Offensive Identity?  DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=lKCc2Fv8KlM",
-      "published_display": "1 day ago"
+      "title": "WBB Media Day Takeaways | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
+      "published_display": "21 hours ago"
     }
   ],
   "last_actual_publish_at": "2026-10-15T04:22:27-05:00",
   "last_actual_publish_commit": "4593b00",
-  "prior_meaningful": true,
-  "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--EGKYGHL4eM, yt-CxOZt2_VK8g, yt-w95yCikDZ6I; new high-signal social in top8: cf-isu-s-bill-fennelly-on-his-final-season, cf-watch-bill-fennelly-s-press-conference-a, ie-is-bill-fennelly-leaving-iowa-state-at-t",
-  "prior_change_summary": "Wednesday 6pm CT refresh: NEW Daily Clone \u2014 \"WBB Media Day Takeaways | DAILY CLONE\" (Cyclone Fanatic, posted ~5:09 PM CT) now leads; featured pair is WBB Media Day Takeaways + Fennelly's Legacy, and \"Media Day Takeaways with Jake Brend\" rotates out. YouTube top5 membership changed \u2014 new WBB Daily Clone at #1 and \"Bill Fennelly Media Day Press Conference\" (CF) enters at #4; Media Day Takeaways w/ Jake Brend and Down The Pipe drop out; Williams & Blum (#3) and Litecast (#5) hold. Iowa Everywhere adds \"Is Bill Fennelly Leaving Iowa State at the Right Time? | Murph & Andy\". Social top5 changed \u2014 CF's Fennelly final-season story (\"This is about the team\") and the Fennelly media day presser post move to #1\u20132 ahead of the Killyan Toure piece. Note: YouTube RSS returned 404/500 this slot; new uploads were gap-filled via yt-dlp.",
+  "prior_meaningful": false,
+  "prior_reason": "same Daily Clone + same top items; view/time bumps only",
+  "prior_change_summary": "Thursday 8am CT refresh: Daily Clone pair unchanged \u2014 \"WBB Media Day Takeaways | DAILY CLONE\" (Wed ~5:09 PM CT) and \"Fennelly's Legacy, What will be ISU MBB's Offensive Identity?\" are still the two latest episodes and lead YouTube. YouTube top5 membership unchanged (same five IDs: two Daily Clones, The Beat Reporters, Xiao \"Smile\" Zhang Media Day Interview, Ashleigh Connor Media Day Interview). Social top5 membership unchanged (CF's Fennelly final-season story still leads). View/time bumps only \u2014 not meaningful.",
   "prior_daily_clones": [
     {
       "title": "WBB Media Day Takeaways | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
-      "published_display": "1 hour ago"
+      "published_display": "15 hours ago"
     },
     {
       "title": "Fennelly's Legacy, What will be ISU MBB's Offensive Identity?  DAILY CLONE",
@@ -39,5 +39,5 @@
       "published_display": "1 day ago"
     }
   ],
-  "prior_last_published": true
+  "prior_last_published": false
 }
