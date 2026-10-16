@@ -1,43 +1,47 @@
 {
-  "updated_at": "2026-10-15T14:21:16-05:00",
-  "last_slot": "2pm CT",
-  "last_published": true,
-  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; new high-signal YT in top8: yt-OWe65TTn4nQ, yt-WRalkBdN5nY",
-  "change_summary": "Thursday 2pm CT refresh: new Daily Clone \"Can Iowa State Go 10 Deep? DAILY CLONE\" (posted ~12:35 PM CT) now leads, paired with \"WBB Media Day Takeaways | DAILY CLONE\"; \"Fennelly's Legacy\" rotates out of the featured pair. CF's Evangelia Paulk Media Day Interview enters YouTube top8. Social top5 unchanged (CF's Fennelly final-season story still leads).",
-  "prior_published_at": "2026-10-15T04:22:27-05:00",
-  "prior_slot": "8am CT",
-  "generated_at": "2026-10-15T14:21:16-05:00",
-  "generated_at_display": "Thu Oct 15, 2026 \u00b7 2:21 PM CT",
-  "meaningful": true,
-  "daily_clones": [
-    {
-      "title": "Can Iowa State Go 10 Deep? DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
-      "published_display": "1 hour ago"
-    },
-    {
-      "title": "WBB Media Day Takeaways | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
-      "published_display": "21 hours ago"
-    }
-  ],
-  "last_actual_publish_at": "2026-10-15T14:21:46-05:00",
-  "last_actual_publish_commit": "559d873",
-  "prior_meaningful": false,
-  "prior_reason": "same Daily Clone + same top items; view/time bumps only",
-  "prior_change_summary": "Thursday 8am CT refresh: Daily Clone pair unchanged \u2014 \"WBB Media Day Takeaways | DAILY CLONE\" (Wed ~5:09 PM CT) and \"Fennelly's Legacy, What will be ISU MBB's Offensive Identity?\" are still the two latest episodes and lead YouTube. YouTube top5 membership unchanged (same five IDs: two Daily Clones, The Beat Reporters, Xiao \"Smile\" Zhang Media Day Interview, Ashleigh Connor Media Day Interview). Social top5 membership unchanged (CF's Fennelly final-season story still leads). View/time bumps only \u2014 not meaningful.",
-  "prior_daily_clones": [
-    {
-      "title": "WBB Media Day Takeaways | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
-      "published_display": "15 hours ago"
-    },
-    {
-      "title": "Fennelly's Legacy, What will be ISU MBB's Offensive Identity?  DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=lKCc2Fv8KlM",
-      "published_display": "1 day ago"
-    }
-  ],
-  "prior_last_published": false
+ "updated_at": "2026-10-16T04:22:01-05:00",
+ "last_slot": "4am CT",
+ "last_published": true,
+ "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
+ "reason": "new high-signal YT in top8: yt-0-qNs4B2gsU",
+ "change_summary": "Friday 4am CT refresh: CF's \"Arianna Jackson Media Day Interview\" enters YouTube top8 (#7). Daily Clone pair unchanged (\"Can Iowa State Go 10 Deep?\" and \"WBB Media Day Takeaways\"). YouTube top5 and social top5 unchanged.",
+ "prior_published_at": "2026-10-15T18:22:47-05:00",
+ "prior_slot": "6pm CT",
+ "generated_at": "2026-10-16T04:22:01-05:00",
+ "generated_at_display": "Fri Oct 16, 2026 \u00b7 4:22 AM CT",
+ "meaningful": true,
+ "daily_clones": [
+  {
+   "title": "Can Iowa State Go 10 Deep? DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
+   "published_display": "15 hours ago"
+  },
+  {
+   "title": "WBB Media Day Takeaways | DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
+   "published_display": "1 day ago"
+  }
+ ],
+ "last_actual_publish_at": "2026-10-16T04:22:01-05:00",
+ "last_actual_publish_commit": "559d873",
+ "prior_meaningful": false,
+ "prior_reason": "same Daily Clone + same top items; view/time bumps only",
+ "prior_change_summary": "Thursday 6pm CT refresh: Daily Clone pair unchanged \u2014 \"Can Iowa State Go 10 Deep? DAILY CLONE\" (5 hours ago) and \"WBB Media Day Takeaways | DAILY CLONE\" are still the two latest episodes and lead YouTube. YouTube top5 membership unchanged (same five IDs: two Daily Clones, The Beat Reporters, Xiao \"Smile\" Zhang Media Day Interview, Ashleigh Connor Media Day Interview). Social top5 membership unchanged (CF's Fennelly final-season story still leads). View/time bumps only \u2014 not meaningful.",
+ "prior_daily_clones": [
+  {
+   "title": "Can Iowa State Go 10 Deep? DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
+   "published_display": "5 hours ago"
+  },
+  {
+   "title": "WBB Media Day Takeaways | DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
+   "published_display": "1 day ago"
+  }
+ ],
+ "prior_last_published": false,
+ "prior_updated_at": "2026-10-15T18:22:47-05:00",
+ "prior_last_slot": "6pm CT",
+ "prior_generated_at": "2026-10-15T18:22:47-05:00",
+ "prior_generated_at_display": "Thu Oct 15, 2026 \u00b7 6:22 PM CT"
 }
