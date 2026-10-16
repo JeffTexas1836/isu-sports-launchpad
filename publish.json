@@ -1,20 +1,20 @@
 {
- "updated_at": "2026-10-16T04:22:01-05:00",
- "last_slot": "4am CT",
+ "updated_at": "2026-10-16T14:27:40-05:00",
+ "last_slot": "2pm CT",
  "last_published": true,
  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
- "reason": "new high-signal YT in top8: yt-0-qNs4B2gsU",
- "change_summary": "Friday 4am CT refresh: CF's \"Arianna Jackson Media Day Interview\" enters YouTube top8 (#7). Daily Clone pair unchanged (\"Can Iowa State Go 10 Deep?\" and \"WBB Media Day Takeaways\"). YouTube top5 and social top5 unchanged.",
- "prior_published_at": "2026-10-15T18:22:47-05:00",
- "prior_slot": "6pm CT",
- "generated_at": "2026-10-16T04:22:01-05:00",
- "generated_at_display": "Fri Oct 16, 2026 \u00b7 4:22 AM CT",
+ "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-qkB2iWFvmIE, yt-xJ5WPVBy44Q; new high-signal social in top8: cf-big-12-buzz-week-7-preview, cf-iowa-state-names-jared-benko-as-new-athl, cf-williams-who-is-jared-benko-and-why-does, ie-new-isu-ad-and-cfp-expansion-murph-andy, ie-reaction-jared-benko-named-iowa-state-at",
+ "change_summary": "Friday 2pm CT refresh: Iowa State hired Jared Benko (from Auburn) as its new athletic director. Cyclone Fanatic's Benko announcement and Chris Williams column now lead social, CF's breaking X post and IE's live-reaction X post added; IE's \"New ISU AD and CFP Expansion: Murph & Andy\" and \"REACTION: Jared Benko Named Iowa State AD | CW Pod\" enter YouTube top 10. CF's \"Week 7 Picks & Preview | Picks After Dark\" enters YouTube top5 (#3). Daily Clone pair unchanged (\"Can Iowa State Go 10 Deep?\" and \"WBB Media Day Takeaways\"); no new Daily Clone yet today.",
+ "prior_published_at": "2026-10-16T04:22:01-05:00",
+ "prior_slot": "4am CT",
+ "generated_at": "2026-10-16T14:27:40-05:00",
+ "generated_at_display": "Fri Oct 16, 2026 \u00b7 2:27 PM CT",
  "meaningful": true,
  "daily_clones": [
   {
    "title": "Can Iowa State Go 10 Deep? DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
-   "published_display": "15 hours ago"
+   "published_display": "1 day ago"
   },
   {
    "title": "WBB Media Day Takeaways | DAILY CLONE",
@@ -23,15 +23,15 @@
   }
  ],
  "last_actual_publish_at": "2026-10-16T04:22:01-05:00",
- "last_actual_publish_commit": "559d873",
+ "last_actual_publish_commit": "36414da",
  "prior_meaningful": false,
  "prior_reason": "same Daily Clone + same top items; view/time bumps only",
- "prior_change_summary": "Thursday 6pm CT refresh: Daily Clone pair unchanged \u2014 \"Can Iowa State Go 10 Deep? DAILY CLONE\" (5 hours ago) and \"WBB Media Day Takeaways | DAILY CLONE\" are still the two latest episodes and lead YouTube. YouTube top5 membership unchanged (same five IDs: two Daily Clones, The Beat Reporters, Xiao \"Smile\" Zhang Media Day Interview, Ashleigh Connor Media Day Interview). Social top5 membership unchanged (CF's Fennelly final-season story still leads). View/time bumps only \u2014 not meaningful.",
+ "prior_change_summary": "Friday 8am CT refresh: Daily Clone pair unchanged \u2014 \"Can Iowa State Go 10 Deep? DAILY CLONE\" (Thu ~12:35 PM CT) and \"WBB Media Day Takeaways | DAILY CLONE\" are still the two latest episodes and lead YouTube; no newer Daily Clone yet. YouTube top5 and top8 membership unchanged (two Daily Clones, The Beat Reporters, Xiao \"Smile\" Zhang and Ashleigh Connor media day interviews; Paulk/Jackson interviews and IE's Two Guys hold #6-8); Locked On's \"Iowa State Is Now A PLAYOFF TEAM\" enters at #10. Social top5/top8 unchanged (CF's Fennelly final-season story still leads); CF's X post on ISU MBB picked 4th in Big 12 / Lipsey preseason All-Big 12 added at #15. View/time bumps only \u2014 not meaningful.",
  "prior_daily_clones": [
   {
    "title": "Can Iowa State Go 10 Deep? DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
-   "published_display": "5 hours ago"
+   "published_display": "19 hours ago"
   },
   {
    "title": "WBB Media Day Takeaways | DAILY CLONE",
@@ -40,8 +40,8 @@
   }
  ],
  "prior_last_published": false,
- "prior_updated_at": "2026-10-15T18:22:47-05:00",
- "prior_last_slot": "6pm CT",
- "prior_generated_at": "2026-10-15T18:22:47-05:00",
- "prior_generated_at_display": "Thu Oct 15, 2026 \u00b7 6:22 PM CT"
+ "prior_updated_at": "2026-10-16T08:28:33-05:00",
+ "prior_last_slot": "8am CT",
+ "prior_generated_at": "2026-10-16T08:28:33-05:00",
+ "prior_generated_at_display": "Fri Oct 16, 2026 \u00b7 8:28 AM CT"
 }

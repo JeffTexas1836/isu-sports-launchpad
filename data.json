@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-10-16T04:22:01-05:00",
-  "generated_at_display": "Fri Oct 16, 2026 · 4:22 AM CT",
+  "generated_at": "2026-10-16T14:27:40-05:00",
+  "generated_at_display": "Fri Oct 16, 2026 · 2:27 PM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -15,8 +15,8 @@
     "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
     "channel": "Cyclone Fanatic",
     "published": "2026-10-15T12:35:31-05:00",
-    "published_display": "15 hours ago",
-    "views": 2034
+    "published_display": "1 day ago",
+    "views": 2644
   },
   "daily_clones": [
     {
@@ -25,8 +25,8 @@
       "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-15T12:35:31-05:00",
-      "published_display": "15 hours ago",
-      "views": 2034
+      "published_display": "1 day ago",
+      "views": 2644
     },
     {
       "found": true,
@@ -35,7 +35,7 @@
       "channel": "Cyclone Fanatic",
       "published": "2026-10-14T17:09:27-05:00",
       "published_display": "1 day ago",
-      "views": 682
+      "views": 699
     }
   ],
   "sources_note": {
@@ -73,8 +73,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
       "published": "2026-10-15T12:35:31-05:00",
-      "published_display": "15 hours ago",
-      "views": 2034,
+      "published_display": "1 day ago",
+      "views": 2644,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -87,11 +87,24 @@
       "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
       "published": "2026-10-14T17:09:27-05:00",
       "published_display": "1 day ago",
-      "views": 682,
+      "views": 699,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 99
+    },
+    {
+      "id": "yt-qkB2iWFvmIE",
+      "title": "Week 7 Picks & Preview | Picks After Dark",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=qkB2iWFvmIE",
+      "published": "2026-10-16T11:57:08-05:00",
+      "published_display": "2 hours ago",
+      "views": 133,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 98
     },
     {
       "id": "yt-1bmkSpG-w7g",
@@ -100,11 +113,11 @@
       "url": "https://www.youtube.com/watch?v=1bmkSpG-w7g",
       "published": "2026-10-15T04:00:31-05:00",
       "published_display": "1 day ago",
-      "views": 1454,
+      "views": 1770,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "yt-8BEPdado_7M",
@@ -113,11 +126,11 @@
       "url": "https://www.youtube.com/watch?v=8BEPdado_7M",
       "published": "2026-10-14T23:19:39-05:00",
       "published_display": "1 day ago",
-      "views": 944,
+      "views": 1126,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "yt-E7pHStnr14s",
@@ -126,11 +139,11 @@
       "url": "https://www.youtube.com/watch?v=E7pHStnr14s",
       "published": "2026-10-14T23:24:26-05:00",
       "published_display": "1 day ago",
-      "views": 763,
+      "views": 808,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
+      "rank_score": 95
     },
     {
       "id": "yt-WRalkBdN5nY",
@@ -139,24 +152,37 @@
       "url": "https://www.youtube.com/watch?v=WRalkBdN5nY",
       "published": "2026-10-14T23:21:43-05:00",
       "published_display": "1 day ago",
-      "views": 696,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-0-qNs4B2gsU",
-      "title": "Arianna Jackson Media Day Interview",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=0-qNs4B2gsU",
-      "published": "2026-10-14T23:25:04-05:00",
-      "published_display": "1 day ago",
-      "views": 540,
+      "views": 734,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
+    },
+    {
+      "id": "yt-xJ5WPVBy44Q",
+      "title": "New ISU AD and CFP Expansion: Murph & Andy",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=xJ5WPVBy44Q",
+      "published": "2026-10-16T12:05:08-05:00",
+      "published_display": "2 hours ago",
+      "views": 624,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
+    },
+    {
+      "id": "yt-s8iTK5wohe4",
+      "title": "REACTION: Jared Benko Named Iowa State Athletic Director | CW Pod",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=s8iTK5wohe4",
+      "published": "2026-10-16T12:01:10-05:00",
+      "published_display": "2 hours ago",
+      "views": 1,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 92
     },
     {
       "id": "yt-nd3OpGccjLU",
@@ -165,37 +191,37 @@
       "url": "https://www.youtube.com/watch?v=nd3OpGccjLU",
       "published": "2026-10-14T20:36:34-05:00",
       "published_display": "1 day ago",
-      "views": 8273,
+      "views": 9230,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 91
     },
     {
-      "id": "yt-w95yCikDZ6I",
-      "title": "Is Bill Fennelly Leaving Iowa State at the Right Time? | Murph & Andy",
-      "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=w95yCikDZ6I",
-      "published": "2026-10-14T15:45:06-05:00",
-      "published_display": "1 day ago",
-      "views": 1789,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "iowa_everywhere",
-      "rank_score": 92
-    },
-    {
-      "id": "yt-XKRQU0DoxJc",
-      "title": "The Cyclones need to LOCK IN on offense. #iowastate #ncaa #ncaafootball #cyclones #cyclonesfootball",
+      "id": "yt-joEcxNifMMU",
+      "title": "Do Iowa State running backs need to step up? #iowastate #cyclones #ncaa #Ncaafootball #big12",
       "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=XKRQU0DoxJc",
-      "published": "2026-10-15T15:00:20-05:00",
-      "published_display": "13 hours ago",
+      "url": "https://www.youtube.com/watch?v=joEcxNifMMU",
+      "published": "2026-10-16T10:00:27-05:00",
+      "published_display": "4 hours ago",
       "views": 36,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
-      "rank_score": 91
+      "rank_score": 90
+    },
+    {
+      "id": "yt-EIBEAsk2Q1c",
+      "title": "URGENT: Iowa State Is Now A PLAYOFF TEAM, 24 Team EXPANSION Makes National Title Possible For ISU",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=EIBEAsk2Q1c",
+      "published": "2026-10-16T07:42:45-05:00",
+      "published_display": "6 hours ago",
+      "views": 178,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
+      "rank_score": 89
     },
     {
       "id": "yt-Jscl-vxummY",
@@ -204,37 +230,24 @@
       "url": "https://www.youtube.com/watch?v=Jscl-vxummY",
       "published": "2026-10-05T10:18:21-05:00",
       "published_display": "Oct 5, 2026",
-      "views": 10792,
+      "views": 10797,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 90
-    },
-    {
-      "id": "yt-S4jS1kFKVH0",
-      "title": "Iowa State's offense struggles after strong start. #Cyclones #ncaa #ncaafootball #iowastate #big12",
-      "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=S4jS1kFKVH0",
-      "published": "2026-10-15T11:28:02-05:00",
-      "published_display": "16 hours ago",
-      "views": 123,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "other",
-      "rank_score": 89
-    },
-    {
-      "id": "yt-kVvoUIje57A",
-      "title": "CONCERN: Iowa State Hiring Jimmy Rogers A MISTAKE After 3-3 Start  Is WRONG, Best Coach For Cyclones",
-      "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=kVvoUIje57A",
-      "published": "2026-10-15T07:41:07-05:00",
-      "published_display": "20 hours ago",
-      "views": 446,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "other",
       "rank_score": 88
+    },
+    {
+      "id": "yt-XKRQU0DoxJc",
+      "title": "The Cyclones need to LOCK IN on offense. #iowastate #ncaa #ncaafootball #cyclones #cyclonesfootball",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=XKRQU0DoxJc",
+      "published": "2026-10-15T15:00:20-05:00",
+      "published_display": "23 hours ago",
+      "views": 41,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
+      "rank_score": 87
     },
     {
       "id": "yt-gz_dE_fNoqs",
@@ -247,23 +260,61 @@
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 87
-    },
-    {
-      "id": "yt-uarW3SoJBus",
-      "title": "Iowa State Football Highlights vs. Bowling Green (2026)",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=uarW3SoJBus",
-      "published": "2026-09-19T15:20:53-05:00",
-      "published_display": "Sep 19, 2026",
-      "views": 918,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
       "rank_score": 86
     }
   ],
   "social": [
+    {
+      "id": "cf-williams-who-is-jared-benko-and-why-does",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "WILLIAMS: Who is Jared Benko, and why does he make sense for Iowa State’s next era?",
+      "url": "https://cyclonefanatic.com/2026/10/williams-who-is-jared-benko-and-why-does-he-make-sense-for-iowa-states-next-era/",
+      "published": "2026-10-16T12:43:00-05:00",
+      "published_display": "Oct 16, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
+    {
+      "id": "cf-iowa-state-names-jared-benko-as-new-athl",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "Iowa State names Jared Benko as new athletic director",
+      "url": "https://cyclonefanatic.com/2026/10/iowa-state-names-jared-benko-as-new-athletic-director/",
+      "published": "2026-10-16T12:40:52-05:00",
+      "published_display": "Oct 16, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 99
+    },
+    {
+      "id": "cf-big-12-buzz-week-7-preview",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "Big 12 Buzz: Week 7 Preview",
+      "url": "https://cyclonefanatic.com/2026/10/big-12-buzz-week-7-preview/",
+      "published": "2026-10-16T09:00:47-05:00",
+      "published_display": "Oct 16, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 98
+    },
     {
       "id": "cf-isu-s-bill-fennelly-on-his-final-season",
       "type": "news",
@@ -279,7 +330,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 97
     },
     {
       "id": "cf-watch-bill-fennelly-s-press-conference-a",
@@ -296,7 +347,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 96
     },
     {
       "id": "cf-isu-star-killyan-toure-s-focused-on-lead",
@@ -313,58 +364,41 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
-    },
-    {
-      "id": "cf-jake-brend-s-experience-in-provo",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "Jake Brend’s Experience in Provo",
-      "url": "https://cyclonefanatic.com/2026/10/jake-brends-experience-in-provo/",
-      "published": "2026-10-12T20:32:24-05:00",
-      "published_display": "Oct 12, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 97
-    },
-    {
-      "id": "cf-peterson-bill-fennelly-will-forever-be-i",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "PETERSON: Bill Fennelly will forever be Iowa State women’s basketball",
-      "url": "https://cyclonefanatic.com/2026/10/peterson-bill-fennelly-will-forever-be-iowa-state-womens-basketball/",
-      "published": "2026-10-12T20:23:24-05:00",
-      "published_display": "Oct 12, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "cf-2026-men-s-basketball-media-day-1-on-1-s",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "2026 Men’s Basketball Media Day 1-on-1 Special",
-      "url": "https://cyclonefanatic.com/2026/10/2026-mens-basketball-media-day-1-on-1-special/",
-      "published": "2026-10-12T20:21:20-05:00",
-      "published_display": "Oct 12, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
       "rank_score": 95
+    },
+    {
+      "id": "ie-new-isu-ad-and-cfp-expansion-murph-andy",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "New ISU AD and CFP Expansion: Murph & Andy (YouTube clip)",
+      "url": "https://www.youtube.com/watch?v=xJ5WPVBy44Q",
+      "published": "2026-10-16T12:05:08-05:00",
+      "published_display": "Oct 16, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 94
+    },
+    {
+      "id": "ie-reaction-jared-benko-named-iowa-state-at",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "REACTION: Jared Benko Named Iowa State Athletic Director | CW Pod (YouTube)",
+      "url": "https://www.youtube.com/watch?v=s8iTK5wohe4",
+      "published": "2026-10-16T12:01:10-05:00",
+      "published_display": "Oct 16, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "ie-assessing-iowa-iowa-state-at-the-halfway",
@@ -381,24 +415,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 94
-    },
-    {
-      "id": "ie-is-bill-fennelly-leaving-iowa-state-at-t",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "Is Bill Fennelly Leaving Iowa State at the Right Time? | Murph & Andy (YouTube)",
-      "url": "https://www.youtube.com/watch?v=w95yCikDZ6I",
-      "published": "2026-10-14T15:45:06-05:00",
-      "published_display": "Oct 14, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "ie-two-guys-assessing-iowa-iowa-state-at-th",
@@ -415,7 +432,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 92
+      "rank_score": 91
     },
     {
       "id": "x-2098256013858165182",
@@ -426,13 +443,30 @@
       "url": "https://x.com/realapp/status/2098256013858165182",
       "published": "2026-09-10T22:43:12-05:00",
       "published_display": "Sep 10, 2026",
-      "likes": 5870,
+      "likes": 5867,
       "retweets": 744,
       "replies": 57,
-      "views": 122795,
+      "views": 122799,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
-      "rank_score": 91
+      "rank_score": 90
+    },
+    {
+      "id": "x-2111143801066602935",
+      "type": "x",
+      "author": "@cyclonefanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "BREAKING: Iowa State is hiring Jared Benko as the school’s 15th Director of Athletics, per ESPN's @PeteThamel. \n\nBenko comes from Auburn where he spent the last two years as the school’s Executive Deputy Athletic Director.",
+      "url": "https://x.com/cyclonefanatic/status/2111143801066602935",
+      "published": "2026-10-16T12:14:39-05:00",
+      "published_display": "Oct 16, 2026",
+      "likes": 131,
+      "retweets": 10,
+      "replies": 5,
+      "views": 6246,
+      "topic": "X / social",
+      "source_priority": "other",
+      "rank_score": 89
     },
     {
       "id": "x-2099592706225832265",
@@ -443,13 +477,30 @@
       "url": "https://x.com/YahooSports/status/2099592706225832265",
       "published": "2026-09-14T15:14:44-05:00",
       "published_display": "Sep 14, 2026",
-      "likes": 2766,
+      "likes": 2765,
       "retweets": 160,
       "replies": 21,
       "views": 63828,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
-      "rank_score": 90
+      "rank_score": 88
+    },
+    {
+      "id": "x-2111141049594699886",
+      "type": "x",
+      "author": "@IowaEverywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "BREAKING: Iowa State Hires Jared Benko as its next Athletic Director, per @PeteThamel \n\nJoin @ChrisMWilliams, @JakeBrendTV, and @LeviRStev for a LIVE reaction at 3 pm this afternoon following Murph & Andy!",
+      "url": "https://x.com/IowaEverywhere/status/2111141049594699886",
+      "published": "2026-10-16T12:03:43-05:00",
+      "published_display": "Oct 16, 2026",
+      "likes": 50,
+      "retweets": 6,
+      "replies": null,
+      "views": 11427,
+      "topic": "X / social",
+      "source_priority": "other",
+      "rank_score": 87
     },
     {
       "id": "x-2096309361005969853",
@@ -463,59 +514,8 @@
       "likes": 1249,
       "retweets": 225,
       "replies": 9,
-      "views": 898296,
+      "views": 898318,
       "topic": "Official — SEMO highlight",
-      "source_priority": "other",
-      "rank_score": 89
-    },
-    {
-      "id": "news-2026-9-16-football-cyclones-in-the-nfl-2",
-      "type": "news",
-      "author": "Iowa State Athletics",
-      "author_name": "Iowa State Athletics",
-      "text": "Cyclones in the NFL: Week 1 Recap — 13 Cyclones took the field; Purdy, Montgomery, and more.",
-      "url": "https://cyclones.com/news/2026/9/16/football-cyclones-in-the-nfl-2week-1-recap",
-      "published": "2026-09-16T08:00:00-05:00",
-      "published_display": "Sep 16, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Official news",
-      "source_priority": "official",
-      "rank_score": 88
-    },
-    {
-      "id": "news-2026-9-15-football-primer-iowa-state-vs",
-      "type": "news",
-      "author": "Iowa State Athletics",
-      "author_name": "Iowa State Athletics",
-      "text": "PRIMER: Iowa State vs. Bowling Green — Saturday, Sept. 19, 11 a.m. CT on ESPNU at Jack Trice Stadium.",
-      "url": "https://cyclones.com/news/2026/9/15/football-primer-iowa-state-vs-bowling-green",
-      "published": "2026-09-15T12:00:00-05:00",
-      "published_display": "Sep 15, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Gameday primer",
-      "source_priority": "official",
-      "rank_score": 87
-    },
-    {
-      "id": "x-2099262200737128671",
-      "type": "x",
-      "author": "@CycloneFB",
-      "author_name": "Iowa State Football",
-      "text": "More to come.",
-      "url": "https://x.com/CycloneFB/status/2099262200737128671",
-      "published": "2026-09-13T17:21:25-05:00",
-      "published_display": "Sep 13, 2026",
-      "likes": 1294,
-      "retweets": 71,
-      "replies": 21,
-      "views": 38317,
-      "topic": "Official social",
       "source_priority": "other",
       "rank_score": 86
     }
