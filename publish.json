@@ -1,16 +1,33 @@
 {
- "updated_at": "2026-10-16T18:22:12-05:00",
- "last_slot": "6pm CT",
+ "updated_at": "2026-10-18T05:51:33-05:00",
+ "last_slot": "6am CT",
  "last_published": true,
  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
- "reason": "Social top5 membership changed; new high-signal YT in top8: yt-s8iTK5wohe4; new high-signal social in top8: cf-creighton-preview-cyclones-host-bluejays, cf-peterson-jared-benko-s-iowa-state-sugges, ie-24-team-college-football-playoff-a-game, ie-reaction-jared-benko-named-iowa-state-ad",
- "change_summary": "Friday 6pm CT refresh: Cyclone Fanatic added a Creighton men's basketball exhibition preview (\"Cyclones host Bluejays in first exhibition test\") and Rob Peterson's column on Jared Benko's suggestion box, both now in social top 5. Iowa Everywhere posted more Benko and playoff-expansion videos (\"Iowa State Hires Jared Benko: Is He the Right Choice?\", \"24-Team College Football Playoff: A Game Changer for Iowa & Iowa State?\"), and its CW Pod Benko reaction moved into YouTube top 8. Daily Clone pair unchanged (\"Can Iowa State Go 10 Deep?\" and \"WBB Media Day Takeaways\"); no new Daily Clone today.",
- "prior_published_at": "2026-10-16T04:22:01-05:00",
+ "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--EGKYGHL4eM, yt-lKCc2Fv8KlM, yt-m1pia66nzKc; new high-signal social in top8: cf-big-man-blake-buchanan-s-both-a-fireman, cf-from-paintball-prowess-to-playing-time-i",
+ "change_summary": "Sunday 6am CT refresh: Cyclone Fanatic posted two new men's basketball features from Rob Gray ahead of today's noon exhibition vs. Creighton (\"From paintball prowess to playing time, ISU guard Ryan Prather Jr.'s primed to contribute\" and \"Big man Blake Buchanan's both a 'fireman' and a 'policeman' in the paint\"); both now lead social. YouTube top 5 reshuffled with older CF videos (Williams & Blum, an Oct 13 Daily Clone); no new CF/IE uploads. Daily Clone pair unchanged (\"Can Iowa State Go 10 Deep?\" and \"WBB Media Day Takeaways\").",
+ "prior_published_at": "2026-10-16T18:22:12-05:00",
  "prior_slot": "4am CT",
- "generated_at": "2026-10-16T18:22:12-05:00",
- "generated_at_display": "Fri Oct 16, 2026 \u00b7 6:22 PM CT",
+ "generated_at": "2026-10-18T05:51:33-05:00",
+ "generated_at_display": "Sun Oct 18, 2026 \u00b7 5:51 AM CT",
  "meaningful": true,
  "daily_clones": [
+  {
+   "title": "Can Iowa State Go 10 Deep? DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
+   "published_display": "2 days ago"
+  },
+  {
+   "title": "WBB Media Day Takeaways | DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
+   "published_display": "3 days ago"
+  }
+ ],
+ "last_actual_publish_at": "2026-10-16T18:22:12-05:00",
+ "last_actual_publish_commit": "707a59e",
+ "prior_meaningful": true,
+ "prior_reason": "Social top5 membership changed; new high-signal YT in top8: yt-s8iTK5wohe4; new high-signal social in top8: cf-creighton-preview-cyclones-host-bluejays, cf-peterson-jared-benko-s-iowa-state-sugges, ie-24-team-college-football-playoff-a-game, ie-reaction-jared-benko-named-iowa-state-ad",
+ "prior_change_summary": "Friday 6pm CT refresh: Cyclone Fanatic added a Creighton men's basketball exhibition preview (\"Cyclones host Bluejays in first exhibition test\") and Rob Peterson's column on Jared Benko's suggestion box, both now in social top 5. Iowa Everywhere posted more Benko and playoff-expansion videos (\"Iowa State Hires Jared Benko: Is He the Right Choice?\", \"24-Team College Football Playoff: A Game Changer for Iowa & Iowa State?\"), and its CW Pod Benko reaction moved into YouTube top 8. Daily Clone pair unchanged (\"Can Iowa State Go 10 Deep?\" and \"WBB Media Day Takeaways\"); no new Daily Clone today.",
+ "prior_daily_clones": [
   {
    "title": "Can Iowa State Go 10 Deep? DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
@@ -22,26 +39,14 @@
    "published_display": "2 days ago"
   }
  ],
- "last_actual_publish_at": "2026-10-16T18:22:12-05:00",
- "last_actual_publish_commit": "707a59e",
- "prior_meaningful": true,
- "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-qkB2iWFvmIE, yt-xJ5WPVBy44Q; new high-signal social in top8: cf-big-12-buzz-week-7-preview, cf-iowa-state-names-jared-benko-as-new-athl, cf-williams-who-is-jared-benko-and-why-does, ie-new-isu-ad-and-cfp-expansion-murph-andy, ie-reaction-jared-benko-named-iowa-state-at",
- "prior_change_summary": "Friday 2pm CT refresh: Iowa State hired Jared Benko (from Auburn) as its new athletic director. Cyclone Fanatic's Benko announcement and Chris Williams column now lead social, CF's breaking X post and IE's live-reaction X post added; IE's \"New ISU AD and CFP Expansion: Murph & Andy\" and \"REACTION: Jared Benko Named Iowa State AD | CW Pod\" enter YouTube top 10. CF's \"Week 7 Picks & Preview | Picks After Dark\" enters YouTube top5 (#3). Daily Clone pair unchanged (\"Can Iowa State Go 10 Deep?\" and \"WBB Media Day Takeaways\"); no new Daily Clone yet today.",
- "prior_daily_clones": [
-  {
-   "title": "Can Iowa State Go 10 Deep? DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
-   "published_display": "1 day ago"
-  },
-  {
-   "title": "WBB Media Day Takeaways | DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
-   "published_display": "1 day ago"
-  }
- ],
  "prior_last_published": true,
- "prior_updated_at": "2026-10-16T14:27:40-05:00",
- "prior_last_slot": "2pm CT",
- "prior_generated_at": "2026-10-16T14:27:40-05:00",
- "prior_generated_at_display": "Fri Oct 16, 2026 \u00b7 2:27 PM CT"
+ "prior_updated_at": "2026-10-16T18:22:12-05:00",
+ "prior_last_slot": "6pm CT",
+ "prior_generated_at": "2026-10-16T18:22:12-05:00",
+ "prior_generated_at_display": "Fri Oct 16, 2026 \u00b7 6:22 PM CT",
+ "last_checked_at": "2026-10-18T05:51:33-05:00",
+ "last_checked_slot": "6am CT Sun Oct 18",
+ "last_check_meaningful": true,
+ "last_check_published": true,
+ "last_check_reason": "New CF basketball features (Prather, Buchanan) entered social top 5."
 }
