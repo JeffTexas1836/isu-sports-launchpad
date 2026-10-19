@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-18T13:49:22-05:00",
- "last_slot": "2pm CT",
+ "updated_at": "2026-10-19T05:49:05-05:00",
+ "last_slot": "6am CT",
  "last_published": true,
  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
- "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-u_ysDZScb5w",
- "change_summary": "Sunday 2pm CT refresh: Cyclone Fanatic posted a new Williams & Blum episode (\"Big 12's time is now and a new era at Iowa State\") about 1:40 PM CT; it's now #3 on YouTube behind the two Daily Clones. Social top 5 unchanged (CF's Buchanan and Prather MBB features still lead). No new Iowa Everywhere uploads. Daily Clone pair unchanged (\"Can Iowa State Go 10 Deep?\" and \"WBB Media Day Takeaways\").",
- "prior_published_at": "2026-10-18T05:51:33-05:00",
+ "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-AK6bHX3rksk, yt-NpRdsohWb4A, yt-eO7Kr7OQtIY, yt-iL3-kJ16Vj4; new high-signal social in top8: cf-creighton-recap-with-jake-brend, cf-iowa-state-s-late-rally-falls-short-in-8, cf-peterson-iowa-state-offense-improvement, cf-williams-dear-sec-nobody-made-you-do-thi",
+ "change_summary": "Monday 6am CT refresh: Cyclone Fanatic posted a batch of men's basketball videos after Sunday's 83-80 exhibition loss to Creighton (Creighton Exhibition Recap with Jake Brend, highlights, and postgame pressers from T.J. Otzelberger and Taj Manning & Jamarion Batemon); the recap is now #3 on YouTube behind the two Daily Clones. Social top 5 now led by new CF pieces: Williams' \"Dear SEC, nobody made you do this\", the Creighton recap and game story, and Peterson on ISU's offense beyond QB1. No new Iowa Everywhere uploads. Daily Clone pair unchanged (\"Can Iowa State Go 10 Deep?\" and \"WBB Media Day Takeaways\").",
+ "prior_published_at": "2026-10-18T13:49:22-05:00",
  "prior_slot": "6am CT",
- "generated_at": "2026-10-18T13:49:22-05:00",
- "generated_at_display": "Sun Oct 18, 2026 \u00b7 1:49 PM CT",
+ "generated_at": "2026-10-19T05:49:05-05:00",
+ "generated_at_display": "Mon Oct 19, 2026 \u00b7 5:49 AM CT",
  "meaningful": true,
  "daily_clones": [
   {
@@ -19,19 +19,19 @@
   {
    "title": "WBB Media Day Takeaways | DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=CxOZt2_VK8g",
-   "published_display": "3 days ago"
+   "published_display": "4 days ago"
   }
  ],
- "last_actual_publish_at": "2026-10-18T13:49:22-05:00",
+ "last_actual_publish_at": "2026-10-19T05:49:05-05:00",
  "last_actual_publish_commit": "ebc4d39",
  "prior_meaningful": true,
- "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--EGKYGHL4eM, yt-lKCc2Fv8KlM, yt-m1pia66nzKc; new high-signal social in top8: cf-big-man-blake-buchanan-s-both-a-fireman, cf-from-paintball-prowess-to-playing-time-i",
- "prior_change_summary": "Sunday 6am CT refresh: Cyclone Fanatic posted two new men's basketball features from Rob Gray ahead of today's noon exhibition vs. Creighton (\"From paintball prowess to playing time, ISU guard Ryan Prather Jr.'s primed to contribute\" and \"Big man Blake Buchanan's both a 'fireman' and a 'policeman' in the paint\"); both now lead social. YouTube top 5 reshuffled with older CF videos (Williams & Blum, an Oct 13 Daily Clone); no new CF/IE uploads. Daily Clone pair unchanged (\"Can Iowa State Go 10 Deep?\" and \"WBB Media Day Takeaways\").",
+ "prior_reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-u_ysDZScb5w",
+ "prior_change_summary": "Sunday 2pm CT refresh: Cyclone Fanatic posted a new Williams & Blum episode (\"Big 12's time is now and a new era at Iowa State\") about 1:40 PM CT; it's now #3 on YouTube behind the two Daily Clones. Social top 5 unchanged (CF's Buchanan and Prather MBB features still lead). No new Iowa Everywhere uploads. Daily Clone pair unchanged (\"Can Iowa State Go 10 Deep?\" and \"WBB Media Day Takeaways\").",
  "prior_daily_clones": [
   {
    "title": "Can Iowa State Go 10 Deep? DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
-   "published_display": "2 days ago"
+   "published_display": "3 days ago"
   },
   {
    "title": "WBB Media Day Takeaways | DAILY CLONE",
@@ -40,13 +40,13 @@
   }
  ],
  "prior_last_published": true,
- "prior_updated_at": "2026-10-18T05:51:33-05:00",
- "prior_last_slot": "6am CT",
- "prior_generated_at": "2026-10-18T05:51:33-05:00",
- "prior_generated_at_display": "Sun Oct 18, 2026 \u00b7 5:51 AM CT",
- "last_checked_at": "2026-10-18T13:49:22-05:00",
- "last_checked_slot": "2pm CT Sun Oct 18",
+ "prior_updated_at": "2026-10-18T13:49:22-05:00",
+ "prior_last_slot": "2pm CT",
+ "prior_generated_at": "2026-10-18T13:49:22-05:00",
+ "prior_generated_at_display": "Sun Oct 18, 2026 \u00b7 1:49 PM CT",
+ "last_checked_at": "2026-10-19T05:49:05-05:00",
+ "last_checked_slot": "6am CT Mon Oct 19",
  "last_check_meaningful": true,
  "last_check_published": true,
- "last_check_reason": "New CF Williams & Blum video entered YouTube top 5."
+ "last_check_reason": "New CF Creighton exhibition videos and CF articles entered YouTube and social top 5."
 }
