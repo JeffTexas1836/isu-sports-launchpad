@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-10-20T05:55:20-05:00",
-  "generated_at_display": "Tue Oct 20, 2026 · 5:55 AM CT",
+  "generated_at": "2026-10-20T13:58:25-05:00",
+  "generated_at_display": "Tue Oct 20, 2026 · 1:58 PM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -15,8 +15,8 @@
     "url": "https://www.youtube.com/watch?v=E-a6v_gsuV0",
     "channel": "Cyclone Fanatic",
     "published": "2026-10-19T16:20:18-05:00",
-    "published_display": "13 hours ago",
-    "views": 1129
+    "published_display": "21 hours ago",
+    "views": 1397
   },
   "daily_clones": [
     {
@@ -25,8 +25,8 @@
       "url": "https://www.youtube.com/watch?v=E-a6v_gsuV0",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-19T16:20:18-05:00",
-      "published_display": "13 hours ago",
-      "views": 1129
+      "published_display": "21 hours ago",
+      "views": 1397
     },
     {
       "found": true,
@@ -34,8 +34,8 @@
       "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-15T12:35:31-05:00",
-      "published_display": "4 days ago",
-      "views": 3735
+      "published_display": "5 days ago",
+      "views": 0
     }
   ],
   "sources_note": {
@@ -59,7 +59,9 @@
       "YouTube @CyclonesTV handle maps to unrelated channel; used Cyclones.tv RSS UCOzN9D4MUO5jYbCSEE2iYEA",
       "YouTube @CycloneFanatic handle maps to empty channel; used UC7_Jgn6pDG-tS0dRgXqdBEA",
       "cyclones.com/rss.aspx empty; /news listing 404 — used football pages + known article URLs",
-      "iowaeverywhere.com/feed/ returns HTML not RSS; used episode pages + YouTube"
+      "iowaeverywhere.com/feed/ returns HTML not RSS; used episode pages + YouTube",
+      "Filled Daily Clone from search: Can Iowa State Go 10 Deep? DAILY CLONE",
+      "Merged/filled 1 Daily Clone(s) to keep two featured"
     ]
   },
   "counts": {
@@ -73,8 +75,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=E-a6v_gsuV0",
       "published": "2026-10-19T16:20:18-05:00",
-      "published_display": "13 hours ago",
-      "views": 1129,
+      "published_display": "21 hours ago",
+      "views": 1397,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -86,77 +88,90 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=OWe65TTn4nQ",
       "published": "2026-10-15T12:35:31-05:00",
-      "published_display": "4 days ago",
-      "views": 3735,
+      "published_display": "5 days ago",
+      "views": 0,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 99
     },
     {
-      "id": "yt-TBMqwpbDPic",
-      "title": "Cook invested in Athletics",
+      "id": "yt-esVL-X2G_Vc",
+      "title": "Jimmy Rogers Pre Arizona Press Conference",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=TBMqwpbDPic",
-      "published": "2026-10-19T22:34:31-05:00",
-      "published_display": "7 hours ago",
-      "views": 900,
+      "url": "https://www.youtube.com/watch?v=esVL-X2G_Vc",
+      "published": "2026-10-20T12:59:29-05:00",
+      "published_display": "58 min ago",
+      "views": 190,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 98
     },
     {
-      "id": "yt-UYYy6-xV2HI",
-      "title": "Jared Benko Introduced as new Iowa State Director of Athletics",
+      "id": "yt-eTkKzUr7iUg",
+      "title": "Iowa State at Arizona Preview, Benko Era Begins & Basketball Takeaways | Williams & Blum",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=UYYy6-xV2HI",
-      "published": "2026-10-19T13:12:21-05:00",
-      "published_display": "16 hours ago",
-      "views": 4183,
-      "sport": "football",
+      "url": "https://www.youtube.com/watch?v=eTkKzUr7iUg",
+      "published": "2026-10-20T11:10:38-05:00",
+      "published_display": "2 hours ago",
+      "views": 589,
+      "sport": "basketball",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 97
     },
     {
-      "id": "yt-BY40MkEQuKE",
-      "title": "Williams & Brend Recap Jared Benko's Introduction",
+      "id": "yt-7Hsafb_947Q",
+      "title": "Tyler Roehl Pre Arizona Press Conference",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=BY40MkEQuKE",
-      "published": "2026-10-19T13:30:22-05:00",
-      "published_display": "16 hours ago",
-      "views": 2986,
+      "url": "https://www.youtube.com/watch?v=7Hsafb_947Q",
+      "published": "2026-10-20T13:16:15-05:00",
+      "published_display": "42 min ago",
+      "views": 29,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 96
     },
     {
-      "id": "yt-R1pBWy5vfKk",
-      "title": "Jared Benko wants to win",
+      "id": "yt-5_tSHz-BeE0",
+      "title": "Jaylen Raynor Pre Arizona Interview",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=R1pBWy5vfKk",
-      "published": "2026-10-19T14:46:36-05:00",
-      "published_display": "15 hours ago",
-      "views": 1895,
+      "url": "https://www.youtube.com/watch?v=5_tSHz-BeE0",
+      "published": "2026-10-20T13:34:56-05:00",
+      "published_display": "23 min ago",
+      "views": 8,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 95
     },
     {
-      "id": "yt-EMKOKXSpWgU",
-      "title": "\"I wouldn't be here if I thought Iowa State had hit it's ceiling\"",
+      "id": "yt-Pu5DUM3dTa4",
+      "title": "Carson Willich Pre Arizona Interview",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=EMKOKXSpWgU",
-      "published": "2026-10-19T16:59:52-05:00",
-      "published_display": "12 hours ago",
-      "views": 816,
+      "url": "https://www.youtube.com/watch?v=Pu5DUM3dTa4",
+      "published": "2026-10-20T13:30:24-05:00",
+      "published_display": "28 min ago",
+      "views": 8,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
+    },
+    {
+      "id": "yt-x7pdrKyv2fk",
+      "title": "Will Jared Benko be a good fit at Iowa State?",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=x7pdrKyv2fk",
+      "published": "2026-10-20T10:27:34-05:00",
+      "published_display": "3 hours ago",
+      "views": 221,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "yt-OxNwaU0e_5s",
@@ -164,12 +179,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=OxNwaU0e_5s",
       "published": "2026-10-19T19:41:06-05:00",
-      "published_display": "10 hours ago",
-      "views": 4502,
+      "published_display": "18 hours ago",
+      "views": 7655,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "yt-cZSGWujQNB8",
@@ -177,12 +192,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=cZSGWujQNB8",
       "published": "2026-10-19T14:24:16-05:00",
-      "published_display": "15 hours ago",
-      "views": 3210,
+      "published_display": "23 hours ago",
+      "views": 3520,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 92
+      "rank_score": 91
     },
     {
       "id": "yt-819bpahuiRY",
@@ -190,21 +205,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=819bpahuiRY",
       "published": "2026-10-19T17:15:18-05:00",
-      "published_display": "12 hours ago",
-      "views": 1084,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "iowa_everywhere",
-      "rank_score": 91
-    },
-    {
-      "id": "yt-335OS-pa-Lw",
-      "title": "Jared Benko's First Impression: Is Iowa State Ready for a Fresh Start? | Murph & Andy",
-      "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=335OS-pa-Lw",
-      "published": "2026-10-19T14:59:24-05:00",
-      "published_display": "14 hours ago",
-      "views": 1418,
+      "published_display": "20 hours ago",
+      "views": 1328,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -216,8 +218,8 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=VFosRntPRE0",
       "published": "2026-10-19T22:53:07-05:00",
-      "published_display": "7 hours ago",
-      "views": 2135,
+      "published_display": "15 hours ago",
+      "views": 2378,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -229,8 +231,8 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=WrN9JItbOBs",
       "published": "2026-10-19T13:40:17-05:00",
-      "published_display": "16 hours ago",
-      "views": 90,
+      "published_display": "1 day ago",
+      "views": 102,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -242,8 +244,8 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=ztenxxq7S40",
       "published": "2026-10-19T13:39:56-05:00",
-      "published_display": "16 hours ago",
-      "views": 61,
+      "published_display": "1 day ago",
+      "views": 64,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -256,7 +258,7 @@
       "url": "https://www.youtube.com/watch?v=Jscl-vxummY",
       "published": "2026-10-05T10:18:21-05:00",
       "published_display": "Oct 5, 2026",
-      "views": 10988,
+      "views": 10993,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -264,6 +266,23 @@
     }
   ],
   "social": [
+    {
+      "id": "cf-watch-jimmy-rogers-tyler-roehl-jaylen-ra",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "WATCH Jimmy Rogers, Tyler Roehl, Jaylen Raynor and others ahead of Arizona",
+      "url": "https://cyclonefanatic.com/2026/10/watch-jimmy-rogers-tyler-roehl-jaylen-raynor-and-others-ahead-of-arizona/",
+      "published": "2026-10-20T13:41:46-05:00",
+      "published_display": "Oct 20, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
     {
       "id": "cf-five-arizona-players-to-know-on-saturday",
       "type": "news",
@@ -279,7 +298,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 99
     },
     {
       "id": "cf-new-iowa-state-ad-jared-benko-our-best-d",
@@ -296,7 +315,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 98
     },
     {
       "id": "cf-watch-as-iowa-state-officially-introduce",
@@ -313,7 +332,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "cf-monday-musings-a-series-of-love-letters",
@@ -330,7 +349,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "cf-williams-dear-sec-nobody-made-you-do-thi",
@@ -347,24 +366,24 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
+      "rank_score": 95
     },
     {
-      "id": "cf-creighton-recap-with-jake-brend",
+      "id": "ie-will-jared-benko-be-a-good-fit-at-iowa-s",
       "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "Creighton Recap with Jake Brend",
-      "url": "https://cyclonefanatic.com/2026/10/creighton-recap-with-jake-brend/",
-      "published": "2026-10-18T16:59:44-05:00",
-      "published_display": "Oct 18, 2026",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Will Jared Benko be a good fit at Iowa State? (YouTube clip)",
+      "url": "https://www.youtube.com/watch?v=x7pdrKyv2fk",
+      "published": "2026-10-20T10:27:34-05:00",
+      "published_display": "Oct 20, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
       "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 94
     },
     {
       "id": "ie-jared-benko-takes-over-as-iowa-state-s-d",
@@ -381,7 +400,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 94
+      "rank_score": 93
     },
     {
       "id": "ie-iowa-state-s-new-a-d",
@@ -391,23 +410,6 @@
       "text": "Iowa State’s New A.D. (YouTube clip)",
       "url": "https://www.youtube.com/watch?v=819bpahuiRY",
       "published": "2026-10-19T17:15:18-05:00",
-      "published_display": "Oct 19, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
-      "rank_score": 93
-    },
-    {
-      "id": "ie-jared-benko-s-first-impression-is-iowa-s",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "Jared Benko's First Impression: Is Iowa State Ready for a Fresh Start? | Murph & Andy (YouTube)",
-      "url": "https://www.youtube.com/watch?v=335OS-pa-Lw",
-      "published": "2026-10-19T14:59:24-05:00",
       "published_display": "Oct 19, 2026",
       "likes": null,
       "retweets": null,
@@ -446,7 +448,7 @@
       "likes": 5864,
       "retweets": 744,
       "replies": 57,
-      "views": 122858,
+      "views": 122861,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 90
@@ -460,10 +462,10 @@
       "url": "https://x.com/YahooSports/status/2099592706225832265",
       "published": "2026-09-14T15:14:44-05:00",
       "published_display": "Sep 14, 2026",
-      "likes": 2767,
+      "likes": 2766,
       "retweets": 160,
       "replies": 21,
-      "views": 63833,
+      "views": 63835,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
       "rank_score": 89
@@ -480,7 +482,7 @@
       "likes": 1249,
       "retweets": 225,
       "replies": 9,
-      "views": 898519,
+      "views": 898535,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 88
