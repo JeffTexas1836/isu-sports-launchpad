@@ -1,14 +1,36 @@
 {
- "updated_at": "2026-10-21T13:52:00-05:00",
- "last_slot": "2pm CT",
+ "updated_at": "2026-10-22T05:54:49-05:00",
+ "last_slot": "6am CT",
  "last_published": true,
  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
- "reason": "Daily Clone URL changed; YouTube top5 membership changed; new high-signal YT in top8: yt--6RWQmARaZw",
- "change_summary": "Wednesday 2pm CT refresh: a new Cyclone Fanatic Daily Clone, \"What's the Disconnect on Raynor Opinions?\" (posted about 11 AM CT), now leads alongside 'How Jared Benko can help Jimmy Rogers win'; 'The Future of Iowa State Athletics is NOW' rotated out. CF's Litecast moved up ahead of the Arizona Preview (Down the Pipe). Social top items unchanged, led by CF's 'MONEY hire' article.",
- "generated_at": "2026-10-21T13:51:35-05:00",
- "generated_at_display": "Wed Oct 21, 2026 \u00b7 1:51 PM CT",
+ "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-Ff0iA12JMzE, yt-VVQyqdaiJNU, yt-eobtOXZAMmA, yt-jg8LjoaJDtM, yt-rPUf9womqgU, yt-sIm-eqnuU8o; new high-signal social in top8: cf-isu-qb-jaylen-raynor-vows-to-improve-on, cf-the-frost-twins-high-motors-help-power-i, cf-watch-full-interviews-from-iowa-state-wr, ie-jared-benko-and-jimmy-rogers-challenge-a",
+ "change_summary": "Thursday 6am CT refresh: the two Daily Clones are unchanged (Raynor opinions and Benko/Rogers). New in the top YouTube items: CF's The Beat Reporters (Arizona preview, exhibition overreactions) and The Night Cap (mid-season report cards), plus wrestling media day interviews; Iowa Everywhere added a Two Guys episode on Benko and Rogers. Social now leads with CF's Raynor 'middle range' midseason grade story and wrestling media day coverage.",
+ "generated_at": "2026-10-22T05:54:49-05:00",
+ "generated_at_display": "Thu Oct 22, 2026 · 5:54 AM CT",
  "meaningful": true,
  "daily_clones": [
+  {
+   "title": "What's the Disconnect on Raynor Opinions? DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=-6RWQmARaZw",
+   "published_display": "18 hours ago"
+  },
+  {
+   "title": "How Jared Benko can help Jimmy Rogers win | DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=y8Uud74WtLo",
+   "published_display": "1 day ago"
+  }
+ ],
+ "last_actual_publish_at": "2026-10-21T05:51:12-05:00",
+ "last_actual_publish_commit": "0e24768",
+ "last_checked_at": "2026-10-22T05:54:49-05:00",
+ "last_checked_slot": "6am CT Thu Oct 22",
+ "last_check_meaningful": true,
+ "last_check_published": true,
+ "last_check_reason": "Thursday 6am CT refresh: the two Daily Clones are unchanged (Raynor opinions and Benko/Rogers). New in the top YouTube items: CF's The Beat Reporters (Arizona preview, exhibition overreactions) and Th",
+ "prior_meaningful": true,
+ "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; new high-signal YT in top8: yt--6RWQmARaZw",
+ "prior_change_summary": "Wednesday 2pm CT refresh: a new Cyclone Fanatic Daily Clone, \"What's the Disconnect on Raynor Opinions?\" (posted about 11 AM CT), now leads alongside 'How Jared Benko can help Jimmy Rogers win'; 'The Future of Iowa State Athletics is NOW' rotated out. CF's Litecast moved up ahead of the Arizona Preview (Down the Pipe). Social top items unchanged, led by CF's 'MONEY hire' article.",
+ "prior_daily_clones": [
   {
    "title": "What's the Disconnect on Raynor Opinions? DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=-6RWQmARaZw",
@@ -20,33 +42,11 @@
    "published_display": "22 hours ago"
   }
  ],
- "last_actual_publish_at": "2026-10-21T05:51:12-05:00",
- "last_actual_publish_commit": "0e24768",
- "last_checked_at": "2026-10-21T13:52:00-05:00",
- "last_checked_slot": "2pm CT Wed Oct 21",
- "last_check_meaningful": true,
- "last_check_published": true,
- "last_check_reason": "New Daily Clone (Raynor opinions) replaced 'Future of Iowa State Athletics'; Litecast moved up.",
- "prior_meaningful": true,
- "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-cjFNwbRrgwQ, yt-m7FExI-rFi4, yt-pEwhiPZyFkc, yt-pVOUE0uSm0I, yt-y8Uud74WtLo; new high-signal social in top8: cf-money-hire-isu-s-jimmy-rogers-calls-new, ie-hecklinski-named-iowa-s-starting-qb-iowa",
- "prior_change_summary": "Wednesday 6am CT refresh: a new Cyclone Fanatic Daily Clone, 'How Jared Benko can help Jimmy Rogers win' (posted Tuesday afternoon), now leads alongside 'The Future of Iowa State Athletics is NOW'; 'Can Iowa State Go 10 Deep?' rotated out. CF's Arizona Preview (Down the Pipe) and a Litecast episode joined the top YouTube items. CF's article '\u201cMONEY\u201d HIRE: ISU\u2019s Jimmy Rogers calls new AD Jared Benko \u201cthe right guy for the job\u201d' now leads social, and Iowa Everywhere added a Two Guys episode with an Iowa State-Arizona preview and picks.",
- "prior_daily_clones": [
-  {
-   "title": "How Jared Benko can help Jimmy Rogers win | DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=y8Uud74WtLo",
-   "published_display": "14 hours ago"
-  },
-  {
-   "title": "The Future of Iowa State Athletics is NOW | DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=E-a6v_gsuV0",
-   "published_display": "1 day ago"
-  }
- ],
  "prior_last_published": true,
- "prior_updated_at": "2026-10-21T05:51:12-05:00",
- "prior_last_slot": "6am CT",
- "prior_generated_at": "2026-10-21T05:50:51-05:00",
- "prior_generated_at_display": "Wed Oct 21, 2026 \u00b7 5:50 AM CT",
+ "prior_updated_at": "2026-10-21T13:52:00-05:00",
+ "prior_last_slot": "2pm CT",
+ "prior_generated_at": "2026-10-21T13:51:35-05:00",
+ "prior_generated_at_display": "Wed Oct 21, 2026 · 1:51 PM CT",
  "prior_published_at": "2026-10-20T13:58:25-05:00",
  "prior_slot": "2pm CT"
 }
