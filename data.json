@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-10-22T05:54:49-05:00",
-  "generated_at_display": "Thu Oct 22, 2026 · 5:54 AM CT",
+  "generated_at": "2026-10-22T13:50:35-05:00",
+  "generated_at_display": "Thu Oct 22, 2026 · 1:50 PM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -11,31 +11,31 @@
   ],
   "daily_clone": {
     "found": true,
-    "title": "What's the Disconnect on Raynor Opinions? DAILY CLONE",
-    "url": "https://www.youtube.com/watch?v=-6RWQmARaZw",
+    "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
+    "url": "https://www.youtube.com/watch?v=_bBG3tJV5SQ",
     "channel": "Cyclone Fanatic",
-    "published": "2026-10-21T11:02:29-05:00",
-    "published_display": "18 hours ago",
-    "views": 1965
+    "published": "2026-10-22T09:00:35-05:00",
+    "published_display": "4 hours ago",
+    "views": 397
   },
   "daily_clones": [
+    {
+      "found": true,
+      "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=_bBG3tJV5SQ",
+      "channel": "Cyclone Fanatic",
+      "published": "2026-10-22T09:00:35-05:00",
+      "published_display": "4 hours ago",
+      "views": 397
+    },
     {
       "found": true,
       "title": "What's the Disconnect on Raynor Opinions? DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=-6RWQmARaZw",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-21T11:02:29-05:00",
-      "published_display": "18 hours ago",
-      "views": 1965
-    },
-    {
-      "found": true,
-      "title": "How Jared Benko can help Jimmy Rogers win | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=y8Uud74WtLo",
-      "channel": "Cyclone Fanatic",
-      "published": "2026-10-20T15:30:31-05:00",
       "published_display": "1 day ago",
-      "views": 2221
+      "views": 2108
     }
   ],
   "sources_note": {
@@ -68,30 +68,56 @@
   },
   "youtube": [
     {
-      "id": "yt--6RWQmARaZw",
-      "title": "What's the Disconnect on Raynor Opinions? DAILY CLONE",
+      "id": "yt-_bBG3tJV5SQ",
+      "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=-6RWQmARaZw",
-      "published": "2026-10-21T11:02:29-05:00",
-      "published_display": "18 hours ago",
-      "views": 1965,
+      "url": "https://www.youtube.com/watch?v=_bBG3tJV5SQ",
+      "published": "2026-10-22T09:00:35-05:00",
+      "published_display": "4 hours ago",
+      "views": 397,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 100
     },
     {
-      "id": "yt-y8Uud74WtLo",
-      "title": "How Jared Benko can help Jimmy Rogers win | DAILY CLONE",
+      "id": "yt--6RWQmARaZw",
+      "title": "What's the Disconnect on Raynor Opinions? DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=y8Uud74WtLo",
-      "published": "2026-10-20T15:30:31-05:00",
+      "url": "https://www.youtube.com/watch?v=-6RWQmARaZw",
+      "published": "2026-10-21T11:02:29-05:00",
       "published_display": "1 day ago",
-      "views": 2221,
+      "views": 2108,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 99
+    },
+    {
+      "id": "yt-Ff0iA12JMzE",
+      "title": "Mid-season report cards, remaining schedule predictions and Arizona Preview | The Night Cap",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=Ff0iA12JMzE",
+      "published": "2026-10-22T10:40:37-05:00",
+      "published_display": "3 hours ago",
+      "views": 707,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 98
+    },
+    {
+      "id": "yt-0-IvLIKFrxc",
+      "title": "Iowa State vs. No. 25 Arizona Preview: Can the Cyclones Bounce Back? | CF PREGAME",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=0-IvLIKFrxc",
+      "published": "2026-10-22T11:00:27-05:00",
+      "published_display": "2 hours ago",
+      "views": 365,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 97
     },
     {
       "id": "yt-VVQyqdaiJNU",
@@ -99,25 +125,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=VVQyqdaiJNU",
       "published": "2026-10-22T04:00:17-05:00",
-      "published_display": "1 hour ago",
-      "views": 20,
+      "published_display": "9 hours ago",
+      "views": 840,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
-    },
-    {
-      "id": "yt-Ff0iA12JMzE",
-      "title": "Mid-season report cards, remaining schedule predictions and Arizona Preview | The Night Cap",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=Ff0iA12JMzE",
-      "published": "2026-10-21T19:34:55-05:00",
-      "published_display": "10 hours ago",
-      "views": 488,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "yt-rPUf9womqgU",
@@ -125,21 +138,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=rPUf9womqgU",
       "published": "2026-10-21T19:29:32-05:00",
-      "published_display": "10 hours ago",
-      "views": 218,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "yt-jg8LjoaJDtM",
-      "title": "Jacob Frost Media Day Interview",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=jg8LjoaJDtM",
-      "published": "2026-10-21T19:07:23-05:00",
-      "published_display": "10 hours ago",
-      "views": 232,
+      "published_display": "18 hours ago",
+      "views": 301,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -151,12 +151,25 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=sIm-eqnuU8o",
       "published": "2026-10-21T17:29:34-05:00",
-      "published_display": "12 hours ago",
-      "views": 658,
+      "published_display": "20 hours ago",
+      "views": 923,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
+    },
+    {
+      "id": "yt-hv0KtYqSn1w",
+      "title": "Jared Benko has Iowa State of offense",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=hv0KtYqSn1w",
+      "published": "2026-10-22T09:41:19-05:00",
+      "published_display": "4 hours ago",
+      "views": 412,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "yt-eobtOXZAMmA",
@@ -164,34 +177,21 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=eobtOXZAMmA",
       "published": "2026-10-21T17:00:35-05:00",
-      "published_display": "12 hours ago",
-      "views": 1126,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "iowa_everywhere",
-      "rank_score": 93
-    },
-    {
-      "id": "yt-pEwhiPZyFkc",
-      "title": "Hecklinski Named Iowa’s Starting QB! Iowa-Minnesota, Iowa State-Arizona Preview & Picks | Two Guys",
-      "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=pEwhiPZyFkc",
-      "published": "2026-10-21T04:00:23-05:00",
-      "published_display": "1 day ago",
-      "views": 9709,
+      "published_display": "20 hours ago",
+      "views": 1409,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
       "rank_score": 92
     },
     {
-      "id": "yt-cMHtcmtYAQg",
-      "title": "BIG 12 SQUAD - The Big 12 is still being DISRESPECTED | How the FPI Ranks Iowa State",
+      "id": "yt-2TfP2VazeXA",
+      "title": "TEST: Iowa State Will Finally Reveal TRUE Identity vs Arizona, Jimmy Rogers Top 25 Win Incoming",
       "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=cMHtcmtYAQg",
-      "published": "2026-10-21T16:00:06-05:00",
-      "published_display": "13 hours ago",
-      "views": 122,
+      "url": "https://www.youtube.com/watch?v=2TfP2VazeXA",
+      "published": "2026-10-22T07:00:39-05:00",
+      "published_display": "6 hours ago",
+      "views": 74,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
@@ -204,37 +204,24 @@
       "url": "https://www.youtube.com/watch?v=Jscl-vxummY",
       "published": "2026-10-05T10:18:21-05:00",
       "published_display": "Oct 5, 2026",
-      "views": 11011,
+      "views": 11013,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
       "rank_score": 90
     },
     {
-      "id": "yt-VFosRntPRE0",
-      "title": "Jared Benko Introductory Press Conference",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=VFosRntPRE0",
-      "published": "2026-10-19T22:53:07-05:00",
-      "published_display": "2 days ago",
-      "views": 2719,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
-      "rank_score": 89
-    },
-    {
-      "id": "yt-0ykh0-1V8oM",
-      "title": "BREAKING: Iowa State REFUSING To Make QB Change After Bye Week, Jimmy Rogers DEFENDS Jaylen Raynor",
+      "id": "yt-cMHtcmtYAQg",
+      "title": "BIG 12 SQUAD - The Big 12 is still being DISRESPECTED | How the FPI Ranks Iowa State",
       "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=0ykh0-1V8oM",
-      "published": "2026-10-21T07:44:44-05:00",
-      "published_display": "22 hours ago",
-      "views": 286,
+      "url": "https://www.youtube.com/watch?v=cMHtcmtYAQg",
+      "published": "2026-10-21T16:00:06-05:00",
+      "published_display": "21 hours ago",
+      "views": 173,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
-      "rank_score": 88
+      "rank_score": 89
     },
     {
       "id": "yt-Mbop85CVJRo",
@@ -243,7 +230,20 @@
       "url": "https://www.youtube.com/watch?v=Mbop85CVJRo",
       "published": "2026-10-16T16:23:36-05:00",
       "published_display": "5 days ago",
-      "views": 2766,
+      "views": 2768,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "official",
+      "rank_score": 88
+    },
+    {
+      "id": "yt-VFosRntPRE0",
+      "title": "Jared Benko Introductory Press Conference",
+      "channel": "Cyclones.tv",
+      "url": "https://www.youtube.com/watch?v=VFosRntPRE0",
+      "published": "2026-10-19T22:53:07-05:00",
+      "published_display": "2 days ago",
+      "views": 2724,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -265,6 +265,40 @@
   ],
   "social": [
     {
+      "id": "cf-peterson-rand-o-thoughts-on-iowa-state-a",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "PETERSON: Rand-O thoughts on Iowa State-Arizona, sleeping on the Big 12 and five predictions",
+      "url": "https://cyclonefanatic.com/2026/10/peterson-rand-o-thoughts-on-iowa-state-arizona-sleeping-on-the-big-12-and-five-predictions/",
+      "published": "2026-10-22T12:43:12-05:00",
+      "published_display": "Oct 22, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
+    {
+      "id": "cf-ty-claiborne-s-long-term-investment-in-i",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "Ty Claiborne’s long-term investment in Iowa State is finally paying off on the football field",
+      "url": "https://cyclonefanatic.com/2026/10/ty-claibornes-long-term-investment-in-iowa-state-is-finally-paying-off-on-the-football-field/",
+      "published": "2026-10-22T12:30:51-05:00",
+      "published_display": "Oct 22, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 99
+    },
+    {
       "id": "cf-watch-full-interviews-from-iowa-state-wr",
       "type": "news",
       "author": "Cyclone Fanatic",
@@ -279,7 +313,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 98
     },
     {
       "id": "cf-the-frost-twins-high-motors-help-power-i",
@@ -296,7 +330,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 97
     },
     {
       "id": "cf-isu-qb-jaylen-raynor-vows-to-improve-on",
@@ -313,7 +347,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 96
     },
     {
       "id": "cf-money-hire-isu-s-jimmy-rogers-calls-new",
@@ -330,51 +364,17 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
-    },
-    {
-      "id": "cf-watch-jimmy-rogers-tyler-roehl-jaylen-ra",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "WATCH Jimmy Rogers, Tyler Roehl, Jaylen Raynor and others ahead of Arizona",
-      "url": "https://cyclonefanatic.com/2026/10/watch-jimmy-rogers-tyler-roehl-jaylen-raynor-and-others-ahead-of-arizona/",
-      "published": "2026-10-20T13:41:46-05:00",
-      "published_display": "Oct 20, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "cf-five-arizona-players-to-know-on-saturday",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "Five Arizona players to know on Saturday against Iowa State",
-      "url": "https://cyclonefanatic.com/2026/10/five-arizona-players-to-know-on-saturday-against-iowa-state/",
-      "published": "2026-10-19T18:33:43-05:00",
-      "published_display": "Oct 19, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
       "rank_score": 95
     },
     {
-      "id": "ie-jared-benko-and-jimmy-rogers-challenge-a",
+      "id": "ie-jared-benko-has-iowa-state-of-offense",
       "type": "news",
       "author": "Iowa Everywhere",
       "author_name": "Iowa Everywhere",
-      "text": "Jared Benko and Jimmy Rogers' Challenge at Iowa State: Find a Way to Compete | Two Guys (YouTube)",
-      "url": "https://www.youtube.com/watch?v=eobtOXZAMmA",
-      "published": "2026-10-21T17:00:35-05:00",
-      "published_display": "Oct 21, 2026",
+      "text": "Jared Benko has Iowa State of offense (YouTube clip)",
+      "url": "https://www.youtube.com/watch?v=hv0KtYqSn1w",
+      "published": "2026-10-22T09:41:19-05:00",
+      "published_display": "Oct 22, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
@@ -384,13 +384,13 @@
       "rank_score": 94
     },
     {
-      "id": "ie-hecklinski-named-iowa-s-starting-qb-iowa",
+      "id": "ie-jared-benko-and-jimmy-rogers-challenge-a",
       "type": "news",
       "author": "Iowa Everywhere",
       "author_name": "Iowa Everywhere",
-      "text": "Hecklinski Named Iowa’s Starting QB! Iowa-Minnesota, Iowa State-Arizona Preview & Picks | Two Guys (YouTube)",
-      "url": "https://www.youtube.com/watch?v=pEwhiPZyFkc",
-      "published": "2026-10-21T04:00:23-05:00",
+      "text": "Jared Benko and Jimmy Rogers' Challenge at Iowa State: Find a Way to Compete | Two Guys (YouTube)",
+      "url": "https://www.youtube.com/watch?v=eobtOXZAMmA",
+      "published": "2026-10-21T17:00:35-05:00",
       "published_display": "Oct 21, 2026",
       "likes": null,
       "retweets": null,
@@ -418,23 +418,6 @@
       "rank_score": 92
     },
     {
-      "id": "ie-two-guys-jared-benko-takes-over-as-iowa",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "Two Guys / Jared Benko takes over as Iowa State's Director of Athletics, Big 12 makes a statement 2 days ago",
-      "url": "https://www.iowaeverywhere.com/episodes/jared-benko-takes-over-as-iowa-states-director-of-athletics-big-12-makes-a-statement",
-      "published": null,
-      "published_display": "",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
-      "rank_score": 91
-    },
-    {
       "id": "x-2098256013858165182",
       "type": "x",
       "author": "@realapp",
@@ -449,7 +432,7 @@
       "views": 122878,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
-      "rank_score": 90
+      "rank_score": 91
     },
     {
       "id": "x-2099592706225832265",
@@ -466,7 +449,7 @@
       "views": 63837,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
-      "rank_score": 89
+      "rank_score": 90
     },
     {
       "id": "x-2096309361005969853",
@@ -480,10 +463,10 @@
       "likes": 1249,
       "retweets": 225,
       "replies": 9,
-      "views": 898582,
+      "views": 898588,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
-      "rank_score": 88
+      "rank_score": 89
     },
     {
       "id": "news-2026-9-16-football-cyclones-in-the-nfl-2",
@@ -500,7 +483,7 @@
       "views": null,
       "topic": "Official news",
       "source_priority": "official",
-      "rank_score": 87
+      "rank_score": 88
     },
     {
       "id": "news-2026-9-15-football-primer-iowa-state-vs",
@@ -517,6 +500,23 @@
       "views": null,
       "topic": "Gameday primer",
       "source_priority": "official",
+      "rank_score": 87
+    },
+    {
+      "id": "x-2099262200737128671",
+      "type": "x",
+      "author": "@CycloneFB",
+      "author_name": "Iowa State Football",
+      "text": "More to come.",
+      "url": "https://x.com/CycloneFB/status/2099262200737128671",
+      "published": "2026-09-13T17:21:25-05:00",
+      "published_display": "Sep 13, 2026",
+      "likes": 1294,
+      "retweets": 71,
+      "replies": 21,
+      "views": 38341,
+      "topic": "Official social",
+      "source_priority": "other",
       "rank_score": 86
     }
   ]
