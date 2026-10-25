@@ -1,14 +1,36 @@
 {
- "updated_at": "2026-10-23T13:53:33-05:00",
- "last_slot": "2pm CT",
+ "updated_at": "2026-10-25T05:49:16-05:00",
+ "last_slot": "6am CT",
  "last_published": true,
  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
- "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--j_Dod7-AKo, yt-6f9D_SFrddg, yt-AxfZ5KcYDBA, yt-ggRsWZL7RRE; new high-signal social in top8: cf-big-12-buzz-week-8-preview, cf-cf-staff-picks-iowa-state-at-no-25-arizo, cf-josh-turner-named-new-senior-deputy-athl, ie-gopher-hunting-and-cyclones-in-the-deser",
- "change_summary": "Friday 2pm CT refresh: the two Daily Clones are unchanged (Brend's three keys at Arizona and the Raynor opinions episode). Cyclone Fanatic posted 'Final thoughts: Iowa State at Arizona', a Week 8 Picks After Dark preview, and an Offensively Offensive hoops roster preview ahead of the Creighton exhibition, all now in the top YouTube spots. Iowa Everywhere added a Murph & Andy episode, 'Gopher Hunting and Cyclones in the Desert'. CF social now leads with staff picks for Iowa State at No. 25 Arizona, Josh Turner being named senior deputy AD, and a Big 12 Buzz Week 8 preview.",
- "generated_at": "2026-10-23T13:53:33-05:00",
- "generated_at_display": "Fri Oct 23, 2026 · 1:53 PM CT",
+ "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-Qc2wfGKqglc, yt-fkXihQ5MfRk, yt-lxKHskpXAJo, yt-tAH088d0tbI, yt-ucZjQBq7rgQ, yt-wfx5tMiD4T8; new high-signal social in top8: cf-radio-recap-no-25-arizona-strikes-fast-t, ie-iowa-state-gets-embarrassed-at-arizona-i, ie-minnesota-reclaims-floyd-from-iowa-cyclo",
+ "change_summary": "Sunday 6am CT refresh after Iowa State's 39-3 loss at No. 25 Arizona: the two Daily Clones are unchanged (Brend's three keys and the Raynor opinions episode; no new episode yet). Cyclone Fanatic added CF POSTGAME 'Iowa State falls flat against No. 25 Arizona', the second-half watch party, and a Cyclone Therapy post-postgame show, plus a radio recap on social. Iowa Everywhere posted 'Instant Iowa State' asking whether it's time for a QB change and a Two Guys episode on Minnesota reclaiming Floyd.",
+ "generated_at": "2026-10-25T05:49:16-05:00",
+ "generated_at_display": "Sun Oct 25, 2026 \u00b7 5:49 AM CT",
  "meaningful": true,
  "daily_clones": [
+  {
+   "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=_bBG3tJV5SQ",
+   "published_display": "2 days ago"
+  },
+  {
+   "title": "What's the Disconnect on Raynor Opinions? DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=-6RWQmARaZw",
+   "published_display": "3 days ago"
+  }
+ ],
+ "last_actual_publish_at": "2026-10-25T05:49:16-05:00",
+ "last_actual_publish_commit": "40a7c76",
+ "last_checked_at": "2026-10-25T05:49:16-05:00",
+ "last_checked_slot": "6am CT Sun Oct 25",
+ "last_check_meaningful": true,
+ "last_check_published": true,
+ "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-Qc2wfGKqglc, yt-fkXihQ5MfRk, yt-lxKHskpXAJo, yt-tAH088d0tbI, yt-ucZjQBq7rgQ, yt-wfx5tMiD4T8; new high-signal social in top8: cf-radio-recap-no-25-arizona-strikes-fast-t, ie-iowa-state-gets-embarrassed-at-arizona-i, ie-minnesota-reclaims-floyd-from-iowa-cyclo",
+ "prior_meaningful": true,
+ "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--j_Dod7-AKo, yt-6f9D_SFrddg, yt-AxfZ5KcYDBA, yt-ggRsWZL7RRE; new high-signal social in top8: cf-big-12-buzz-week-8-preview, cf-cf-staff-picks-iowa-state-at-no-25-arizo, cf-josh-turner-named-new-senior-deputy-athl, ie-gopher-hunting-and-cyclones-in-the-deser",
+ "prior_change_summary": "Friday 2pm CT refresh: the two Daily Clones are unchanged (Brend's three keys at Arizona and the Raynor opinions episode). Cyclone Fanatic posted 'Final thoughts: Iowa State at Arizona', a Week 8 Picks After Dark preview, and an Offensively Offensive hoops roster preview ahead of the Creighton exhibition, all now in the top YouTube spots. Iowa Everywhere added a Murph & Andy episode, 'Gopher Hunting and Cyclones in the Desert'. CF social now leads with staff picks for Iowa State at No. 25 Arizona, Josh Turner being named senior deputy AD, and a Big 12 Buzz Week 8 preview.",
+ "prior_daily_clones": [
   {
    "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=_bBG3tJV5SQ",
@@ -20,33 +42,11 @@
    "published_display": "2 days ago"
   }
  ],
- "last_actual_publish_at": "2026-10-23T13:53:33-05:00",
- "last_actual_publish_commit": "fdccee6",
- "last_checked_at": "2026-10-23T13:53:33-05:00",
- "last_checked_slot": "2pm CT Fri Oct 23",
- "last_check_meaningful": true,
- "last_check_published": true,
- "last_check_reason": "Friday 2pm CT refresh: the two Daily Clones are unchanged (Brend's three keys at Arizona and the Raynor opinions episode). Cyclone Fanatic posted 'Final thoughts: Iowa State at Arizona', a Week 8 Pick",
- "prior_meaningful": true,
- "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-A5YnlPXWJzs, yt-H2sD2XhPrhI, yt-IHdinsi984U, yt-lIcSgHM1KAw, yt-m8WkEsTvCKM, yt-vP74lHP0hCQ; new high-signal social in top8: cf-watch-more-from-iowa-state-wrestling-med, ie-iowa-state-s-offense-needs-a-spark-can-t, ie-jimmy-rogers-gets-brutally-honest-about",
- "prior_change_summary": "Friday 6am CT refresh: the two Daily Clones are unchanged (Brend's three keys at Arizona and the Raynor opinions episode). Iowa Everywhere added a Murph & Andy episode with Jimmy Rogers on money in college football and a Two Guys Arizona preview on the offense needing a spark. CF's wrestling media day interviews (CJ Carter, Paniro Johnson, Connor Euton) moved into the top YouTube spots, and CF social now leads with more wrestling media day coverage.",
- "prior_daily_clones": [
-  {
-   "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=_bBG3tJV5SQ",
-   "published_display": "20 hours ago"
-  },
-  {
-   "title": "What's the Disconnect on Raynor Opinions? DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=-6RWQmARaZw",
-   "published_display": "1 day ago"
-  }
- ],
  "prior_last_published": true,
- "prior_updated_at": "2026-10-23T05:56:11-05:00",
+ "prior_updated_at": "2026-10-23T13:53:33-05:00",
  "prior_last_slot": "6am CT",
- "prior_generated_at": "2026-10-23T05:56:11-05:00",
- "prior_generated_at_display": "Fri Oct 23, 2026 · 5:56 AM CT",
+ "prior_generated_at": "2026-10-23T13:53:33-05:00",
+ "prior_generated_at_display": "Fri Oct 23, 2026 \u00b7 5:56 AM CT",
  "prior_published_at": "2026-10-20T13:58:25-05:00",
  "prior_slot": "2pm CT"
 }
