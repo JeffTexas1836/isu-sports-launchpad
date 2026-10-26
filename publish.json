@@ -1,35 +1,35 @@
 {
- "updated_at": "2026-10-26T05:52:54-05:00",
- "last_slot": "6am CT",
+ "updated_at": "2026-10-26T13:53:03-05:00",
+ "last_slot": "2pm CT",
  "last_published": true,
  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
- "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-FkskGXlcHZA, yt-QTAYa1Pi8LI; new high-signal social in top8: cf-monday-musings-snail-s-pace-first-halves, cf-ryan-prather-s-jr-s-6-long-range-splashe",
- "change_summary": "Monday 6am CT refresh: the two Daily Clones are unchanged (no new episode since Brend's Arizona keys). Cyclone Fanatic posted the Jimmy Rogers and Jake Taylor/Connor Moberly Arizona postgame press conferences on YouTube, plus Monday Musings ('Snail's pace first halves not cutting it') and a recap of No. 18 ISU hoops routing Northwestern in the exhibition finale behind Ryan Prather Jr.'s six threes.",
- "generated_at": "2026-10-26T05:52:54-05:00",
- "generated_at_display": "Mon Oct 26, 2026 \u00b7 5:52 AM CT",
+ "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-T03iLE_t9gs, yt-WyzhJ1sBqXA, yt-fXwCPu3I638; new high-signal social in top8: cf-five-oklahoma-state-players-to-know-on-s, ie-hawkeye-dud-and-cyclones-crushed-murph-a, ie-throwback-saturday-for-cyclones-and-hawk",
+ "change_summary": "Monday 2pm CT refresh: the two Daily Clones are unchanged (no new episode since Brend's Arizona keys). Cyclone Fanatic posted a Williams & Blum show on fixing Cyclone football and an InCYde Zone reaction to the Arizona blowout, plus a preview of five Oklahoma State players to know for Saturday. Iowa Everywhere's Murph & Andy 'Hawkeye Dud and Cyclones Crushed' moved into the top spots.",
+ "generated_at": "2026-10-26T13:53:03-05:00",
+ "generated_at_display": "Mon Oct 26, 2026 \u00b7 1:53 PM CT",
  "meaningful": true,
  "daily_clones": [
   {
    "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=_bBG3tJV5SQ",
-   "published_display": "2 days ago"
+   "published_display": "4 days ago"
   },
   {
    "title": "What's the Disconnect on Raynor Opinions? DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=-6RWQmARaZw",
-   "published_display": "3 days ago"
+   "published_display": "5 days ago"
   }
  ],
- "last_actual_publish_at": "2026-10-26T05:52:54-05:00",
- "last_actual_publish_commit": "9307dcc",
- "last_checked_at": "2026-10-26T05:52:54-05:00",
- "last_checked_slot": "6am CT Mon Oct 26",
+ "last_actual_publish_at": "2026-10-26T13:53:03-05:00",
+ "last_actual_publish_commit": "a773b11",
+ "last_checked_at": "2026-10-26T13:53:03-05:00",
+ "last_checked_slot": "2pm CT Mon Oct 26",
  "last_check_meaningful": true,
  "last_check_published": true,
- "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-FkskGXlcHZA, yt-QTAYa1Pi8LI; new high-signal social in top8: cf-monday-musings-snail-s-pace-first-halves, cf-ryan-prather-s-jr-s-6-long-range-splashe",
+ "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-T03iLE_t9gs, yt-WyzhJ1sBqXA, yt-fXwCPu3I638; new high-signal social in top8: cf-five-oklahoma-state-players-to-know-on-s, ie-hawkeye-dud-and-cyclones-crushed-murph-a, ie-throwback-saturday-for-cyclones-and-hawk",
  "prior_meaningful": true,
- "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-Qc2wfGKqglc, yt-fkXihQ5MfRk, yt-lxKHskpXAJo, yt-tAH088d0tbI, yt-ucZjQBq7rgQ, yt-wfx5tMiD4T8; new high-signal social in top8: cf-radio-recap-no-25-arizona-strikes-fast-t, ie-iowa-state-gets-embarrassed-at-arizona-i, ie-minnesota-reclaims-floyd-from-iowa-cyclo",
- "prior_change_summary": "Sunday 2pm CT refresh: the two Daily Clones are unchanged (no new episode yet). Cyclone Fanatic added Peterson's column 'Iowa State's desert nightmare exposes lack of offense' and another After Dark watch party video; Iowa Everywhere's Two Guys episode on Minnesota reclaiming Floyd moved into the top spots.",
+ "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-FkskGXlcHZA, yt-QTAYa1Pi8LI; new high-signal social in top8: cf-monday-musings-snail-s-pace-first-halves, cf-ryan-prather-s-jr-s-6-long-range-splashe",
+ "prior_change_summary": "Monday 6am CT refresh: the two Daily Clones are unchanged (no new episode since Brend's Arizona keys). Cyclone Fanatic posted the Jimmy Rogers and Jake Taylor/Connor Moberly Arizona postgame press conferences on YouTube, plus Monday Musings ('Snail's pace first halves not cutting it') and a recap of No. 18 ISU hoops routing Northwestern in the exhibition finale behind Ryan Prather Jr.'s six threes.",
  "prior_daily_clones": [
   {
    "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
@@ -43,10 +43,10 @@
   }
  ],
  "prior_last_published": true,
- "prior_updated_at": "2026-10-25T05:49:16-05:00",
- "prior_last_slot": "2pm CT",
- "prior_generated_at": "2026-10-25T05:49:16-05:00",
- "prior_generated_at_display": "Sun Oct 25, 2026 \u00b7 5:49 AM CT",
+ "prior_updated_at": "2026-10-26T05:52:54-05:00",
+ "prior_last_slot": "6am CT",
+ "prior_generated_at": "2026-10-26T05:52:54-05:00",
+ "prior_generated_at_display": "Mon Oct 26, 2026 \u00b7 5:52 AM CT",
  "prior_published_at": "2026-10-20T13:58:25-05:00",
  "prior_slot": "2pm CT"
 }
