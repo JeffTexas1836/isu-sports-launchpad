@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-10-27T05:51:38-05:00",
-  "generated_at_display": "Tue Oct 27, 2026 · 5:51 AM CT",
+  "generated_at": "2026-10-27T13:56:52-05:00",
+  "generated_at_display": "Tue Oct 27, 2026 · 1:56 PM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -15,8 +15,8 @@
     "url": "https://www.youtube.com/watch?v=KHMux4yzmZI",
     "channel": "Cyclone Fanatic",
     "published": "2026-10-26T16:18:13-05:00",
-    "published_display": "13 hours ago",
-    "views": 1551
+    "published_display": "21 hours ago",
+    "views": 2075
   },
   "daily_clones": [
     {
@@ -25,8 +25,8 @@
       "url": "https://www.youtube.com/watch?v=KHMux4yzmZI",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-26T16:18:13-05:00",
-      "published_display": "13 hours ago",
-      "views": 1551
+      "published_display": "21 hours ago",
+      "views": 2075
     },
     {
       "found": true,
@@ -34,7 +34,7 @@
       "url": "https://www.youtube.com/watch?v=_bBG3tJV5SQ",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-22T09:00:35-05:00",
-      "published_display": "4 days ago",
+      "published_display": "5 days ago",
       "views": 0
     }
   ],
@@ -75,8 +75,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=KHMux4yzmZI",
       "published": "2026-10-26T16:18:13-05:00",
-      "published_display": "13 hours ago",
-      "views": 1551,
+      "published_display": "21 hours ago",
+      "views": 2075,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -88,7 +88,7 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=_bBG3tJV5SQ",
       "published": "2026-10-22T09:00:35-05:00",
-      "published_display": "4 days ago",
+      "published_display": "5 days ago",
       "views": 0,
       "sport": "football",
       "is_daily_clone": true,
@@ -96,17 +96,43 @@
       "rank_score": 99
     },
     {
-      "id": "yt-LhU1_f6r5dE",
-      "title": "Regrouping After Arizona | Oklahoma State Preview | DOWN THE PIPE",
+      "id": "yt-xd8G2KkpQTU",
+      "title": "Jimmy Rogers Pre Oklahoma State Press Conference",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=LhU1_f6r5dE",
-      "published": "2026-10-26T19:32:07-05:00",
-      "published_display": "10 hours ago",
-      "views": 436,
+      "url": "https://www.youtube.com/watch?v=xd8G2KkpQTU",
+      "published": "2026-10-27T13:00:20-05:00",
+      "published_display": "56 min ago",
+      "views": 438,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 98
+    },
+    {
+      "id": "yt-CU-SV_rfSEI",
+      "title": "Jesse Bobbit Pre Oklahoma State Press Conference",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=CU-SV_rfSEI",
+      "published": "2026-10-27T13:11:09-05:00",
+      "published_display": "45 min ago",
+      "views": 62,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 97
+    },
+    {
+      "id": "yt-LhU1_f6r5dE",
+      "title": "Regrouping After Arizona | Oklahoma State Preview | DOWN THE PIPE",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=LhU1_f6r5dE",
+      "published": "2026-10-27T09:07:42-05:00",
+      "published_display": "4 hours ago",
+      "views": 767,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 96
     },
     {
       "id": "yt-WyzhJ1sBqXA",
@@ -114,12 +140,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=WyzhJ1sBqXA",
       "published": "2026-10-26T12:46:26-05:00",
-      "published_display": "17 hours ago",
-      "views": 4118,
+      "published_display": "1 day ago",
+      "views": 5036,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 95
     },
     {
       "id": "yt-ZnmcK3zzBYw",
@@ -127,38 +153,25 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=ZnmcK3zzBYw",
       "published": "2026-10-26T19:36:50-05:00",
-      "published_display": "10 hours ago",
-      "views": 216,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "yt-T03iLE_t9gs",
-      "title": "Where Do the Real Problems Lie for Iowa State? Reacting to Arizona Blowout | InCYde Zone",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=T03iLE_t9gs",
-      "published": "2026-10-26T09:32:39-05:00",
-      "published_display": "20 hours ago",
-      "views": 1433,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-QTAYa1Pi8LI",
-      "title": "Jimmy Rogers Arizona Postgame Press Conference",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=QTAYa1Pi8LI",
-      "published": "2026-10-25T19:39:43-05:00",
-      "published_display": "1 day ago",
-      "views": 1776,
+      "published_display": "18 hours ago",
+      "views": 341,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
+    },
+    {
+      "id": "yt-9WrxuD3LNRQ",
+      "title": "Why Iowa State Football Can’t Find Answers Right Now | Two Guys",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=9WrxuD3LNRQ",
+      "published": "2026-10-27T09:45:13-05:00",
+      "published_display": "4 hours ago",
+      "views": 679,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "yt-kngaFZ2_fJQ",
@@ -166,12 +179,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=kngaFZ2_fJQ",
       "published": "2026-10-26T18:00:15-05:00",
-      "published_display": "11 hours ago",
-      "views": 1215,
+      "published_display": "19 hours ago",
+      "views": 1736,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "yt-fXwCPu3I638",
@@ -179,12 +192,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=fXwCPu3I638",
       "published": "2026-10-26T14:17:48-05:00",
-      "published_display": "15 hours ago",
-      "views": 2397,
+      "published_display": "23 hours ago",
+      "views": 2782,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 92
+      "rank_score": 91
     },
     {
       "id": "yt-eMNjp53BjHo",
@@ -192,21 +205,8 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=eMNjp53BjHo",
       "published": "2026-10-26T11:30:05-05:00",
-      "published_display": "18 hours ago",
-      "views": 1663,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "iowa_everywhere",
-      "rank_score": 91
-    },
-    {
-      "id": "yt-YeYybhyWsDU",
-      "title": "Minnesota reclaims Floyd from Iowa, Cyclones outmanned at Arizona, more Big 12 CHAOS | Two Guys",
-      "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=YeYybhyWsDU",
-      "published": "2026-10-25T12:04:13-05:00",
       "published_display": "1 day ago",
-      "views": 11227,
+      "views": 1862,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -218,12 +218,25 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=1TS9a9EkQZA",
       "published": "2026-10-26T10:21:35-05:00",
-      "published_display": "19 hours ago",
-      "views": 104,
+      "published_display": "1 day ago",
+      "views": 113,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
       "rank_score": 89
+    },
+    {
+      "id": "yt-nMu9UGCSnLI",
+      "title": "PROBLEM: Iowa State Has MAJOR Issues To Address Before Winning Resumes In Big 12 Play",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=nMu9UGCSnLI",
+      "published": "2026-10-27T07:37:43-05:00",
+      "published_display": "6 hours ago",
+      "views": 102,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
+      "rank_score": 88
     },
     {
       "id": "yt-Jscl-vxummY",
@@ -236,19 +249,6 @@
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 88
-    },
-    {
-      "id": "yt-goB3Uu7Aa4g",
-      "title": "BENCHED: Iowa State Offense LOST After Benching Jaylen Raynor, QB Controversy Official For Cyclones",
-      "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=goB3Uu7Aa4g",
-      "published": "2026-10-26T07:34:41-05:00",
-      "published_display": "22 hours ago",
-      "views": 637,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "other",
       "rank_score": 87
     },
     {
@@ -258,7 +258,7 @@
       "url": "https://www.youtube.com/watch?v=VFosRntPRE0",
       "published": "2026-10-19T22:53:07-05:00",
       "published_display": "Oct 19, 2026",
-      "views": 2830,
+      "views": 2833,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -369,6 +369,23 @@
       "rank_score": 95
     },
     {
+      "id": "ie-why-iowa-state-football-can-t-find-answe",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Why Iowa State Football Can’t Find Answers Right Now | Two Guys (YouTube)",
+      "url": "https://www.youtube.com/watch?v=9WrxuD3LNRQ",
+      "published": "2026-10-27T09:45:13-05:00",
+      "published_display": "Oct 27, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 94
+    },
+    {
       "id": "ie-iowa-state-gets-crushed-by-arizona-how-b",
       "type": "news",
       "author": "Iowa Everywhere",
@@ -383,7 +400,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 94
+      "rank_score": 93
     },
     {
       "id": "ie-hawkeye-dud-and-cyclones-crushed-murph-a",
@@ -400,7 +417,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "ie-throwback-saturday-for-cyclones-and-hawk",
@@ -411,23 +428,6 @@
       "url": "https://www.youtube.com/watch?v=eMNjp53BjHo",
       "published": "2026-10-26T11:30:05-05:00",
       "published_display": "Oct 26, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
-      "rank_score": 92
-    },
-    {
-      "id": "ie-minnesota-reclaims-floyd-from-iowa-cyclo",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "Minnesota reclaims Floyd from Iowa, Cyclones outmanned at Arizona, more Big 12 CHAOS | Two Guys (YouTube)",
-      "url": "https://www.youtube.com/watch?v=YeYybhyWsDU",
-      "published": "2026-10-25T12:04:13-05:00",
-      "published_display": "Oct 25, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
@@ -448,7 +448,7 @@
       "likes": 5859,
       "retweets": 744,
       "replies": 57,
-      "views": 122941,
+      "views": 122945,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 90
@@ -465,7 +465,7 @@
       "likes": 2764,
       "retweets": 160,
       "replies": 21,
-      "views": 63848,
+      "views": 63849,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
       "rank_score": 89
@@ -482,7 +482,7 @@
       "likes": 1249,
       "retweets": 225,
       "replies": 9,
-      "views": 898708,
+      "views": 898714,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 88
