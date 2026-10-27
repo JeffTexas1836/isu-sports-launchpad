@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-10-26T13:53:03-05:00",
-  "generated_at_display": "Mon Oct 26, 2026 · 1:53 PM CT",
+  "generated_at": "2026-10-27T05:51:38-05:00",
+  "generated_at_display": "Tue Oct 27, 2026 · 5:51 AM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -11,14 +11,23 @@
   ],
   "daily_clone": {
     "found": true,
-    "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
-    "url": "https://www.youtube.com/watch?v=_bBG3tJV5SQ",
+    "title": "Does Jimmy Rogers Deserve a Mulligan? DAILY CLONE",
+    "url": "https://www.youtube.com/watch?v=KHMux4yzmZI",
     "channel": "Cyclone Fanatic",
-    "published": "2026-10-22T09:00:35-05:00",
-    "published_display": "4 days ago",
-    "views": 0
+    "published": "2026-10-26T16:18:13-05:00",
+    "published_display": "13 hours ago",
+    "views": 1551
   },
   "daily_clones": [
+    {
+      "found": true,
+      "title": "Does Jimmy Rogers Deserve a Mulligan? DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=KHMux4yzmZI",
+      "channel": "Cyclone Fanatic",
+      "published": "2026-10-26T16:18:13-05:00",
+      "published_display": "13 hours ago",
+      "views": 1551
+    },
     {
       "found": true,
       "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
@@ -26,15 +35,6 @@
       "channel": "Cyclone Fanatic",
       "published": "2026-10-22T09:00:35-05:00",
       "published_display": "4 days ago",
-      "views": 0
-    },
-    {
-      "found": true,
-      "title": "What's the Disconnect on Raynor Opinions? DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=-6RWQmARaZw",
-      "channel": "Cyclone Fanatic",
-      "published": "2026-10-21T11:02:29-05:00",
-      "published_display": "5 days ago",
       "views": 0
     }
   ],
@@ -61,8 +61,7 @@
       "cyclones.com/rss.aspx empty; /news listing 404 — used football pages + known article URLs",
       "iowaeverywhere.com/feed/ returns HTML not RSS; used episode pages + YouTube",
       "Filled Daily Clone from search: Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
-      "Filled Daily Clone from prior: What's the Disconnect on Raynor Opinions? DAILY CLONE",
-      "Merged/filled 2 Daily Clone(s) to keep two featured"
+      "Merged/filled 1 Daily Clone(s) to keep two featured"
     ]
   },
   "counts": {
@@ -70,6 +69,19 @@
     "social": 15
   },
   "youtube": [
+    {
+      "id": "yt-KHMux4yzmZI",
+      "title": "Does Jimmy Rogers Deserve a Mulligan? DAILY CLONE",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=KHMux4yzmZI",
+      "published": "2026-10-26T16:18:13-05:00",
+      "published_display": "13 hours ago",
+      "views": 1551,
+      "sport": "football",
+      "is_daily_clone": true,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
     {
       "id": "yt-_bBG3tJV5SQ",
       "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
@@ -81,20 +93,20 @@
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 99
     },
     {
-      "id": "yt--6RWQmARaZw",
-      "title": "What's the Disconnect on Raynor Opinions? DAILY CLONE",
+      "id": "yt-LhU1_f6r5dE",
+      "title": "Regrouping After Arizona | Oklahoma State Preview | DOWN THE PIPE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=-6RWQmARaZw",
-      "published": "2026-10-21T11:02:29-05:00",
-      "published_display": "5 days ago",
-      "views": 0,
+      "url": "https://www.youtube.com/watch?v=LhU1_f6r5dE",
+      "published": "2026-10-26T19:32:07-05:00",
+      "published_display": "10 hours ago",
+      "views": 436,
       "sport": "football",
-      "is_daily_clone": true,
+      "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 98
     },
     {
       "id": "yt-WyzhJ1sBqXA",
@@ -102,12 +114,25 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=WyzhJ1sBqXA",
       "published": "2026-10-26T12:46:26-05:00",
-      "published_display": "1 hour ago",
-      "views": 526,
+      "published_display": "17 hours ago",
+      "views": 4118,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
+    },
+    {
+      "id": "yt-ZnmcK3zzBYw",
+      "title": "Jake Brend's CFB Top 25 heading into Week 10",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=ZnmcK3zzBYw",
+      "published": "2026-10-26T19:36:50-05:00",
+      "published_display": "10 hours ago",
+      "views": 216,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 96
     },
     {
       "id": "yt-T03iLE_t9gs",
@@ -115,12 +140,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=T03iLE_t9gs",
       "published": "2026-10-26T09:32:39-05:00",
-      "published_display": "4 hours ago",
-      "views": 618,
+      "published_display": "20 hours ago",
+      "views": 1433,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 95
     },
     {
       "id": "yt-QTAYa1Pi8LI",
@@ -128,51 +153,38 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=QTAYa1Pi8LI",
       "published": "2026-10-25T19:39:43-05:00",
-      "published_display": "18 hours ago",
-      "views": 1373,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "yt-FkskGXlcHZA",
-      "title": "Jake Taylor & Connor Moberly Arizona Postgame Press Conference",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=FkskGXlcHZA",
-      "published": "2026-10-25T19:37:43-05:00",
-      "published_display": "18 hours ago",
-      "views": 441,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-tAH088d0tbI",
-      "title": "Cyclone Therapy, Iowa State Falls To Arizona | Post-Postgame Show",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=tAH088d0tbI",
-      "published": "2026-10-25T12:22:19-05:00",
       "published_display": "1 day ago",
-      "views": 1953,
+      "views": 1776,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
     },
     {
-      "id": "yt-fXwCPu3I638",
-      "title": "Hawkeye Dud and Cyclones Crushed | Murph & Andy",
+      "id": "yt-kngaFZ2_fJQ",
+      "title": "Iowa State Gets CRUSHED by Arizona. How Bad Is It? | Murph & Andy",
       "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=fXwCPu3I638",
-      "published": "2026-10-26T11:56:07-05:00",
-      "published_display": "1 hour ago",
-      "views": 378,
+      "url": "https://www.youtube.com/watch?v=kngaFZ2_fJQ",
+      "published": "2026-10-26T18:00:15-05:00",
+      "published_display": "11 hours ago",
+      "views": 1215,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
       "rank_score": 93
+    },
+    {
+      "id": "yt-fXwCPu3I638",
+      "title": "Hawkeye Dud and Cyclones Crushed | Murph & Andy",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=fXwCPu3I638",
+      "published": "2026-10-26T14:17:48-05:00",
+      "published_display": "15 hours ago",
+      "views": 2397,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 92
     },
     {
       "id": "yt-eMNjp53BjHo",
@@ -180,12 +192,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=eMNjp53BjHo",
       "published": "2026-10-26T11:30:05-05:00",
-      "published_display": "2 hours ago",
-      "views": 374,
+      "published_display": "18 hours ago",
+      "views": 1663,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 92
+      "rank_score": 91
     },
     {
       "id": "yt-YeYybhyWsDU",
@@ -194,20 +206,7 @@
       "url": "https://www.youtube.com/watch?v=YeYybhyWsDU",
       "published": "2026-10-25T12:04:13-05:00",
       "published_display": "1 day ago",
-      "views": 9647,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "iowa_everywhere",
-      "rank_score": 91
-    },
-    {
-      "id": "yt-Qc2wfGKqglc",
-      "title": "Iowa State Gets Embarrassed at Arizona - Is It Time for a QB Change? | Instant Iowa State",
-      "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=Qc2wfGKqglc",
-      "published": "2026-10-24T23:22:44-05:00",
-      "published_display": "1 day ago",
-      "views": 5866,
+      "views": 11227,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -219,25 +218,12 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=1TS9a9EkQZA",
       "published": "2026-10-26T10:21:35-05:00",
-      "published_display": "3 hours ago",
-      "views": 29,
+      "published_display": "19 hours ago",
+      "views": 104,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
       "rank_score": 89
-    },
-    {
-      "id": "yt-goB3Uu7Aa4g",
-      "title": "BENCHED: Iowa State Offense LOST After Benching Jaylen Raynor, QB Controversy Official For Cyclones",
-      "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=goB3Uu7Aa4g",
-      "published": "2026-10-26T07:34:41-05:00",
-      "published_display": "6 hours ago",
-      "views": 313,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "other",
-      "rank_score": 88
     },
     {
       "id": "yt-Jscl-vxummY",
@@ -246,10 +232,23 @@
       "url": "https://www.youtube.com/watch?v=Jscl-vxummY",
       "published": "2026-10-05T10:18:21-05:00",
       "published_display": "Oct 5, 2026",
-      "views": 11060,
+      "views": 11067,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
+      "rank_score": 88
+    },
+    {
+      "id": "yt-goB3Uu7Aa4g",
+      "title": "BENCHED: Iowa State Offense LOST After Benching Jaylen Raynor, QB Controversy Official For Cyclones",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=goB3Uu7Aa4g",
+      "published": "2026-10-26T07:34:41-05:00",
+      "published_display": "22 hours ago",
+      "views": 637,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
       "rank_score": 87
     },
     {
@@ -258,8 +257,8 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=VFosRntPRE0",
       "published": "2026-10-19T22:53:07-05:00",
-      "published_display": "6 days ago",
-      "views": 2815,
+      "published_display": "Oct 19, 2026",
+      "views": 2830,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -370,13 +369,13 @@
       "rank_score": 95
     },
     {
-      "id": "ie-hawkeye-dud-and-cyclones-crushed-murph-a",
+      "id": "ie-iowa-state-gets-crushed-by-arizona-how-b",
       "type": "news",
       "author": "Iowa Everywhere",
       "author_name": "Iowa Everywhere",
-      "text": "Hawkeye Dud and Cyclones Crushed | Murph & Andy (YouTube clip)",
-      "url": "https://www.youtube.com/watch?v=fXwCPu3I638",
-      "published": "2026-10-26T11:56:07-05:00",
+      "text": "Iowa State Gets CRUSHED by Arizona. How Bad Is It? | Murph & Andy (YouTube)",
+      "url": "https://www.youtube.com/watch?v=kngaFZ2_fJQ",
+      "published": "2026-10-26T18:00:15-05:00",
       "published_display": "Oct 26, 2026",
       "likes": null,
       "retweets": null,
@@ -385,6 +384,23 @@
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
       "rank_score": 94
+    },
+    {
+      "id": "ie-hawkeye-dud-and-cyclones-crushed-murph-a",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Hawkeye Dud and Cyclones Crushed | Murph & Andy (YouTube clip)",
+      "url": "https://www.youtube.com/watch?v=fXwCPu3I638",
+      "published": "2026-10-26T14:17:48-05:00",
+      "published_display": "Oct 26, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "ie-throwback-saturday-for-cyclones-and-hawk",
@@ -401,7 +417,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "ie-minnesota-reclaims-floyd-from-iowa-cyclo",
@@ -412,23 +428,6 @@
       "url": "https://www.youtube.com/watch?v=YeYybhyWsDU",
       "published": "2026-10-25T12:04:13-05:00",
       "published_display": "Oct 25, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
-      "rank_score": 92
-    },
-    {
-      "id": "ie-iowa-state-gets-embarrassed-at-arizona-i",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "Iowa State Gets Embarrassed at Arizona - Is It Time for a QB Change? | Instant Iowa State (YouTube)",
-      "url": "https://www.youtube.com/watch?v=Qc2wfGKqglc",
-      "published": "2026-10-24T23:22:44-05:00",
-      "published_display": "Oct 24, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
@@ -446,10 +445,10 @@
       "url": "https://x.com/realapp/status/2098256013858165182",
       "published": "2026-09-10T22:43:12-05:00",
       "published_display": "Sep 10, 2026",
-      "likes": 5858,
+      "likes": 5859,
       "retweets": 744,
       "replies": 57,
-      "views": 122937,
+      "views": 122941,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
       "rank_score": 90
@@ -466,7 +465,7 @@
       "likes": 2764,
       "retweets": 160,
       "replies": 21,
-      "views": 63846,
+      "views": 63848,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
       "rank_score": 89
@@ -483,7 +482,7 @@
       "likes": 1249,
       "retweets": 225,
       "replies": 9,
-      "views": 898690,
+      "views": 898708,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
       "rank_score": 88
