@@ -1,14 +1,36 @@
 {
- "updated_at": "2026-10-28T05:49:54-05:00",
- "last_slot": "6am CT",
+ "updated_at": "2026-10-28T13:50:34-05:00",
+ "last_slot": "2pm CT",
  "last_published": true,
  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
- "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-J1Bi9m0WZHA, yt-UlTamD2ut6Q, yt-gwDDEs1pzy4, yt-hveXy9tlXlc, yt-yx2lBUypgvA; new high-signal social in top8: cf-isu-hc-jimmy-rogers-is-rolling-with-jayl, cf-watch-rogers-bobbit-flora-and-coffey-ahe, ie-what-s-more-likely-hawkeyes-win-out-or-c",
- "change_summary": "Wednesday 6am CT refresh: a new Daily Clone is out ('Jimmy Rogers is Sticking with Jaylen Raynor'), so the featured pair is now that and the Rogers mulligan episode. Cyclone Fanatic also posted a Let Him Cook basketball preview, The Litecast, and a 'Black Uniforms Are Back' short, plus a story on Rogers rolling with Raynor vs. Oklahoma State; Iowa Everywhere's Murph & Andy 'Hawkeyes WIN OUT or Cyclones LOSE OUT?' moved into the top spots.",
- "generated_at": "2026-10-28T05:49:54-05:00",
- "generated_at_display": "Wed Oct 28, 2026 \u00b7 5:49 AM CT",
+ "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-DeUtpDwuMtk, yt-czU4W13OebE, yt-t3XX-TnM4dM; new high-signal social in top8: cf-isu-aims-to-pierce-the-tall-tales-that-s, cf-peterson-when-will-iowa-state-win-again, ie-iowa-slides-cyclone-struggles-and-early, ie-previewing-iowa-vs-wisconsin-iowa-state",
+ "change_summary": "Wednesday 2pm CT refresh: the two Daily Clones are unchanged (Rogers sticking with Raynor and the Rogers mulligan episode). Cyclone Fanatic posted a Williams & Blum video on what it'll take to hang with Oklahoma State and a Reaction Time on Iowa State wrestling's new era, plus Peterson's 'When will Iowa State win again?' and a story on Oklahoma State QB Drew Mestemaker. Iowa Everywhere's Two Guys preview of Iowa State vs. Oklahoma State and The Committee's 'Iowa Slides, Cyclone Struggles' also moved up.",
+ "generated_at": "2026-10-28T13:50:34-05:00",
+ "generated_at_display": "Wed Oct 28, 2026 · 1:50 PM CT",
  "meaningful": true,
  "daily_clones": [
+  {
+   "title": "Jimmy Rogers is Sticking with Jaylen Raynor | DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=hveXy9tlXlc",
+   "published_display": "21 hours ago"
+  },
+  {
+   "title": "Does Jimmy Rogers Deserve a Mulligan? DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=KHMux4yzmZI",
+   "published_display": "1 day ago"
+  }
+ ],
+ "last_actual_publish_at": "2026-10-28T13:50:34-05:00",
+ "last_actual_publish_commit": "d23fe76",
+ "last_checked_at": "2026-10-28T13:50:34-05:00",
+ "last_checked_slot": "2pm CT Wed Oct 28",
+ "last_check_meaningful": true,
+ "last_check_published": true,
+ "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-DeUtpDwuMtk, yt-czU4W13OebE, yt-t3XX-TnM4dM; new high-signal social in top8: cf-isu-aims-to-pierce-the-tall-tales-that-s, cf-peterson-when-will-iowa-state-win-again, ie-iowa-slides-cyclone-struggles-and-early, ie-previewing-iowa-vs-wisconsin-iowa-state",
+ "prior_meaningful": true,
+ "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-J1Bi9m0WZHA, yt-UlTamD2ut6Q, yt-gwDDEs1pzy4, yt-hveXy9tlXlc, yt-yx2lBUypgvA; new high-signal social in top8: cf-isu-hc-jimmy-rogers-is-rolling-with-jayl, cf-watch-rogers-bobbit-flora-and-coffey-ahe, ie-what-s-more-likely-hawkeyes-win-out-or-c",
+ "prior_change_summary": "Wednesday 6am CT refresh: a new Daily Clone is out ('Jimmy Rogers is Sticking with Jaylen Raynor'), so the featured pair is now that and the Rogers mulligan episode. Cyclone Fanatic also posted a Let Him Cook basketball preview, The Litecast, and a 'Black Uniforms Are Back' short, plus a story on Rogers rolling with Raynor vs. Oklahoma State; Iowa Everywhere's Murph & Andy 'Hawkeyes WIN OUT or Cyclones LOSE OUT?' moved into the top spots.",
+ "prior_daily_clones": [
   {
    "title": "Jimmy Rogers is Sticking with Jaylen Raynor | DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=hveXy9tlXlc",
@@ -20,33 +42,11 @@
    "published_display": "1 day ago"
   }
  ],
- "last_actual_publish_at": "2026-10-27T13:56:52-05:00",
- "last_actual_publish_commit": "7ea57a7",
- "last_checked_at": "2026-10-28T05:49:54-05:00",
- "last_checked_slot": "6am CT Wed Oct 28",
- "last_check_meaningful": true,
- "last_check_published": true,
- "last_check_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-J1Bi9m0WZHA, yt-UlTamD2ut6Q, yt-gwDDEs1pzy4, yt-hveXy9tlXlc, yt-yx2lBUypgvA; new high-signal social in top8: cf-isu-hc-jimmy-rogers-is-rolling-with-jayl, cf-watch-rogers-bobbit-flora-and-coffey-ahe, ie-what-s-more-likely-hawkeyes-win-out-or-c",
- "prior_meaningful": true,
- "prior_reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-9WrxuD3LNRQ, yt-CU-SV_rfSEI, yt-xd8G2KkpQTU; new high-signal social in top8: ie-why-iowa-state-football-can-t-find-answe",
- "prior_change_summary": "Tuesday 2pm CT refresh: the two Daily Clones are unchanged (Rogers mulligan and Brend's Arizona keys). Cyclone Fanatic posted Jimmy Rogers' and Jesse Bobbitt's pre-Oklahoma State press conferences, and Iowa Everywhere's Two Guys 'Why Iowa State Football Can't Find Answers Right Now' moved into the top spots.",
- "prior_daily_clones": [
-  {
-   "title": "Does Jimmy Rogers Deserve a Mulligan? DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=KHMux4yzmZI",
-   "published_display": "21 hours ago"
-  },
-  {
-   "title": "Brend's Three Keys to Iowa State at Arizona | DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=_bBG3tJV5SQ",
-   "published_display": "5 days ago"
-  }
- ],
  "prior_last_published": true,
- "prior_updated_at": "2026-10-27T13:56:52-05:00",
- "prior_last_slot": "2pm CT",
- "prior_generated_at": "2026-10-27T13:56:52-05:00",
- "prior_generated_at_display": "Tue Oct 27, 2026 \u00b7 1:56 PM CT",
- "prior_published_at": "2026-10-27T13:56:52-05:00",
- "prior_slot": "2pm CT"
+ "prior_updated_at": "2026-10-28T05:49:54-05:00",
+ "prior_last_slot": "6am CT",
+ "prior_generated_at": "2026-10-28T05:49:54-05:00",
+ "prior_generated_at_display": "Wed Oct 28, 2026 · 5:49 AM CT",
+ "prior_published_at": "2026-10-28T05:49:54-05:00",
+ "prior_slot": "6am CT"
 }
