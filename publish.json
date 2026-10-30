@@ -1,14 +1,34 @@
 {
- "updated_at": "2026-10-30T05:51:04-05:00",
- "last_slot": "6am CT",
+ "updated_at": "2026-10-30T13:53:18-05:00",
+ "last_slot": "2pm CT",
  "last_published": true,
  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
- "reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-0TyAMlOEt0w, yt-3LRYRII6wKQ, yt-g71fdvBx1ZU, yt-wIE2mRKWIz8",
- "change_summary": "Friday 6am CT refresh: no new Daily Clone yet, so the featured pair stays 'Three Keys to Iowa State vs Oklahoma State' and 'Does Wazzu vs North Texas in 2025 Mean Anything?' New from Cyclone Fanatic: an Iowa State basketball preview with Nate Schmidt on Tamin Lipsey and Killyan Toure, 'Talkin' Oklahoma State W/ Ben Hutchens' (CFAD Interrogates), and a CF Pregame on facing Oklahoma State's explosive offense.",
- "generated_at": "2026-10-30T05:51:04-05:00",
- "generated_at_display": "Fri Oct 30, 2026 \u00b7 5:51 AM CT",
+ "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-fytZrsN0sfI, yt-nk8P-pP8g2M; new high-signal social in top8: cf-breaking-big-12-commissioner-brett-yorma, cf-brend-i-m-glad-yormark-gave-us-something, cf-peterson-brett-yormark-was-the-big-12-s, cf-staff-picks-no-24-oklahoma-state-at-iowa",
+ "change_summary": "Friday 2pm CT refresh: still no new Daily Clone, so the featured pair stays 'Three Keys to Iowa State vs Oklahoma State' and 'Does Wazzu vs North Texas in 2025 Mean Anything?' Big news: Cyclone Fanatic reports Big 12 commissioner Brett Yormark is stepping down, with columns from Peterson and Brend. Also new: CF Staff Picks for No. 24 Oklahoma State at Iowa State, 'Week 9 Picks & Preview | Picks After Dark,' and 'Offensively Offensive: Big 12 Basketball Preview.'",
+ "generated_at": "2026-10-30T13:53:18-05:00",
+ "generated_at_display": "Fri Oct 30, 2026 · 1:53 PM CT",
  "meaningful": true,
  "daily_clones": [
+  {
+   "title": "Three Keys to Iowa State vs Oklahoma State | DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=1Tr7JinmlQ0",
+   "published_display": "1 day ago"
+  },
+  {
+   "title": "Does Wazzu vs North Texas in 2025 Mean Anything? DAILY CLONE",
+   "url": "https://www.youtube.com/watch?v=wbhmCa78YcI",
+   "published_display": "1 day ago"
+  }
+ ],
+ "last_checked_at": "2026-10-30T13:53:18-05:00",
+ "last_checked_slot": "2pm CT Fri Oct 30",
+ "last_check_meaningful": true,
+ "last_check_published": true,
+ "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-fytZrsN0sfI, yt-nk8P-pP8g2M; new high-signal social in top8: cf-breaking-big-12-commissioner-brett-yorma, cf-brend-i-m-glad-yormark-gave-us-something, cf-peterson-brett-yormark-was-the-big-12-s, cf-staff-picks-no-24-oklahoma-state-at-iowa",
+ "prior_meaningful": true,
+ "prior_reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-0TyAMlOEt0w, yt-3LRYRII6wKQ, yt-g71fdvBx1ZU, yt-wIE2mRKWIz8",
+ "prior_change_summary": "Friday 6am CT refresh: no new Daily Clone yet, so the featured pair stays 'Three Keys to Iowa State vs Oklahoma State' and 'Does Wazzu vs North Texas in 2025 Mean Anything?' New from Cyclone Fanatic: an Iowa State basketball preview with Nate Schmidt on Tamin Lipsey and Killyan Toure, 'Talkin' Oklahoma State W/ Ben Hutchens' (CFAD Interrogates), and a CF Pregame on facing Oklahoma State's explosive offense.",
+ "prior_daily_clones": [
   {
    "title": "Three Keys to Iowa State vs Oklahoma State | DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=1Tr7JinmlQ0",
@@ -20,33 +40,13 @@
    "published_display": "1 day ago"
   }
  ],
- "last_checked_at": "2026-10-30T05:51:04-05:00",
- "last_checked_slot": "6am CT Fri Oct 30",
- "last_check_meaningful": true,
- "last_check_published": true,
- "last_check_reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-0TyAMlOEt0w, yt-3LRYRII6wKQ, yt-g71fdvBx1ZU, yt-wIE2mRKWIz8",
- "prior_meaningful": true,
- "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-0vq4gA8azDQ, yt-1Tr7JinmlQ0, yt-5fuW08mvUW8, yt-PnMhirE9YkA, yt-w6l03DbA8tg; new high-signal social in top8: cf-isu-hc-jimmy-rogers-says-nobody-s-coming, cf-watch-otzelberger-lipsey-and-singleton-a, ie-iowa-state-s-offense-has-to-wake-up-agai",
- "prior_change_summary": "Thursday 2pm CT refresh: a new Daily Clone is out ('Three Keys to Iowa State vs Oklahoma State'), so the featured pair is now that and 'Does Wazzu vs North Texas in 2025 Mean Anything?' T.J. Otzelberger and Tamin Lipsey's pre-Memphis interviews moved up, Cyclone Fanatic posted Jimmy Rogers saying 'nobody's coming to save us' ahead of No. 24 Oklahoma State, and Iowa Everywhere's Two Guys has 'Iowa State's Offense Has to Wake Up Against Oklahoma State.'",
- "prior_daily_clones": [
-  {
-   "title": "Three Keys to Iowa State vs Oklahoma State | DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=1Tr7JinmlQ0",
-   "published_display": "4 hours ago"
-  },
-  {
-   "title": "Does Wazzu vs North Texas in 2025 Mean Anything? DAILY CLONE",
-   "url": "https://www.youtube.com/watch?v=wbhmCa78YcI",
-   "published_display": "23 hours ago"
-  }
- ],
  "prior_last_published": true,
- "prior_updated_at": "2026-10-29T13:49:18-05:00",
- "prior_last_slot": "2pm CT",
- "prior_generated_at": "2026-10-29T13:49:18-05:00",
- "prior_generated_at_display": "Thu Oct 29, 2026 \u00b7 1:49 PM CT",
+ "prior_updated_at": "2026-10-30T05:51:04-05:00",
+ "prior_last_slot": "6am CT",
+ "prior_generated_at": "2026-10-30T05:51:04-05:00",
+ "prior_generated_at_display": "Fri Oct 30, 2026 · 5:51 AM CT",
  "prior_published_at": "2026-10-29T13:49:18-05:00",
  "prior_slot": "2pm CT",
  "last_actual_publish_at": "2026-10-30T05:51:04-05:00",
- "last_actual_publish_commit": "pending"
+ "last_actual_publish_commit": "07c0357"
 }
