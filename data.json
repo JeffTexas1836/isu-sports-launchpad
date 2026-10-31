@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-10-30T13:53:18-05:00",
-  "generated_at_display": "Fri Oct 30, 2026 · 1:53 PM CT",
+  "generated_at": "2026-10-31T05:58:07-05:00",
+  "generated_at_display": "Sat Oct 31, 2026 · 5:58 AM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -16,7 +16,7 @@
     "channel": "Cyclone Fanatic",
     "published": "2026-10-29T09:00:06-05:00",
     "published_display": "1 day ago",
-    "views": 930
+    "views": 1098
   },
   "daily_clones": [
     {
@@ -26,7 +26,7 @@
       "channel": "Cyclone Fanatic",
       "published": "2026-10-29T09:00:06-05:00",
       "published_display": "1 day ago",
-      "views": 930
+      "views": 1098
     },
     {
       "found": true,
@@ -34,8 +34,8 @@
       "url": "https://www.youtube.com/watch?v=wbhmCa78YcI",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-28T14:44:48-05:00",
-      "published_display": "1 day ago",
-      "views": 1007
+      "published_display": "2 days ago",
+      "views": 1060
     }
   ],
   "sources_note": {
@@ -74,7 +74,7 @@
       "url": "https://www.youtube.com/watch?v=1Tr7JinmlQ0",
       "published": "2026-10-29T09:00:06-05:00",
       "published_display": "1 day ago",
-      "views": 930,
+      "views": 1098,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -86,8 +86,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=wbhmCa78YcI",
       "published": "2026-10-28T14:44:48-05:00",
-      "published_display": "1 day ago",
-      "views": 1007,
+      "published_display": "2 days ago",
+      "views": 1060,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -98,13 +98,52 @@
       "title": "Week 9 Picks & Preview | Picks After Dark",
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=fytZrsN0sfI",
-      "published": "2026-10-30T11:57:05-05:00",
-      "published_display": "1 hour ago",
-      "views": 28,
+      "published": "2026-10-31T00:41:41-05:00",
+      "published_display": "5 hours ago",
+      "views": 272,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 98
+    },
+    {
+      "id": "yt-nk8P-pP8g2M",
+      "title": "Offensively Offensive: Big 12 Basketball Preview",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=nk8P-pP8g2M",
+      "published": "2026-10-30T21:23:42-05:00",
+      "published_display": "8 hours ago",
+      "views": 500,
+      "sport": "basketball",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 97
+    },
+    {
+      "id": "yt-uCWpJNERZW4",
+      "title": "Yormark Leaving & Good News for Lipsey | Friday News Update",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=uCWpJNERZW4",
+      "published": "2026-10-30T16:00:30-05:00",
+      "published_display": "13 hours ago",
+      "views": 2214,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 96
+    },
+    {
+      "id": "yt-pGL1KW2Qljk",
+      "title": "Nate Schmidt on offensive changes",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=pGL1KW2Qljk",
+      "published": "2026-10-30T16:48:38-05:00",
+      "published_display": "13 hours ago",
+      "views": 193,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 95
     },
     {
       "id": "yt-g71fdvBx1ZU",
@@ -112,51 +151,25 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=g71fdvBx1ZU",
       "published": "2026-10-30T08:39:11-05:00",
-      "published_display": "5 hours ago",
-      "views": 499,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 97
-    },
-    {
-      "id": "yt-nk8P-pP8g2M",
-      "title": "Offensively Offensive: Big 12 Basketball Preview",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=nk8P-pP8g2M",
-      "published": "2026-10-30T07:57:05-05:00",
-      "published_display": "5 hours ago",
-      "views": 276,
-      "sport": "basketball",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "yt-wIE2mRKWIz8",
-      "title": "Iowa State Basketball Preview: Nate Schmidt on Tamin Lipsey, Killyan Toure, & More",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=wIE2mRKWIz8",
-      "published": "2026-10-30T04:00:37-05:00",
-      "published_display": "9 hours ago",
-      "views": 1007,
-      "sport": "basketball",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
-    },
-    {
-      "id": "yt-3LRYRII6wKQ",
-      "title": "Iowa State Faces a Massive Test Against Oklahoma State’s Explosive Offense | CF PREGAME",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=3LRYRII6wKQ",
-      "published": "2026-10-29T18:00:32-05:00",
-      "published_display": "19 hours ago",
-      "views": 1273,
+      "published_display": "21 hours ago",
+      "views": 693,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
+    },
+    {
+      "id": "yt-eHkOI7zuP3g",
+      "title": "Brett Yormark OUT! What His Exit Means for Iowa State & the Big 12 | Murph & Andy",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=eHkOI7zuP3g",
+      "published": "2026-10-30T16:24:00-05:00",
+      "published_display": "13 hours ago",
+      "views": 1522,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "yt-0TyAMlOEt0w",
@@ -165,20 +178,7 @@
       "url": "https://www.youtube.com/watch?v=0TyAMlOEt0w",
       "published": "2026-10-29T10:07:14-05:00",
       "published_display": "1 day ago",
-      "views": 1084,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "iowa_everywhere",
-      "rank_score": 93
-    },
-    {
-      "id": "yt-w6l03DbA8tg",
-      "title": "Iowa Slides, Cyclone Struggles, and Early College Football Playoff Bracket | The Committee",
-      "channel": "Iowa Everywhere",
-      "url": "https://www.youtube.com/watch?v=w6l03DbA8tg",
-      "published": "2026-10-29T09:49:09-05:00",
-      "published_display": "1 day ago",
-      "views": 1130,
+      "views": 1189,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
@@ -191,7 +191,7 @@
       "url": "https://www.youtube.com/watch?v=JWdspzwaTa0",
       "published": "2026-10-29T12:20:53-05:00",
       "published_display": "1 day ago",
-      "views": 81,
+      "views": 112,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -204,7 +204,7 @@
       "url": "https://www.youtube.com/watch?v=mUTapWfcpGE",
       "published": "2026-10-29T12:18:21-05:00",
       "published_display": "1 day ago",
-      "views": 76,
+      "views": 122,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -217,7 +217,7 @@
       "url": "https://www.youtube.com/watch?v=89vSBjSBskc",
       "published": "2026-10-29T12:17:01-05:00",
       "published_display": "1 day ago",
-      "views": 78,
+      "views": 114,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -230,24 +230,11 @@
       "url": "https://www.youtube.com/watch?v=MDB3YfrTG0M",
       "published": "2026-10-29T12:17:17-05:00",
       "published_display": "1 day ago",
-      "views": 48,
+      "views": 63,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
       "rank_score": 88
-    },
-    {
-      "id": "yt-6lidPp-M4l4",
-      "title": "MUST WIN: Iowa State NEEDS Upset Over Oklahoma State To Stay Relevant In Big 12, Rogers' First Year",
-      "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=6lidPp-M4l4",
-      "published": "2026-10-30T07:00:31-05:00",
-      "published_display": "6 hours ago",
-      "views": 64,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "other",
-      "rank_score": 87
     },
     {
       "id": "yt-Jscl-vxummY",
@@ -256,14 +243,44 @@
       "url": "https://www.youtube.com/watch?v=Jscl-vxummY",
       "published": "2026-10-05T10:18:21-05:00",
       "published_display": "Oct 5, 2026",
-      "views": 11091,
+      "views": 11102,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
+      "rank_score": 87
+    },
+    {
+      "id": "yt-6lidPp-M4l4",
+      "title": "MUST WIN: Iowa State NEEDS Upset Over Oklahoma State To Stay Relevant In Big 12, Rogers' First Year",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=6lidPp-M4l4",
+      "published": "2026-10-30T07:00:31-05:00",
+      "published_display": "22 hours ago",
+      "views": 150,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "other",
       "rank_score": 86
     }
   ],
   "social": [
+    {
+      "id": "cf-big-12-buzz-week-10-preview",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "Big 12 Buzz: Week 10 Preview",
+      "url": "https://cyclonefanatic.com/2026/10/big-12-buzz-week-10-preview/",
+      "published": "2026-10-30T14:30:00-05:00",
+      "published_display": "Oct 30, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
     {
       "id": "cf-staff-picks-no-24-oklahoma-state-at-iowa",
       "type": "news",
@@ -279,7 +296,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 99
     },
     {
       "id": "cf-peterson-brett-yormark-was-the-big-12-s",
@@ -296,7 +313,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 98
     },
     {
       "id": "cf-brend-i-m-glad-yormark-gave-us-something",
@@ -313,7 +330,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "cf-breaking-big-12-commissioner-brett-yorma",
@@ -330,7 +347,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "cf-isu-hc-jimmy-rogers-says-nobody-s-coming",
@@ -347,24 +364,24 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
+      "rank_score": 95
     },
     {
-      "id": "cf-watch-otzelberger-lipsey-and-singleton-a",
+      "id": "ie-brett-yormark-out-what-his-exit-means-fo",
       "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "WATCH Otzelberger, Lipsey and Singleton at Thursday’s Availability",
-      "url": "https://cyclonefanatic.com/2026/10/watch-otzelberger-lipsey-singleton-at-thursdays-availability/",
-      "published": "2026-10-29T11:17:20-05:00",
-      "published_display": "Oct 29, 2026",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Brett Yormark OUT! What His Exit Means for Iowa State & the Big 12 | Murph & Andy (YouTube)",
+      "url": "https://www.youtube.com/watch?v=eHkOI7zuP3g",
+      "published": "2026-10-30T16:24:00-05:00",
+      "published_display": "Oct 30, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
       "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 94
     },
     {
       "id": "ie-iowa-state-s-offense-has-to-wake-up-agai",
@@ -381,23 +398,6 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 94
-    },
-    {
-      "id": "ie-iowa-slides-cyclone-struggles-and-early",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "Iowa Slides, Cyclone Struggles, and Early College Football Playoff Bracket | The Committee (YouTube)",
-      "url": "https://www.youtube.com/watch?v=w6l03DbA8tg",
-      "published": "2026-10-29T09:49:09-05:00",
-      "published_display": "Oct 29, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
       "rank_score": 93
     },
     {
@@ -405,7 +405,7 @@
       "type": "news",
       "author": "Iowa Everywhere",
       "author_name": "Iowa Everywhere",
-      "text": "The Committee / Iowa Slides, Cyclone Struggles, and Early College Football Playoff Bracket 1 day ago",
+      "text": "The Committee / Iowa Slides, Cyclone Struggles, and Early College Football Playoff Bracket 2 days ago",
       "url": "https://www.iowaeverywhere.com/episodes/iowa-slides-cyclone-struggles-and-early-college-football-playoff-bracket",
       "published": null,
       "published_display": "",
@@ -418,23 +418,6 @@
       "rank_score": 92
     },
     {
-      "id": "ie-two-guys-previewing-iowa-vs-wisconsin-io",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "Two Guys / Previewing Iowa vs. Wisconsin & Iowa State vs. Oklahoma State, Top Games of Week 9 1 day ago",
-      "url": "https://www.iowaeverywhere.com/episodes/previewing-iowa-vs-wisconsin-iowa-state-vs-oklahoma-state-top-games-of-week-9",
-      "published": null,
-      "published_display": "",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
-      "rank_score": 91
-    },
-    {
       "id": "x-2098256013858165182",
       "type": "x",
       "author": "@realapp",
@@ -443,13 +426,13 @@
       "url": "https://x.com/realapp/status/2098256013858165182",
       "published": "2026-09-10T22:43:12-05:00",
       "published_display": "Sep 10, 2026",
-      "likes": 5859,
+      "likes": 5860,
       "retweets": 744,
       "replies": 57,
       "views": 122962,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
-      "rank_score": 90
+      "rank_score": 91
     },
     {
       "id": "x-2099592706225832265",
@@ -463,10 +446,10 @@
       "likes": 2760,
       "retweets": 160,
       "replies": 21,
-      "views": 63854,
+      "views": 63856,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
-      "rank_score": 89
+      "rank_score": 90
     },
     {
       "id": "x-2096309361005969853",
@@ -480,10 +463,10 @@
       "likes": 1249,
       "retweets": 225,
       "replies": 9,
-      "views": 898779,
+      "views": 898798,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
-      "rank_score": 88
+      "rank_score": 89
     },
     {
       "id": "news-2026-9-16-football-cyclones-in-the-nfl-2",
@@ -500,7 +483,7 @@
       "views": null,
       "topic": "Official news",
       "source_priority": "official",
-      "rank_score": 87
+      "rank_score": 88
     },
     {
       "id": "news-2026-9-15-football-primer-iowa-state-vs",
@@ -517,6 +500,23 @@
       "views": null,
       "topic": "Gameday primer",
       "source_priority": "official",
+      "rank_score": 87
+    },
+    {
+      "id": "x-2099262200737128671",
+      "type": "x",
+      "author": "@CycloneFB",
+      "author_name": "Iowa State Football",
+      "text": "More to come.",
+      "url": "https://x.com/CycloneFB/status/2099262200737128671",
+      "published": "2026-09-13T17:21:25-05:00",
+      "published_display": "Sep 13, 2026",
+      "likes": 1290,
+      "retweets": 71,
+      "replies": 21,
+      "views": 38345,
+      "topic": "Official social",
+      "source_priority": "other",
       "rank_score": 86
     }
   ]

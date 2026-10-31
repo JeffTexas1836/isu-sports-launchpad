@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-30T13:53:18-05:00",
- "last_slot": "2pm CT",
+ "updated_at": "2026-10-31T05:58:07-05:00",
+ "last_slot": "6am CT",
  "last_published": true,
  "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
- "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-fytZrsN0sfI, yt-nk8P-pP8g2M; new high-signal social in top8: cf-breaking-big-12-commissioner-brett-yorma, cf-brend-i-m-glad-yormark-gave-us-something, cf-peterson-brett-yormark-was-the-big-12-s, cf-staff-picks-no-24-oklahoma-state-at-iowa",
- "change_summary": "Friday 2pm CT refresh: still no new Daily Clone, so the featured pair stays 'Three Keys to Iowa State vs Oklahoma State' and 'Does Wazzu vs North Texas in 2025 Mean Anything?' Big news: Cyclone Fanatic reports Big 12 commissioner Brett Yormark is stepping down, with columns from Peterson and Brend. Also new: CF Staff Picks for No. 24 Oklahoma State at Iowa State, 'Week 9 Picks & Preview | Picks After Dark,' and 'Offensively Offensive: Big 12 Basketball Preview.'",
- "generated_at": "2026-10-30T13:53:18-05:00",
- "generated_at_display": "Fri Oct 30, 2026 · 1:53 PM CT",
+ "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-eHkOI7zuP3g, yt-pGL1KW2Qljk, yt-uCWpJNERZW4; new high-signal social in top8: cf-big-12-buzz-week-10-preview, ie-brett-yormark-out-what-his-exit-means-fo",
+ "change_summary": "Saturday 6am CT refresh (game day vs No. 24 Oklahoma State): no new Daily Clone, so the featured pair stays 'Three Keys to Iowa State vs Oklahoma State' and 'Does Wazzu vs North Texas in 2025 Mean Anything?' New: Cyclone Fanatic's 'Yormark Leaving & Good News for Lipsey | Friday News Update' and 'Big 12 Buzz: Week 10 Preview', plus Iowa Everywhere's Murph & Andy on what Brett Yormark's exit means for Iowa State and the Big 12.",
+ "generated_at": "2026-10-31T05:58:07-05:00",
+ "generated_at_display": "Sat Oct 31, 2026 · 5:58 AM CT",
  "meaningful": true,
  "daily_clones": [
   {
@@ -17,22 +17,22 @@
   {
    "title": "Does Wazzu vs North Texas in 2025 Mean Anything? DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=wbhmCa78YcI",
-   "published_display": "1 day ago"
+   "published_display": "2 days ago"
   }
  ],
- "last_checked_at": "2026-10-30T13:53:18-05:00",
- "last_checked_slot": "2pm CT Fri Oct 30",
+ "last_checked_at": "2026-10-31T05:58:07-05:00",
+ "last_checked_slot": "6am CT Sat Oct 31",
  "last_check_meaningful": true,
  "last_check_published": true,
- "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-fytZrsN0sfI, yt-nk8P-pP8g2M; new high-signal social in top8: cf-breaking-big-12-commissioner-brett-yorma, cf-brend-i-m-glad-yormark-gave-us-something, cf-peterson-brett-yormark-was-the-big-12-s, cf-staff-picks-no-24-oklahoma-state-at-iowa",
+ "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-eHkOI7zuP3g, yt-pGL1KW2Qljk, yt-uCWpJNERZW4; new high-signal social in top8: cf-big-12-buzz-week-10-preview, ie-brett-yormark-out-what-his-exit-means-fo",
  "prior_meaningful": true,
- "prior_reason": "YouTube top5 membership changed; new high-signal YT in top8: yt-0TyAMlOEt0w, yt-3LRYRII6wKQ, yt-g71fdvBx1ZU, yt-wIE2mRKWIz8",
- "prior_change_summary": "Friday 6am CT refresh: no new Daily Clone yet, so the featured pair stays 'Three Keys to Iowa State vs Oklahoma State' and 'Does Wazzu vs North Texas in 2025 Mean Anything?' New from Cyclone Fanatic: an Iowa State basketball preview with Nate Schmidt on Tamin Lipsey and Killyan Toure, 'Talkin' Oklahoma State W/ Ben Hutchens' (CFAD Interrogates), and a CF Pregame on facing Oklahoma State's explosive offense.",
+ "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-fytZrsN0sfI, yt-nk8P-pP8g2M; new high-signal social in top8: cf-breaking-big-12-commissioner-brett-yorma, cf-brend-i-m-glad-yormark-gave-us-something, cf-peterson-brett-yormark-was-the-big-12-s, cf-staff-picks-no-24-oklahoma-state-at-iowa",
+ "prior_change_summary": "Friday 2pm CT refresh: still no new Daily Clone, so the featured pair stays 'Three Keys to Iowa State vs Oklahoma State' and 'Does Wazzu vs North Texas in 2025 Mean Anything?' Big news: Cyclone Fanatic reports Big 12 commissioner Brett Yormark is stepping down, with columns from Peterson and Brend. Also new: CF Staff Picks for No. 24 Oklahoma State at Iowa State, 'Week 9 Picks & Preview | Picks After Dark,' and 'Offensively Offensive: Big 12 Basketball Preview.'",
  "prior_daily_clones": [
   {
    "title": "Three Keys to Iowa State vs Oklahoma State | DAILY CLONE",
    "url": "https://www.youtube.com/watch?v=1Tr7JinmlQ0",
-   "published_display": "20 hours ago"
+   "published_display": "1 day ago"
   },
   {
    "title": "Does Wazzu vs North Texas in 2025 Mean Anything? DAILY CLONE",
@@ -41,10 +41,10 @@
   }
  ],
  "prior_last_published": true,
- "prior_updated_at": "2026-10-30T05:51:04-05:00",
- "prior_last_slot": "6am CT",
- "prior_generated_at": "2026-10-30T05:51:04-05:00",
- "prior_generated_at_display": "Fri Oct 30, 2026 · 5:51 AM CT",
+ "prior_updated_at": "2026-10-30T13:53:18-05:00",
+ "prior_last_slot": "2pm CT",
+ "prior_generated_at": "2026-10-30T13:53:18-05:00",
+ "prior_generated_at_display": "Fri Oct 30, 2026 · 1:53 PM CT",
  "prior_published_at": "2026-10-29T13:49:18-05:00",
  "prior_slot": "2pm CT",
  "last_actual_publish_at": "2026-10-30T05:51:04-05:00",
