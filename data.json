@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-11-01T05:50:49-06:00",
-  "generated_at_display": "Sun Nov 1, 2026 · 5:50 AM CT",
+  "generated_at": "2026-11-01T13:58:22-06:00",
+  "generated_at_display": "Sun Nov 1, 2026 · 1:58 PM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -15,8 +15,8 @@
     "url": "https://www.youtube.com/watch?v=1Tr7JinmlQ0",
     "channel": "Cyclone Fanatic",
     "published": "2026-10-29T09:00:06-05:00",
-    "published_display": "2 days ago",
-    "views": 1139
+    "published_display": "3 days ago",
+    "views": 0
   },
   "daily_clones": [
     {
@@ -25,8 +25,8 @@
       "url": "https://www.youtube.com/watch?v=1Tr7JinmlQ0",
       "channel": "Cyclone Fanatic",
       "published": "2026-10-29T09:00:06-05:00",
-      "published_display": "2 days ago",
-      "views": 1139
+      "published_display": "3 days ago",
+      "views": 0
     },
     {
       "found": true,
@@ -60,7 +60,7 @@
       "YouTube @CycloneFanatic handle maps to empty channel; used UC7_Jgn6pDG-tS0dRgXqdBEA",
       "cyclones.com/rss.aspx empty; /news listing 404 — used football pages + known article URLs",
       "iowaeverywhere.com/feed/ returns HTML not RSS; used episode pages + YouTube",
-      "Filled Daily Clone from prior: Three Keys to Iowa State vs Oklahoma State | DAILY CLONE",
+      "Filled Daily Clone from search: Three Keys to Iowa State vs Oklahoma State | DAILY CLONE",
       "Filled Daily Clone from search: Does Wazzu vs North Texas in 2025 Mean Anything? DAILY CLONE",
       "Merged/filled 2 Daily Clone(s) to keep two featured"
     ]
@@ -76,8 +76,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=1Tr7JinmlQ0",
       "published": "2026-10-29T09:00:06-05:00",
-      "published_display": "2 days ago",
-      "views": 1139,
+      "published_display": "3 days ago",
+      "views": 0,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
@@ -97,69 +97,95 @@
       "rank_score": 99
     },
     {
-      "id": "yt-dRwx3WmYxNg",
-      "title": "CF POSTGAME: Cyclones Win At The Buzzer To Stun No. 24 Oklahoma State",
+      "id": "yt-knaV4HKxhn4",
+      "title": "Jamal Polite Breaks Out",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=dRwx3WmYxNg",
-      "published": "2026-10-31T22:32:18-05:00",
-      "published_display": "7 hours ago",
-      "views": 5129,
+      "url": "https://www.youtube.com/watch?v=knaV4HKxhn4",
+      "published": "2026-11-01T12:33:59-06:00",
+      "published_display": "1 hour ago",
+      "views": 326,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 98
     },
     {
-      "id": "yt-_pU0OmTP1GI",
-      "title": "IOWA STATE UPSETS OKLAHOMA STATE | POST -POSTGAME SHOW",
+      "id": "yt-tyNVthMUKjw",
+      "title": "Williams & Blum: Cyclones stun OSU; Yormark out in Big 12, hoops tip-off",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=_pU0OmTP1GI",
-      "published": "2026-11-01T01:37:31-06:00",
-      "published_display": "4 hours ago",
-      "views": 2422,
-      "sport": "football",
+      "url": "https://www.youtube.com/watch?v=tyNVthMUKjw",
+      "published": "2026-11-01T13:45:04-06:00",
+      "published_display": "13 min ago",
+      "views": 62,
+      "sport": "basketball",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 97
     },
     {
-      "id": "yt-L7TsHv2B6jk",
-      "title": "Jimmy Rogers Oklahoma State Postgame Press Conference",
+      "id": "yt-QlwVBcA23wc",
+      "title": "Jaylen Raynor Played Free",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=L7TsHv2B6jk",
-      "published": "2026-10-31T23:30:47-05:00",
-      "published_display": "6 hours ago",
-      "views": 1752,
+      "url": "https://www.youtube.com/watch?v=QlwVBcA23wc",
+      "published": "2026-11-01T09:25:26-06:00",
+      "published_display": "4 hours ago",
+      "views": 1125,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 96
     },
     {
-      "id": "yt-7P-agdiJ_TY",
-      "title": "Oklahoma State Recap with Jake Brend",
+      "id": "yt-cCnHv-mcDUY",
+      "title": "Kyle Konrardy Oklahoma State Postgame Interview",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=7P-agdiJ_TY",
-      "published": "2026-11-01T01:01:11-06:00",
-      "published_display": "4 hours ago",
-      "views": 275,
+      "url": "https://www.youtube.com/watch?v=cCnHv-mcDUY",
+      "published": "2026-11-01T11:55:21-06:00",
+      "published_display": "2 hours ago",
+      "views": 189,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 95
     },
     {
-      "id": "yt-WXlzdJ6mD0c",
-      "title": "Jaylen Raynor Oklahoma State Postgame Interview",
+      "id": "yt-dRwx3WmYxNg",
+      "title": "CF POSTGAME: Cyclones Win At The Buzzer To Stun No. 24 Oklahoma State",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=WXlzdJ6mD0c",
-      "published": "2026-11-01T00:09:52-05:00",
-      "published_display": "5 hours ago",
-      "views": 299,
+      "url": "https://www.youtube.com/watch?v=dRwx3WmYxNg",
+      "published": "2026-10-31T22:32:18-05:00",
+      "published_display": "15 hours ago",
+      "views": 6780,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
+    },
+    {
+      "id": "yt-seTf3xpH1xk",
+      "title": "Iowa State Walks It Off, Texas Tech Bounces Back & Yormark Is Out | Bigger Than 12",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=seTf3xpH1xk",
+      "published": "2026-11-01T12:30:49-06:00",
+      "published_display": "1 hour ago",
+      "views": 167,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
+    },
+    {
+      "id": "yt-JaJwprlLrVI",
+      "title": "Iowa dominates No. 25 Wisconsin, Iowa State upsets No. 24 Oklahoma State | Two Guys",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=JaJwprlLrVI",
+      "published": "2026-11-01T12:18:51-06:00",
+      "published_display": "1 hour ago",
+      "views": 0,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 92
     },
     {
       "id": "yt-MMgCsGRfJ9w",
@@ -167,12 +193,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=MMgCsGRfJ9w",
       "published": "2026-10-31T23:43:43-05:00",
-      "published_display": "6 hours ago",
-      "views": 4065,
+      "published_display": "14 hours ago",
+      "views": 6438,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 91
     },
     {
       "id": "yt-eHkOI7zuP3g",
@@ -181,11 +207,11 @@
       "url": "https://www.youtube.com/watch?v=eHkOI7zuP3g",
       "published": "2026-10-30T16:24:00-05:00",
       "published_display": "1 day ago",
-      "views": 2131,
+      "views": 2211,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 92
+      "rank_score": 90
     },
     {
       "id": "yt-83alNSImMBc",
@@ -193,25 +219,25 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=83alNSImMBc",
       "published": "2026-10-31T23:42:05-05:00",
-      "published_display": "6 hours ago",
-      "views": 310,
+      "published_display": "14 hours ago",
+      "views": 2350,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 91
+      "rank_score": 89
     },
     {
       "id": "yt-jqy-vsAe5lM",
-      "title": "JIMMY ROGERS’ FINDS A WAY FOR IOWA STATE #oklahomastateupset #iowatstatefootball",
+      "title": "JIMMY ROGERS FINDS A WAY FOR IOWA STATE #oklahomastateupset #iowatstatefootball",
       "channel": "Locked On Cyclones",
       "url": "https://www.youtube.com/watch?v=jqy-vsAe5lM",
       "published": "2026-10-31T23:20:39-05:00",
-      "published_display": "6 hours ago",
-      "views": 503,
+      "published_display": "14 hours ago",
+      "views": 1048,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
-      "rank_score": 90
+      "rank_score": 88
     },
     {
       "id": "yt-Jscl-vxummY",
@@ -224,7 +250,7 @@
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 89
+      "rank_score": 87
     },
     {
       "id": "yt-VFosRntPRE0",
@@ -233,33 +259,7 @@
       "url": "https://www.youtube.com/watch?v=VFosRntPRE0",
       "published": "2026-10-19T22:53:07-05:00",
       "published_display": "Oct 19, 2026",
-      "views": 2861,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
-      "rank_score": 88
-    },
-    {
-      "id": "yt-Mbop85CVJRo",
-      "title": "John Walters and Jared Benko Interview",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=Mbop85CVJRo",
-      "published": "2026-10-16T16:23:36-05:00",
-      "published_display": "Oct 16, 2026",
-      "views": 2812,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "official",
-      "rank_score": 87
-    },
-    {
-      "id": "yt-WrN9JItbOBs",
-      "title": "Iowa State Volleyball Highlights vs. Utah (2026)",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=WrN9JItbOBs",
-      "published": "2026-10-19T13:40:17-05:00",
-      "published_display": "Oct 19, 2026",
-      "views": 252,
+      "views": 2864,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -267,6 +267,23 @@
     }
   ],
   "social": [
+    {
+      "id": "cf-tamin-plays-will-be-on-full-display-for",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "“Tamin Plays” will be on full display for No. 18 ISU in season opener vs. Memphis",
+      "url": "https://cyclonefanatic.com/2026/11/tamin-plays-will-be-on-fill-display-for-no-18-isu-in-season-opener-vs-memphis/",
+      "published": "2026-11-01T13:02:08-06:00",
+      "published_display": "Nov 1, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
     {
       "id": "cf-watch-jimmy-rogers-jaylen-raynor-and-aid",
       "type": "news",
@@ -282,7 +299,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 99
     },
     {
       "id": "cf-oklahoma-state-recap-with-jake-brend",
@@ -299,7 +316,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 98
     },
     {
       "id": "cf-peterson-was-saturday-a-preview-of-iowa",
@@ -316,7 +333,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "cf-iowa-state-kicker-kyle-konrardy-s-walk-o",
@@ -333,7 +350,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
+      "rank_score": 96
     },
     {
       "id": "cf-big-12-buzz-week-10-preview",
@@ -350,24 +367,41 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 96
+      "rank_score": 95
     },
     {
-      "id": "cf-staff-picks-no-24-oklahoma-state-at-iowa",
+      "id": "ie-iowa-state-walks-it-off-texas-tech-bounc",
       "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "Staff Picks: No. 24 Oklahoma State at Iowa State",
-      "url": "https://cyclonefanatic.com/2026/10/staff-picks-no-24-oklahoma-state-at-iowa-state/",
-      "published": "2026-10-30T13:47:14-05:00",
-      "published_display": "Oct 30, 2026",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Iowa State Walks It Off, Texas Tech Bounces Back & Yormark Is Out | Bigger Than 12 (YouTube)",
+      "url": "https://www.youtube.com/watch?v=seTf3xpH1xk",
+      "published": "2026-11-01T12:30:49-06:00",
+      "published_display": "Nov 1, 2026",
       "likes": null,
       "retweets": null,
       "replies": null,
       "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 95
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 94
+    },
+    {
+      "id": "ie-iowa-dominates-no-25-wisconsin-iowa-stat",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Iowa dominates No. 25 Wisconsin, Iowa State upsets No. 24 Oklahoma State | Two Guys (YouTube)",
+      "url": "https://www.youtube.com/watch?v=JaJwprlLrVI",
+      "published": "2026-11-01T12:18:51-06:00",
+      "published_display": "Nov 1, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "ie-cyclones-walk-off-oklahoma-state-instant",
@@ -384,7 +418,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 94
+      "rank_score": 92
     },
     {
       "id": "ie-brett-yormark-out-what-his-exit-means-fo",
@@ -401,24 +435,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
-    },
-    {
-      "id": "ie-instant-iowa-state-cyclones-walk-off-okl",
-      "type": "news",
-      "author": "Iowa Everywhere",
-      "author_name": "Iowa Everywhere",
-      "text": "Instant Iowa State / Cyclones WALK OFF Oklahoma State! 8 hours ago",
-      "url": "https://www.iowaeverywhere.com/episodes/cyclones-walk-off-oklahoma-state",
-      "published": null,
-      "published_display": "",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Iowa Everywhere",
-      "source_priority": "iowa_everywhere",
-      "rank_score": 92
+      "rank_score": 91
     },
     {
       "id": "x-2098256013858165182",
@@ -429,13 +446,13 @@
       "url": "https://x.com/realapp/status/2098256013858165182",
       "published": "2026-09-10T22:43:12-05:00",
       "published_display": "Sep 10, 2026",
-      "likes": 5850,
+      "likes": 5848,
       "retweets": 744,
       "replies": 57,
-      "views": 122972,
+      "views": 122974,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
-      "rank_score": 91
+      "rank_score": 90
     },
     {
       "id": "x-2099592706225832265",
@@ -449,10 +466,10 @@
       "likes": 2757,
       "retweets": 160,
       "replies": 21,
-      "views": 63857,
+      "views": 63858,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
-      "rank_score": 90
+      "rank_score": 89
     },
     {
       "id": "x-2096309361005969853",
@@ -466,10 +483,10 @@
       "likes": 1249,
       "retweets": 225,
       "replies": 9,
-      "views": 898853,
+      "views": 898865,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
-      "rank_score": 89
+      "rank_score": 88
     },
     {
       "id": "news-2026-9-16-football-cyclones-in-the-nfl-2",
@@ -486,7 +503,7 @@
       "views": null,
       "topic": "Official news",
       "source_priority": "official",
-      "rank_score": 88
+      "rank_score": 87
     },
     {
       "id": "news-2026-9-15-football-primer-iowa-state-vs",
@@ -503,23 +520,6 @@
       "views": null,
       "topic": "Gameday primer",
       "source_priority": "official",
-      "rank_score": 87
-    },
-    {
-      "id": "x-2099262200737128671",
-      "type": "x",
-      "author": "@CycloneFB",
-      "author_name": "Iowa State Football",
-      "text": "More to come.",
-      "url": "https://x.com/CycloneFB/status/2099262200737128671",
-      "published": "2026-09-13T17:21:25-05:00",
-      "published_display": "Sep 13, 2026",
-      "likes": 1288,
-      "retweets": 71,
-      "replies": 21,
-      "views": 38345,
-      "topic": "Official social",
-      "source_priority": "other",
       "rank_score": 86
     }
   ]
