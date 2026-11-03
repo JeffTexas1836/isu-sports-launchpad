@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-11-02T13:50:04-06:00",
-  "last_slot": "2pm CT",
+  "updated_at": "2026-11-03T05:54:36-06:00",
+  "last_slot": "6am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-U0sYyO4qMlY, yt-pDGk_niK5N8; new high-signal social in top8: cf-iowa-state-s-aiden-flora-kyle-konrardy-a, cf-isu-qb-jaylen-raynor-earns-davey-o-brien, cf-monday-musings-michael-myers-freddy-krue, ie-how-iowa-state-pulled-off-a-stunning-win, ie-iowa-owns-wisconsin-and-cyclones-outshoo",
-  "change_summary": "Monday 2pm CT refresh: new Daily Clone 'Memphis Preview & Aiden Flora is Special', now featured alongside 'Three Keys to Iowa State vs Oklahoma State'. Also new: CF stories on Jaylen Raynor's Davey O'Brien Great 8 nod, Flora/Konrardy/Polite Jr. Big 12 weekly awards, and Monday Musings, plus Iowa Everywhere's Murph & Andy and Two Guys episodes.",
-  "generated_at": "2026-11-02T13:50:04-06:00",
-  "generated_at_display": "Mon Nov 2, 2026 \u00b7 1:50 PM CT",
+  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-T7z5YCnjoL4, yt-Tu1pGIUF3YM, yt-X-KTWrpPyRk, yt-XEFCEwwtbmM, yt-cUHCDhggDeo, yt-kGbpyniDDAU; new high-signal social in top8: cf-five-baylor-players-to-know-on-saturday, cf-isu-kicks-off-head-coach-bill-fennelly-s, cf-memphis-is-the-aggressor-in-80-76-upset, cf-memphis-preview-cyclones-open-the-season, cf-memphis-recap-with-jake-brend, cf-watch-otzelberger-prather-and-singleton, ie-how-about-them-cyclones, ie-iowa-state-stuns-oklahoma-state-in-100-p",
+  "change_summary": "Tuesday 6am CT refresh: no new Daily Clone yet, featured pair unchanged. New: Memphis upset of No. 18 ISU men's hoops 80-76 (CF postgame, Otzelberger presser, Memphis recap), women's hoops opener win in Fennelly's final season (90-61), and Baylor preview.",
+  "generated_at": "2026-11-03T05:54:36-06:00",
+  "generated_at_display": "Tue Nov 3, 2026 \u00b7 5:54 AM CT",
   "meaningful": true,
   "daily_clones": [
+    {
+      "title": "Memphis Preview & Aiden Flora is Special | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=U0sYyO4qMlY",
+      "published_display": "20 hours ago"
+    },
+    {
+      "title": "Three Keys to Iowa State vs Oklahoma State | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=1Tr7JinmlQ0",
+      "published_display": "4 days ago"
+    }
+  ],
+  "last_checked_at": "2026-11-03T05:54:36-06:00",
+  "last_checked_slot": "6am CT Tue Nov 3",
+  "last_check_meaningful": true,
+  "last_check_published": true,
+  "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-T7z5YCnjoL4, yt-Tu1pGIUF3YM, yt-X-KTWrpPyRk, yt-XEFCEwwtbmM, yt-cUHCDhggDeo, yt-kGbpyniDDAU; new high-signal social in top8: cf-five-baylor-players-to-know-on-saturday, cf-isu-kicks-off-head-coach-bill-fennelly-s, cf-memphis-is-the-aggressor-in-80-76-upset, cf-memphis-preview-cyclones-open-the-season, cf-memphis-recap-with-jake-brend, cf-watch-otzelberger-prather-and-singleton, ie-how-about-them-cyclones, ie-iowa-state-stuns-oklahoma-state-in-100-p",
+  "prior_meaningful": true,
+  "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-U0sYyO4qMlY, yt-pDGk_niK5N8; new high-signal social in top8: cf-iowa-state-s-aiden-flora-kyle-konrardy-a, cf-isu-qb-jaylen-raynor-earns-davey-o-brien, cf-monday-musings-michael-myers-freddy-krue, ie-how-iowa-state-pulled-off-a-stunning-win, ie-iowa-owns-wisconsin-and-cyclones-outshoo",
+  "prior_change_summary": "Monday 2pm CT refresh: new Daily Clone 'Memphis Preview & Aiden Flora is Special', now featured alongside 'Three Keys to Iowa State vs Oklahoma State'. Also new: CF stories on Jaylen Raynor's Davey O'Brien Great 8 nod, Flora/Konrardy/Polite Jr. Big 12 weekly awards, and Monday Musings, plus Iowa Everywhere's Murph & Andy and Two Guys episodes.",
+  "prior_daily_clones": [
     {
       "title": "Memphis Preview & Aiden Flora is Special | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=U0sYyO4qMlY",
@@ -20,33 +40,13 @@
       "published_display": "4 days ago"
     }
   ],
-  "last_checked_at": "2026-11-02T13:50:04-06:00",
-  "last_checked_slot": "2pm CT Mon Nov 2",
-  "last_check_meaningful": true,
-  "last_check_published": true,
-  "last_check_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-U0sYyO4qMlY, yt-pDGk_niK5N8; new high-signal social in top8: cf-iowa-state-s-aiden-flora-kyle-konrardy-a, cf-isu-qb-jaylen-raynor-earns-davey-o-brien, cf-monday-musings-michael-myers-freddy-krue, ie-how-iowa-state-pulled-off-a-stunning-win, ie-iowa-owns-wisconsin-and-cyclones-outshoo",
-  "prior_meaningful": true,
-  "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-IrjBg3xIYeo, yt-JaJwprlLrVI; new high-signal social in top8: cf-a-new-era-no-9-iowa-state-opens-metcalf",
-  "prior_change_summary": "Monday 6am CT refresh: no new Daily Clone yet, so the featured pair stays 'Three Keys to Iowa State vs Oklahoma State' and 'Does Wazzu vs North Texas in 2025 Mean Anything?' New: 'Cyclones Storm the Field! Breaking Down Iowa State's Walk-Off Win | InCYde Zone' and CF's story 'A New Era: No. 9 Iowa State opens Metcalf era with win over Bucknell, 29-12'.",
-  "prior_daily_clones": [
-    {
-      "title": "Three Keys to Iowa State vs Oklahoma State | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=1Tr7JinmlQ0",
-      "published_display": "3 days ago"
-    },
-    {
-      "title": "Does Wazzu vs North Texas in 2025 Mean Anything? DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=wbhmCa78YcI",
-      "published_display": "4 days ago"
-    }
-  ],
   "prior_last_published": true,
-  "prior_updated_at": "2026-11-02T05:57:48-06:00",
-  "prior_last_slot": "6am CT",
-  "prior_generated_at": "2026-11-02T05:57:48-06:00",
-  "prior_generated_at_display": "Mon Nov 2, 2026 \u00b7 5:57 AM CT",
+  "prior_updated_at": "2026-11-02T13:50:04-06:00",
+  "prior_last_slot": "2pm CT",
+  "prior_generated_at": "2026-11-02T13:50:04-06:00",
+  "prior_generated_at_display": "Mon Nov 2, 2026 \u00b7 1:50 PM CT",
   "prior_published_at": "2026-10-29T13:49:18-05:00",
   "prior_slot": "2pm CT",
-  "last_actual_publish_at": "2026-11-02T13:50:04-06:00",
+  "last_actual_publish_at": "2026-11-03T05:54:36-06:00",
   "last_actual_publish_commit": "a03a0a4"
 }
