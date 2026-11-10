@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-11-09T05:51:27-06:00",
-  "generated_at_display": "Mon Nov 9, 2026 · 5:51 AM CT",
+  "generated_at": "2026-11-10T05:58:57-06:00",
+  "generated_at_display": "Tue Nov 10, 2026 · 5:58 AM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -11,31 +11,31 @@
   ],
   "daily_clone": {
     "found": true,
-    "title": "Three Keys to Iowa State at Baylor | DAILY CLONE",
-    "url": "https://www.youtube.com/watch?v=BQFqS2AJNWQ",
+    "title": "Iowa State's Outlook for November and Beyond | DAILY CLONE",
+    "url": "https://www.youtube.com/watch?v=H2gmwljgMkU",
     "channel": "Cyclone Fanatic",
-    "published": "2026-11-06T08:00:22-06:00",
-    "published_display": "2 days ago",
-    "views": 1860
+    "published": "2026-11-09T15:42:34-06:00",
+    "published_display": "14 hours ago",
+    "views": 1595
   },
   "daily_clones": [
+    {
+      "found": true,
+      "title": "Iowa State's Outlook for November and Beyond | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=H2gmwljgMkU",
+      "channel": "Cyclone Fanatic",
+      "published": "2026-11-09T15:42:34-06:00",
+      "published_display": "14 hours ago",
+      "views": 1595
+    },
     {
       "found": true,
       "title": "Three Keys to Iowa State at Baylor | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=BQFqS2AJNWQ",
       "channel": "Cyclone Fanatic",
       "published": "2026-11-06T08:00:22-06:00",
-      "published_display": "2 days ago",
-      "views": 1860
-    },
-    {
-      "found": true,
-      "title": "Iowa State is Still Finding Their Identity | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=d3BGFA-pnwc",
-      "channel": "Cyclone Fanatic",
-      "published": "2026-11-05T13:46:36-06:00",
       "published_display": "3 days ago",
-      "views": 1070
+      "views": 1860
     }
   ],
   "sources_note": {
@@ -61,8 +61,7 @@
       "cyclones.com/rss.aspx empty; /news listing 404 — used football pages + known article URLs",
       "iowaeverywhere.com/feed/ returns HTML not RSS; used episode pages + YouTube",
       "Filled Daily Clone from search: Three Keys to Iowa State at Baylor | DAILY CLONE",
-      "Filled Daily Clone from search: Iowa State is Still Finding Their Identity | DAILY CLONE",
-      "Merged/filled 2 Daily Clone(s) to keep two featured"
+      "Merged/filled 1 Daily Clone(s) to keep two featured"
     ]
   },
   "counts": {
@@ -71,30 +70,43 @@
   },
   "youtube": [
     {
-      "id": "yt-BQFqS2AJNWQ",
-      "title": "Three Keys to Iowa State at Baylor | DAILY CLONE",
+      "id": "yt-H2gmwljgMkU",
+      "title": "Iowa State's Outlook for November and Beyond | DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=BQFqS2AJNWQ",
-      "published": "2026-11-06T08:00:22-06:00",
-      "published_display": "2 days ago",
-      "views": 1860,
+      "url": "https://www.youtube.com/watch?v=H2gmwljgMkU",
+      "published": "2026-11-09T15:42:34-06:00",
+      "published_display": "14 hours ago",
+      "views": 1595,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 100
     },
     {
-      "id": "yt-d3BGFA-pnwc",
-      "title": "Iowa State is Still Finding Their Identity | DAILY CLONE",
+      "id": "yt-BQFqS2AJNWQ",
+      "title": "Three Keys to Iowa State at Baylor | DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=d3BGFA-pnwc",
-      "published": "2026-11-05T13:46:36-06:00",
+      "url": "https://www.youtube.com/watch?v=BQFqS2AJNWQ",
+      "published": "2026-11-06T08:00:22-06:00",
       "published_display": "3 days ago",
-      "views": 1070,
+      "views": 1860,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 99
+    },
+    {
+      "id": "yt-ELFqTRpkMcA",
+      "title": "Collapse in Waco | Rebounding vs. Cincinnati | DOWN THE PIPE",
+      "channel": "Cyclone Fanatic",
+      "url": "https://www.youtube.com/watch?v=ELFqTRpkMcA",
+      "published": "2026-11-09T19:47:55-06:00",
+      "published_display": "10 hours ago",
+      "views": 443,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 98
     },
     {
       "id": "yt-zgNGiCFbRaM",
@@ -102,12 +114,12 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=zgNGiCFbRaM",
       "published": "2026-11-09T04:00:07-06:00",
-      "published_display": "1 hour ago",
-      "views": 5,
+      "published_display": "1 day ago",
+      "views": 780,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 97
     },
     {
       "id": "yt-jaDNDcoO1RI",
@@ -115,21 +127,8 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=jaDNDcoO1RI",
       "published": "2026-11-08T21:41:49-06:00",
-      "published_display": "8 hours ago",
-      "views": 250,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 97
-    },
-    {
-      "id": "yt-nEE4fmyfxf8",
-      "title": "Mya Babbit & Alex-Anne Bessette EIU Postgame Press Conference",
-      "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=nEE4fmyfxf8",
-      "published": "2026-11-08T20:23:15-06:00",
-      "published_display": "9 hours ago",
-      "views": 293,
+      "published_display": "1 day ago",
+      "views": 523,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
@@ -141,25 +140,38 @@
       "channel": "Cyclone Fanatic",
       "url": "https://www.youtube.com/watch?v=mZGFVhq6Jy8",
       "published": "2026-11-08T13:21:06-06:00",
-      "published_display": "16 hours ago",
-      "views": 2830,
+      "published_display": "1 day ago",
+      "views": 5038,
       "sport": "basketball",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 95
     },
     {
-      "id": "yt-2_E3Rg_p8AA",
-      "title": "Jimmy Rogers Baylor Postgame Press Conference",
+      "id": "yt-nEE4fmyfxf8",
+      "title": "Mya Babbit & Alex-Anne Bessette EIU Postgame Press Conference",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=2_E3Rg_p8AA",
-      "published": "2026-11-08T15:52:24-06:00",
-      "published_display": "13 hours ago",
-      "views": 444,
+      "url": "https://www.youtube.com/watch?v=nEE4fmyfxf8",
+      "published": "2026-11-08T20:23:15-06:00",
+      "published_display": "1 day ago",
+      "views": 516,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
+    },
+    {
+      "id": "yt-qKIlIir5ZV0",
+      "title": "Hawks Handle Business and Cyclone Predictions | Murph & Andy",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=qKIlIir5ZV0",
+      "published": "2026-11-09T14:27:32-06:00",
+      "published_display": "15 hours ago",
+      "views": 2752,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "yt-Fpb92a1DSdQ",
@@ -167,12 +179,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=Fpb92a1DSdQ",
       "published": "2026-11-08T19:37:47-06:00",
-      "published_display": "10 hours ago",
-      "views": 5225,
+      "published_display": "1 day ago",
+      "views": 10323,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
     },
     {
       "id": "yt-uIVn5JjWD2g",
@@ -180,38 +192,38 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=uIVn5JjWD2g",
       "published": "2026-11-07T16:03:14-06:00",
-      "published_display": "1 day ago",
-      "views": 2714,
+      "published_display": "2 days ago",
+      "views": 2917,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 92
-    },
-    {
-      "id": "yt-stQjeE0WXzU",
-      "title": "Iowa State Men's Basketball Highlights vs  Southern Miss (2026)",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=stQjeE0WXzU",
-      "published": "2026-11-07T09:38:22-06:00",
-      "published_display": "1 day ago",
-      "views": 355,
-      "sport": "basketball",
-      "is_daily_clone": false,
-      "source_priority": "official",
       "rank_score": 91
     },
     {
-      "id": "yt-l_uOP0QtS6U",
-      "title": "Iowa State Wrestling Highlights vs. Utah Valley (2026)",
+      "id": "yt-YPStLBbw8Qc",
+      "title": "Iowa State @ Utah Valley RECAP",
       "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=l_uOP0QtS6U",
-      "published": "2026-11-07T09:41:07-06:00",
-      "published_display": "1 day ago",
-      "views": 187,
+      "url": "https://www.youtube.com/watch?v=YPStLBbw8Qc",
+      "published": "2026-11-09T15:28:04-06:00",
+      "published_display": "14 hours ago",
+      "views": 121,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
       "rank_score": 90
+    },
+    {
+      "id": "yt-h7x58pXkADg",
+      "title": "Iowa State Women's Basketball Highlights vs. Eastern Illinois (2026)",
+      "channel": "Cyclones.tv",
+      "url": "https://www.youtube.com/watch?v=h7x58pXkADg",
+      "published": "2026-11-09T10:17:49-06:00",
+      "published_display": "19 hours ago",
+      "views": 137,
+      "sport": "basketball",
+      "is_daily_clone": false,
+      "source_priority": "official",
+      "rank_score": 89
     },
     {
       "id": "yt-83alNSImMBc",
@@ -220,46 +232,33 @@
       "url": "https://www.youtube.com/watch?v=83alNSImMBc",
       "published": "2026-10-31T23:42:05-05:00",
       "published_display": "Oct 31, 2026",
-      "views": 7570,
+      "views": 7592,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 89
-    },
-    {
-      "id": "yt-DWXSr_eXrNE",
-      "title": "The defense needs to LOCK IN. #iowastate #cyclones #ncaa #ncaafootball #big12 #big12football",
-      "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=DWXSr_eXrNE",
-      "published": "2026-11-08T11:00:08-06:00",
-      "published_display": "18 hours ago",
-      "views": 69,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "other",
       "rank_score": 88
     },
     {
-      "id": "yt-VFosRntPRE0",
-      "title": "Jared Benko Introductory Press Conference",
-      "channel": "Cyclones.tv",
-      "url": "https://www.youtube.com/watch?v=VFosRntPRE0",
-      "published": "2026-10-19T22:53:07-05:00",
-      "published_display": "Oct 19, 2026",
-      "views": 2887,
+      "id": "yt-8URcj53kTRI",
+      "title": "Iowa State's defense falters against Baylor #cyclones #Ncaafootball #iowastate #cyclonesfootball",
+      "channel": "Locked On Cyclones",
+      "url": "https://www.youtube.com/watch?v=8URcj53kTRI",
+      "published": "2026-11-09T11:00:20-06:00",
+      "published_display": "18 hours ago",
+      "views": 63,
       "sport": "football",
       "is_daily_clone": false,
-      "source_priority": "official",
+      "source_priority": "other",
       "rank_score": 87
     },
     {
-      "id": "yt-B3QM3rgkmg4",
-      "title": "Iowa State falls to Baylor 42-31. #iowastate #cyclonesfootball #ncaa #ncaafootball #big12",
+      "id": "yt-AlQbK1A-lqs",
+      "title": "DISASTER: Iowa State's Offense COSTS Cyclones Victory Over Baylor Bears, Improvement Nonetheless",
       "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=B3QM3rgkmg4",
-      "published": "2026-11-08T02:35:43-06:00",
-      "published_display": "1 day ago",
-      "views": 264,
+      "url": "https://www.youtube.com/watch?v=AlQbK1A-lqs",
+      "published": "2026-11-09T07:36:07-06:00",
+      "published_display": "22 hours ago",
+      "views": 141,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "other",
@@ -267,6 +266,40 @@
     }
   ],
   "social": [
+    {
+      "id": "cf-five-cincinnati-players-to-know-on-satur",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "Five Cincinnati players to know on Saturday against Iowa State",
+      "url": "https://cyclonefanatic.com/2026/11/five-cincinnati-players-to-know-on-saturday-against-iowa-state/",
+      "published": "2026-11-09T14:20:37-06:00",
+      "published_display": "Nov 9, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
+    {
+      "id": "cf-monday-musings-crime-and-punishment",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "Monday Musings: Crime and Punishment",
+      "url": "https://cyclonefanatic.com/2026/11/monday-musings-crime-and-punishment/",
+      "published": "2026-11-09T10:31:24-06:00",
+      "published_display": "Nov 9, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 99
+    },
     {
       "id": "cf-mya-babbitt-s-torrid-3-point-shooting-fu",
       "type": "news",
@@ -282,7 +315,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 98
     },
     {
       "id": "cf-road-recap-isu-shines-early-but-makes-to",
@@ -299,7 +332,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 97
     },
     {
       "id": "cf-peterson-iowa-state-s-aiden-flora-an-all",
@@ -316,7 +349,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 96
     },
     {
       "id": "cf-williams-iowa-state-let-one-get-away-at",
@@ -333,41 +366,24 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
-    },
-    {
-      "id": "cf-watch-otzelberger-singleton-prather-afte",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "WATCH Otzelberger, Singleton, Prather after Southern Miss win",
-      "url": "https://cyclonefanatic.com/2026/11/watch-otzelberger-singleton-prather-after-southern-miss-win/",
-      "published": "2026-11-07T00:27:49-06:00",
-      "published_display": "Nov 7, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "cf-taj-manning-and-tre-singelton-s-tenacity",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "Taj Manning and Tre Singelton’s tenacity fuel No. 18 ISU’s 83-57 win over Southern Miss",
-      "url": "https://cyclonefanatic.com/2026/11/taj-manning-and-tre-singeltons-tenacity-fuel-no-18-isus-83-57-win-over-southern-miss/",
-      "published": "2026-11-06T22:25:43-06:00",
-      "published_display": "Nov 6, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
       "rank_score": 95
+    },
+    {
+      "id": "ie-hawks-handle-business-and-cyclone-predic",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Hawks Handle Business and Cyclone Predictions | Murph & Andy (YouTube)",
+      "url": "https://www.youtube.com/watch?v=qKIlIir5ZV0",
+      "published": "2026-11-09T14:27:32-06:00",
+      "published_display": "Nov 9, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 94
     },
     {
       "id": "ie-iowa-s-playoff-hopes-alive-in-win-at-nor",
@@ -384,7 +400,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 94
+      "rank_score": 93
     },
     {
       "id": "ie-reaction-to-iowa-state-s-42-31-loss-at-b",
@@ -401,7 +417,24 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 92
+    },
+    {
+      "id": "ie-murph-andy-hawks-handle-business-and-cyc",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Murph & Andy / Hawks Handle Business and Cyclone Predictions 16 hours ago",
+      "url": "https://www.iowaeverywhere.com/episodes/hawks-handle-business-and-cyclone-predictions",
+      "published": null,
+      "published_display": "",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 91
     },
     {
       "id": "x-2098256013858165182",
@@ -412,13 +445,13 @@
       "url": "https://x.com/realapp/status/2098256013858165182",
       "published": "2026-09-10T22:43:12-05:00",
       "published_display": "Sep 10, 2026",
-      "likes": 5848,
+      "likes": 5846,
       "retweets": 744,
       "replies": 57,
-      "views": 123042,
+      "views": 123051,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
-      "rank_score": 92
+      "rank_score": 90
     },
     {
       "id": "x-2099592706225832265",
@@ -435,7 +468,7 @@
       "views": 63869,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
-      "rank_score": 91
+      "rank_score": 89
     },
     {
       "id": "x-2096309361005969853",
@@ -449,10 +482,10 @@
       "likes": 1249,
       "retweets": 225,
       "replies": 9,
-      "views": 899038,
+      "views": 899051,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
-      "rank_score": 90
+      "rank_score": 88
     },
     {
       "id": "news-2026-9-16-football-cyclones-in-the-nfl-2",
@@ -469,7 +502,7 @@
       "views": null,
       "topic": "Official news",
       "source_priority": "official",
-      "rank_score": 89
+      "rank_score": 87
     },
     {
       "id": "news-2026-9-15-football-primer-iowa-state-vs",
@@ -485,40 +518,6 @@
       "replies": null,
       "views": null,
       "topic": "Gameday primer",
-      "source_priority": "official",
-      "rank_score": 88
-    },
-    {
-      "id": "x-2099262200737128671",
-      "type": "x",
-      "author": "@CycloneFB",
-      "author_name": "Iowa State Football",
-      "text": "More to come.",
-      "url": "https://x.com/CycloneFB/status/2099262200737128671",
-      "published": "2026-09-13T17:21:25-05:00",
-      "published_display": "Sep 13, 2026",
-      "likes": 1286,
-      "retweets": 71,
-      "replies": 21,
-      "views": 38352,
-      "topic": "Official social",
-      "source_priority": "other",
-      "rank_score": 87
-    },
-    {
-      "id": "news-2026-9-14-football-iowa-state-utah-to-ki",
-      "type": "news",
-      "author": "Iowa State Athletics",
-      "author_name": "Iowa State Athletics",
-      "text": "Iowa State–Utah to kick off at 2:30 p.m. on Fox — first Big 12 home game Sept. 26.",
-      "url": "https://cyclones.com/news/2026/9/14/football-iowa-state-utah-to-kick-off-at-2-30-pm",
-      "published": "2026-09-14T12:00:00-05:00",
-      "published_display": "Sep 14, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Schedule",
       "source_priority": "official",
       "rank_score": 86
     }
