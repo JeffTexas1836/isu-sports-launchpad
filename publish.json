@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-11-12T05:53:46-06:00",
+  "updated_at": "2026-11-13T05:58:33-06:00",
   "last_slot": "6am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-I5xhqGbmq_U, yt-N7FjNNpIoWI, yt-Vhp2SmcSh3Y, yt-d5Jy25cbsu8, yt-ef3JQKYaFJA; new high-signal social in top8: cf-isu-s-sack-hungry-defense-is-done-with-q, cf-peterson-just-gotta-keep-him-iowa-state, ie-fox-s-iowa-state-baylor-broadcast-was-em, ie-previewing-iowa-vs-purdue-and-iowa-state",
-  "change_summary": "Thursday 6am CT refresh: New featured Daily Clone — Aiden Flora is One of Those Transformational Cyclones (previous: Can the Cyclone Defense Turn it Around?). New: CF Williams & Blum on basketball progress and the bowl-game debate; The Beat Reporters on Flora, Raynor, and Iowa State's future; The Night Cap Baylor recap and bowl eligibility; CF on a sack-hungry defense vs Cincinnati; Peterson on keeping Aiden Flora; Iowa Everywhere Two Guys previewing ISU vs Cincinnati and the Fox Baylor broadcast.",
-  "generated_at": "2026-11-12T05:53:11-06:00",
-  "generated_at_display": "Thu Nov 12, 2026 · 5:53 AM CT",
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-M2336u1ESvs, yt-TOFOnbnyW-I, yt-TPhdw2oZz5k, yt-dRP0X6Vo0Es, yt-rsCKgvDlrCw, yt-ucDSrV9FpN4; new high-signal social in top8: cf-2027-mbb-signing-day-recap, cf-isu-s-emerging-young-receivers-will-be-k, cf-tjasa-turnsek-s-tough-minded-double-doub, ie-iowa-state-cincinnati-the-cyclones-need",
+  "change_summary": "Friday 6am CT refresh: New featured Daily Clone — Three Keys to Iowa State vs. Cincinnati (previous: Aiden Flora is One of Those Transformational Cyclones). New: CF 2027 MBB Signing Day Recap and Otzelberger on the class; CF Pregame on whether the Cyclones can get to 5-5 vs Cincinnati; Offensively Offensive; Turnsek’s double-double in the 77-55 win over Howard; young receivers vs Cincinnati; Iowa Everywhere Two Guys on needing a monster day from Aiden Flora.",
+  "generated_at": "2026-11-13T05:57:50-06:00",
+  "generated_at_display": "Fri Nov 13, 2026 · 5:57 AM CT",
   "meaningful": true,
   "daily_clones": [
+    {
+      "title": "Three Keys to Iowa State vs. Cincinnati | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=TOFOnbnyW-I",
+      "published_display": "20 hours ago"
+    },
+    {
+      "title": "Aiden Flora is One of Those Transformational Cyclones | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=I5xhqGbmq_U",
+      "published_display": "1 day ago"
+    }
+  ],
+  "last_checked_at": "2026-11-13T05:58:33-06:00",
+  "last_checked_slot": "6am CT Fri Nov 13",
+  "last_check_meaningful": true,
+  "last_check_published": true,
+  "last_check_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-M2336u1ESvs, yt-TOFOnbnyW-I, yt-TPhdw2oZz5k, yt-dRP0X6Vo0Es, yt-rsCKgvDlrCw, yt-ucDSrV9FpN4; new high-signal social in top8: cf-2027-mbb-signing-day-recap, cf-isu-s-emerging-young-receivers-will-be-k, cf-tjasa-turnsek-s-tough-minded-double-doub, ie-iowa-state-cincinnati-the-cyclones-need",
+  "prior_meaningful": true,
+  "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-I5xhqGbmq_U, yt-N7FjNNpIoWI, yt-Vhp2SmcSh3Y, yt-d5Jy25cbsu8, yt-ef3JQKYaFJA; new high-signal social in top8: cf-isu-s-sack-hungry-defense-is-done-with-q, cf-peterson-just-gotta-keep-him-iowa-state, ie-fox-s-iowa-state-baylor-broadcast-was-em, ie-previewing-iowa-vs-purdue-and-iowa-state",
+  "prior_change_summary": "Thursday 6am CT refresh: New featured Daily Clone — Aiden Flora is One of Those Transformational Cyclones (previous: Can the Cyclone Defense Turn it Around?). New: CF Williams & Blum on basketball progress and the bowl-game debate; The Beat Reporters on Flora, Raynor, and Iowa State's future; The Night Cap Baylor recap and bowl eligibility; CF on a sack-hungry defense vs Cincinnati; Peterson on keeping Aiden Flora; Iowa Everywhere Two Guys previewing ISU vs Cincinnati and the Fox Baylor broadcast.",
+  "prior_daily_clones": [
     {
       "title": "Aiden Flora is One of Those Transformational Cyclones | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=I5xhqGbmq_U",
@@ -20,33 +40,13 @@
       "published_display": "1 day ago"
     }
   ],
-  "last_checked_at": "2026-11-12T05:53:46-06:00",
-  "last_checked_slot": "6am CT Thu Nov 12",
-  "last_check_meaningful": true,
-  "last_check_published": true,
-  "last_check_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-I5xhqGbmq_U, yt-N7FjNNpIoWI, yt-Vhp2SmcSh3Y, yt-d5Jy25cbsu8, yt-ef3JQKYaFJA; new high-signal social in top8: cf-isu-s-sack-hungry-defense-is-done-with-q, cf-peterson-just-gotta-keep-him-iowa-state, ie-fox-s-iowa-state-baylor-broadcast-was-em, ie-previewing-iowa-vs-purdue-and-iowa-state",
-  "prior_meaningful": true,
-  "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-FOshU0nzgQU, yt-NTr7DHA6kwY, yt-ez5fMcuDvyk, yt-k5JgQ-wZ34w, yt-l-DeFN0j9Gk, yt-uHVMp9vuVzs; new high-signal social in top8: cf-aiden-flora-s-accountability-is-positive, cf-isu-guard-jamarion-batemon-sets-three-ca, cf-southern-preview-cyclones-look-to-move-t, cf-southern-recap-with-jake-brend, cf-watch-otzelberger-batemon-and-buchanan-f, cf-watch-rogers-bobbit-and-raynor-ahead-of",
-  "prior_change_summary": "Wednesday 6am CT refresh: New featured Daily Clone — Can the Cyclone Defense Turn it Around? (previous: Iowa State's Outlook for November and Beyond). New: CF Southern recap after the 84-47 win, Otzelberger/Batemon/Buchanan postgame, Batemon's three career highs; Aiden Flora on defensive accountability; Rogers, Bobbit and Raynor ahead of Cincinnati; The Litecast (Southern recap, Kirk Cousins, vs Cincy).",
-  "prior_daily_clones": [
-    {
-      "title": "Can the Cyclone Defense Turn it Around? DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=FOshU0nzgQU",
-      "published_display": "14 hours ago"
-    },
-    {
-      "title": "Iowa State's Outlook for November and Beyond | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=H2gmwljgMkU",
-      "published_display": "1 day ago"
-    }
-  ],
   "prior_last_published": true,
-  "prior_updated_at": "2026-11-11T05:55:10-06:00",
+  "prior_updated_at": "2026-11-12T05:53:46-06:00",
   "prior_last_slot": "6am CT",
-  "prior_generated_at": "2026-11-11T05:54:04-06:00",
-  "prior_generated_at_display": "Wed Nov 11, 2026 · 5:54 AM CT",
-  "prior_published_at": "2026-11-11T05:55:10-06:00",
+  "prior_generated_at": "2026-11-12T05:53:11-06:00",
+  "prior_generated_at_display": "Thu Nov 12, 2026 · 5:53 AM CT",
+  "prior_published_at": "2026-11-12T05:53:46-06:00",
   "prior_slot": "6am CT",
-  "last_actual_publish_at": "2026-11-12T05:53:46-06:00",
-  "last_actual_publish_commit": "137c96d"
+  "last_actual_publish_at": "2026-11-13T05:58:33-06:00",
+  "last_actual_publish_commit": "19ae373"
 }
