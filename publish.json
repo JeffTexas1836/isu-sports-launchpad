@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T05:56:41-06:00",
+  "updated_at": "2026-11-14T05:57:10-06:00",
   "last_slot": "6am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
@@ -47,6 +47,6 @@
   "prior_generated_at_display": "Fri Nov 13, 2026 · 5:57 AM CT",
   "prior_published_at": "2026-11-13T05:58:33-06:00",
   "prior_slot": "6am CT",
-  "last_actual_publish_at": null,
-  "last_actual_publish_commit": null
+  "last_actual_publish_at": "2026-11-14T05:57:10-06:00",
+  "last_actual_publish_commit": "4728d31"
 }
