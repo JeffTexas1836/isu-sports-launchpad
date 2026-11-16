@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-11-15T05:55:00-06:00",
+  "updated_at": "2026-11-16T06:18:46-06:00",
   "last_slot": "6am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-1kWJwhJw8V4, yt-883xl8gxKmE, yt-BijO8b6ub9g, yt-FYmTwAMnPzg, yt-SYLDECX5DhQ, yt-bXzFm3xkReA; new high-signal social in top8: cf-aiden-flora-s-latest-3-touchdown-flouris, cf-cincinnati-postgame-report-with-jake-bre, cf-peterson-did-aiden-flora-punctuate-his-a, ie-instant-iowa-state-iowa-state-dominates, ie-iowa-state-dominates-cincinnati-41-13-ai",
-  "change_summary": "Sunday 6am CT refresh: Featured Daily Clones unchanged — Three Keys to Iowa State vs. Cincinnati, and Aiden Flora is One of Those Transformational Cyclones. New: CF postgame of Iowa State’s 41-13 win over Cincinnati (Post-Postgame Show, CF POSTGAME, Rogers press conference, Flora interview); CF recap of Flora’s three-TD game and Peterson on his All-America résumé; Iowa Everywhere Instant Iowa State; CycloneFB’s Heisman-watch and CYCLONE DUB posts.",
-  "generated_at": "2026-11-15T05:53:28-06:00",
-  "generated_at_display": "Sun Nov 15, 2026 · 5:53 AM CT",
+  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-6fEM8MEDnm8, yt-IrKM5zV8k1g, yt-d0rARV6bj1Y, yt-pP2Tbn2orjM, yt-qBTOClAnXnU; new high-signal social in top8: cf-arianna-jackson-shook-off-her-shooting-s, cf-bill-fennelly-suspended-one-game-for-ina, cf-niagara-postgame-report-with-jake-brend, cf-tamin-lipsey-becomes-isu-s-all-time-wins",
+  "change_summary": "Monday 6am CT refresh: Featured Daily Clones unchanged — Three Keys to Iowa State vs. Cincinnati, and Aiden Flora is One of Those Transformational Cyclones. New: CF InCYde Zone recap of the 41-13 Cincinnati win and Williams & Blum asking if Aiden Flora is the best player in college football; CF Niagara postgame (Jake Brend, Otzelberger, Lipsey/Manning) after a 66-45 MBB win; CF on Tamin Lipsey becoming ISU’s all-time wins leader and Arianna Jackson’s 4th-quarter 3s in a 69-64 WBB win over UIC; CF report that Bill Fennelly was suspended one game for inappropriate contact with a student-athlete.",
+  "generated_at": "2026-11-16T06:18:04-06:00",
+  "generated_at_display": "Mon Nov 16, 2026 · 6:18 AM CT",
   "meaningful": true,
   "daily_clones": [
+    {
+      "title": "Three Keys to Iowa State vs. Cincinnati | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=TOFOnbnyW-I",
+      "published_display": "3 days ago"
+    },
+    {
+      "title": "Aiden Flora is One of Those Transformational Cyclones | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=I5xhqGbmq_U",
+      "published_display": "4 days ago"
+    }
+  ],
+  "last_checked_at": "2026-11-16T06:18:46-06:00",
+  "last_checked_slot": "6am CT Mon Nov 16",
+  "last_check_meaningful": true,
+  "last_check_published": true,
+  "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-6fEM8MEDnm8, yt-IrKM5zV8k1g, yt-d0rARV6bj1Y, yt-pP2Tbn2orjM, yt-qBTOClAnXnU; new high-signal social in top8: cf-arianna-jackson-shook-off-her-shooting-s, cf-bill-fennelly-suspended-one-game-for-ina, cf-niagara-postgame-report-with-jake-brend, cf-tamin-lipsey-becomes-isu-s-all-time-wins",
+  "prior_meaningful": true,
+  "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-1kWJwhJw8V4, yt-883xl8gxKmE, yt-BijO8b6ub9g, yt-FYmTwAMnPzg, yt-SYLDECX5DhQ, yt-bXzFm3xkReA; new high-signal social in top8: cf-aiden-flora-s-latest-3-touchdown-flouris, cf-cincinnati-postgame-report-with-jake-bre, cf-peterson-did-aiden-flora-punctuate-his-a, ie-instant-iowa-state-iowa-state-dominates, ie-iowa-state-dominates-cincinnati-41-13-ai",
+  "prior_change_summary": "Sunday 6am CT refresh: Featured Daily Clones unchanged — Three Keys to Iowa State vs. Cincinnati, and Aiden Flora is One of Those Transformational Cyclones. New: CF postgame of Iowa State’s 41-13 win over Cincinnati (Post-Postgame Show, CF POSTGAME, Rogers press conference, Flora interview); CF recap of Flora’s three-TD game and Peterson on his All-America résumé; Iowa Everywhere Instant Iowa State; CycloneFB’s Heisman-watch and CYCLONE DUB posts.",
+  "prior_daily_clones": [
     {
       "title": "Three Keys to Iowa State vs. Cincinnati | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=TOFOnbnyW-I",
@@ -20,32 +40,12 @@
       "published_display": "3 days ago"
     }
   ],
-  "last_checked_at": "2026-11-15T05:54:47-06:00",
-  "last_checked_slot": "6am CT Sun Nov 15",
-  "last_check_meaningful": true,
-  "last_check_published": true,
-  "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-1kWJwhJw8V4, yt-883xl8gxKmE, yt-BijO8b6ub9g, yt-FYmTwAMnPzg, yt-SYLDECX5DhQ, yt-bXzFm3xkReA; new high-signal social in top8: cf-aiden-flora-s-latest-3-touchdown-flouris, cf-cincinnati-postgame-report-with-jake-bre, cf-peterson-did-aiden-flora-punctuate-his-a, ie-instant-iowa-state-iowa-state-dominates, ie-iowa-state-dominates-cincinnati-41-13-ai",
-  "prior_meaningful": true,
-  "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-oaVEthoD8MM; new high-signal social in top8: cf-big-12-buzz-week-11-preview, cf-staff-picks-cincinnati-at-iowa-state, x-2098256013858165182",
-  "prior_change_summary": "Saturday 6am CT refresh: Featured Daily Clones unchanged — Three Keys to Iowa State vs. Cincinnati, and Aiden Flora is One of Those Transformational Cyclones. New: CF Week 11 Picks & Preview (Picks After Dark); CF Staff Picks for Cincinnati at Iowa State; CF Big 12 Buzz Week 11 Preview.",
-  "prior_daily_clones": [
-    {
-      "title": "Three Keys to Iowa State vs. Cincinnati | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=TOFOnbnyW-I",
-      "published_display": "1 day ago"
-    },
-    {
-      "title": "Aiden Flora is One of Those Transformational Cyclones | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=I5xhqGbmq_U",
-      "published_display": "2 days ago"
-    }
-  ],
   "prior_last_published": true,
-  "prior_updated_at": "2026-11-14T05:57:10-06:00",
+  "prior_updated_at": "2026-11-15T05:55:00-06:00",
   "prior_last_slot": "6am CT",
-  "prior_generated_at": "2026-11-14T05:56:06-06:00",
-  "prior_generated_at_display": "Sat Nov 14, 2026 · 5:56 AM CT",
-  "prior_published_at": "2026-11-14T05:57:10-06:00",
+  "prior_generated_at": "2026-11-15T05:53:28-06:00",
+  "prior_generated_at_display": "Sun Nov 15, 2026 · 5:53 AM CT",
+  "prior_published_at": "2026-11-15T05:55:00-06:00",
   "prior_slot": "6am CT",
   "last_actual_publish_at": "2026-11-15T05:55:00-06:00",
   "last_actual_publish_commit": "17e4afc"
