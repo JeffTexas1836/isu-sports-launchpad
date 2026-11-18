@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-11-17T05:51:13-06:00",
+  "updated_at": "2026-11-18T05:52:01-06:00",
   "last_slot": "6am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-JMN7FQdhP_o, yt-PTo7U4ihRSw, yt-RP5UteIAoC0; new high-signal social in top8: cf-aiden-flora-wins-big-12-offensive-player, cf-caroline-mccombs-availability-following, cf-five-ucf-players-to-know-on-friday-again, cf-monday-musings-two-games-will-separate-a, cf-transcript-from-caroline-mccombs-monday, ie-bill-fennelly-suspended-was-iowa-state-s",
-  "change_summary": "Tuesday 6am CT refresh: New featured Daily Clone — Bill Fennelly Suspended, Monday Football News (Three Keys to Iowa State vs. Cincinnati remains second; Aiden Flora is One of Those Transformational Cyclones drops off). New: CF Caroline McCombs availability after Fennelly’s one-game suspension; Iowa Everywhere Murph & Andy on whether ISU’s punishment was enough; CF on Aiden Flora winning Big 12 Offensive Player of the Week for the third time this season, five UCF players to know ahead of Friday in Orlando, and Monday Musings on the two remaining games that will separate a historic season from a pedestrian one.",
-  "generated_at": "2026-11-17T05:50:21-06:00",
-  "generated_at_display": "Tue Nov 17, 2026 · 5:50 AM CT",
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-Czx5v2X_JsU, yt-Iwa0hpu_Vvs, yt-M-L6okXJ7ag, yt-Q5ipB3TcW5U, yt-eZvctcnmW2o, yt-wdx6XpLdWag; new high-signal social in top8: cf-iowa-state-earns-commitment-from-2027-ed, cf-iowa-state-head-coach-jimmy-rogers-will, cf-video-metcalf-riggins-and-johnson-previe, cf-watch-rogers-roehl-and-players-ahead-of, x-2098256013858165182",
+  "change_summary": "Wednesday 6am CT refresh: New featured Daily Clone \u2014 Comparing Aiden Flora to Christian McCaffrey (Bill Fennelly Suspended, Monday Football News remains second; Three Keys to Iowa State vs. Cincinnati drops off). New: CF Let Him Cook on the Niagara win and the Players Era preview; The Litecast on Flora for Heisman and more MBB struggles; CF on Jimmy Rogers facing a familiar QB at UCF Friday, a 2027 EDGE commitment from Phillip Moita, and midweek video from Rogers, Roehl and players ahead of UCF; CF wrestling previews for the Cy-Hawk dual (Metcalf, Riggins, and Johnson).",
+  "generated_at": "2026-11-18T05:51:03-06:00",
+  "generated_at_display": "Wed Nov 18, 2026 \u00b7 5:51 AM CT",
   "meaningful": true,
   "daily_clones": [
+    {
+      "title": "Comparing Aiden Flora to Christian McCaffrey | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=Czx5v2X_JsU",
+      "published_display": "12 hours ago"
+    },
+    {
+      "title": "Bill Fennelly Suspended, Monday Football News | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=RP5UteIAoC0",
+      "published_display": "1 day ago"
+    }
+  ],
+  "last_checked_at": "2026-11-18T05:52:01-06:00",
+  "last_checked_slot": "6am CT Wed Nov 18",
+  "last_check_meaningful": true,
+  "last_check_published": true,
+  "last_check_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-Czx5v2X_JsU, yt-Iwa0hpu_Vvs, yt-M-L6okXJ7ag, yt-Q5ipB3TcW5U, yt-eZvctcnmW2o, yt-wdx6XpLdWag; new high-signal social in top8: cf-iowa-state-earns-commitment-from-2027-ed, cf-iowa-state-head-coach-jimmy-rogers-will, cf-video-metcalf-riggins-and-johnson-previe, cf-watch-rogers-roehl-and-players-ahead-of, x-2098256013858165182",
+  "prior_meaningful": true,
+  "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-JMN7FQdhP_o, yt-PTo7U4ihRSw, yt-RP5UteIAoC0; new high-signal social in top8: cf-aiden-flora-wins-big-12-offensive-player, cf-caroline-mccombs-availability-following, cf-five-ucf-players-to-know-on-friday-again, cf-monday-musings-two-games-will-separate-a, cf-transcript-from-caroline-mccombs-monday, ie-bill-fennelly-suspended-was-iowa-state-s",
+  "prior_change_summary": "Tuesday 6am CT refresh: New featured Daily Clone \u2014 Bill Fennelly Suspended, Monday Football News (Three Keys to Iowa State vs. Cincinnati remains second; Aiden Flora is One of Those Transformational Cyclones drops off). New: CF Caroline McCombs availability after Fennelly\u2019s one-game suspension; Iowa Everywhere Murph & Andy on whether ISU\u2019s punishment was enough; CF on Aiden Flora winning Big 12 Offensive Player of the Week for the third time this season, five UCF players to know ahead of Friday in Orlando, and Monday Musings on the two remaining games that will separate a historic season from a pedestrian one.",
+  "prior_daily_clones": [
     {
       "title": "Bill Fennelly Suspended, Monday Football News | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=RP5UteIAoC0",
@@ -20,32 +40,12 @@
       "published_display": "4 days ago"
     }
   ],
-  "last_checked_at": "2026-11-17T05:51:08-06:00",
-  "last_checked_slot": "6am CT Tue Nov 17",
-  "last_check_meaningful": true,
-  "last_check_published": true,
-  "last_check_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-JMN7FQdhP_o, yt-PTo7U4ihRSw, yt-RP5UteIAoC0; new high-signal social in top8: cf-aiden-flora-wins-big-12-offensive-player, cf-caroline-mccombs-availability-following, cf-five-ucf-players-to-know-on-friday-again, cf-monday-musings-two-games-will-separate-a, cf-transcript-from-caroline-mccombs-monday, ie-bill-fennelly-suspended-was-iowa-state-s",
-  "prior_meaningful": true,
-  "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-6fEM8MEDnm8, yt-IrKM5zV8k1g, yt-d0rARV6bj1Y, yt-pP2Tbn2orjM, yt-qBTOClAnXnU; new high-signal social in top8: cf-arianna-jackson-shook-off-her-shooting-s, cf-bill-fennelly-suspended-one-game-for-ina, cf-niagara-postgame-report-with-jake-brend, cf-tamin-lipsey-becomes-isu-s-all-time-wins",
-  "prior_change_summary": "Monday 6am CT refresh: Featured Daily Clones unchanged — Three Keys to Iowa State vs. Cincinnati, and Aiden Flora is One of Those Transformational Cyclones. New: CF InCYde Zone recap of the 41-13 Cincinnati win and Williams & Blum asking if Aiden Flora is the best player in college football; CF Niagara postgame (Jake Brend, Otzelberger, Lipsey/Manning) after a 66-45 MBB win; CF on Tamin Lipsey becoming ISU’s all-time wins leader and Arianna Jackson’s 4th-quarter 3s in a 69-64 WBB win over UIC; CF report that Bill Fennelly was suspended one game for inappropriate contact with a student-athlete.",
-  "prior_daily_clones": [
-    {
-      "title": "Three Keys to Iowa State vs. Cincinnati | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=TOFOnbnyW-I",
-      "published_display": "3 days ago"
-    },
-    {
-      "title": "Aiden Flora is One of Those Transformational Cyclones | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=I5xhqGbmq_U",
-      "published_display": "4 days ago"
-    }
-  ],
   "prior_last_published": true,
-  "prior_updated_at": "2026-11-16T06:19:07-06:00",
+  "prior_updated_at": "2026-11-17T05:51:13-06:00",
   "prior_last_slot": "6am CT",
-  "prior_generated_at": "2026-11-16T06:18:04-06:00",
-  "prior_generated_at_display": "Mon Nov 16, 2026 · 6:18 AM CT",
-  "prior_published_at": "2026-11-16T06:19:07-06:00",
+  "prior_generated_at": "2026-11-17T05:50:21-06:00",
+  "prior_generated_at_display": "Tue Nov 17, 2026 \u00b7 5:50 AM CT",
+  "prior_published_at": "2026-11-17T05:51:13-06:00",
   "prior_slot": "6am CT",
   "last_actual_publish_at": "2026-11-17T05:51:13-06:00",
   "last_actual_publish_commit": "04edcc8"
