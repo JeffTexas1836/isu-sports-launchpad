@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-11-18T05:52:12-06:00",
+  "updated_at": "2026-11-19T05:59:18-06:00",
   "last_slot": "6am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-Czx5v2X_JsU, yt-Iwa0hpu_Vvs, yt-M-L6okXJ7ag, yt-Q5ipB3TcW5U, yt-eZvctcnmW2o, yt-wdx6XpLdWag; new high-signal social in top8: cf-iowa-state-earns-commitment-from-2027-ed, cf-iowa-state-head-coach-jimmy-rogers-will, cf-video-metcalf-riggins-and-johnson-previe, cf-watch-rogers-roehl-and-players-ahead-of, x-2098256013858165182",
-  "change_summary": "Wednesday 6am CT refresh: New featured Daily Clone \u2014 Comparing Aiden Flora to Christian McCaffrey (Bill Fennelly Suspended, Monday Football News remains second; Three Keys to Iowa State vs. Cincinnati drops off). New: CF Let Him Cook on the Niagara win and the Players Era preview; The Litecast on Flora for Heisman and more MBB struggles; CF on Jimmy Rogers facing a familiar QB at UCF Friday, a 2027 EDGE commitment from Phillip Moita, and midweek video from Rogers, Roehl and players ahead of UCF; CF wrestling previews for the Cy-Hawk dual (Metcalf, Riggins, and Johnson).",
-  "generated_at": "2026-11-18T05:51:03-06:00",
-  "generated_at_display": "Wed Nov 18, 2026 \u00b7 5:51 AM CT",
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-DLU6o29V48o, yt-VhSi3d1zXpQ, yt-ZbUYg9Gzs3w, yt-gUtIQht1BSM, yt-pt7pDT2ldJE, yt-yhpi5i2c-RU, yt-z1U6SUj-97w; new high-signal social in top8: cf-clutch-cam-cam-pettaway-adds-fresh-layer, cf-peterson-what-will-it-take-for-iowa-stat, cf-radio-recap-arianna-jackson-s-clutch-3-p, ie-iowa-s-path-to-the-playoff-after-latest, ie-two-guys-iowa-s-path-to-the-playoff-afte",
+  "change_summary": "Thursday 6am CT refresh: New featured Daily Clone — Why is Iowa State different away from Jack Trice? (Comparing Aiden Flora to Christian McCaffrey remains second; Bill Fennelly Suspended, Monday Football News drops off). New: CF radio recap of last night's 72-57 WBB win at UNI, capped by Arianna Jackson's clutch 3, plus the postgame press conference; The Beat Reporters and The Night Cap on getting bowl-eligible Friday at UCF; CF Pregame and Williams & Blum preview the Orlando trip, Flora's Heisman buzz, and Fennelly; Peterson on what it will take to keep Flora; Cam Pettaway's explosiveness; Iowa Everywhere Two Guys on the Cyclones playing for a 6th win at UCF.",
+  "generated_at": "2026-11-19T05:58:11-06:00",
+  "generated_at_display": "Thu Nov 19, 2026 · 5:58 AM CT",
   "meaningful": true,
   "daily_clones": [
+    {
+      "title": "Why is Iowa State different away from Jack Trice? DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=yhpi5i2c-RU",
+      "published_display": "15 hours ago"
+    },
+    {
+      "title": "Comparing Aiden Flora to Christian McCaffrey | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=Czx5v2X_JsU",
+      "published_display": "1 day ago"
+    }
+  ],
+  "last_checked_at": "2026-11-19T05:59:18-06:00",
+  "last_checked_slot": "6am CT Thu Nov 19",
+  "last_check_meaningful": true,
+  "last_check_published": true,
+  "last_check_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-DLU6o29V48o, yt-VhSi3d1zXpQ, yt-ZbUYg9Gzs3w, yt-gUtIQht1BSM, yt-pt7pDT2ldJE, yt-yhpi5i2c-RU, yt-z1U6SUj-97w; new high-signal social in top8: cf-clutch-cam-cam-pettaway-adds-fresh-layer, cf-peterson-what-will-it-take-for-iowa-stat, cf-radio-recap-arianna-jackson-s-clutch-3-p, ie-iowa-s-path-to-the-playoff-after-latest, ie-two-guys-iowa-s-path-to-the-playoff-afte",
+  "prior_meaningful": true,
+  "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-Czx5v2X_JsU, yt-Iwa0hpu_Vvs, yt-M-L6okXJ7ag, yt-Q5ipB3TcW5U, yt-eZvctcnmW2o, yt-wdx6XpLdWag; new high-signal social in top8: cf-iowa-state-earns-commitment-from-2027-ed, cf-iowa-state-head-coach-jimmy-rogers-will, cf-video-metcalf-riggins-and-johnson-previe, cf-watch-rogers-roehl-and-players-ahead-of, x-2098256013858165182",
+  "prior_change_summary": "Wednesday 6am CT refresh: New featured Daily Clone — Comparing Aiden Flora to Christian McCaffrey (Bill Fennelly Suspended, Monday Football News remains second; Three Keys to Iowa State vs. Cincinnati drops off). New: CF Let Him Cook on the Niagara win and the Players Era preview; The Litecast on Flora for Heisman and more MBB struggles; CF on Jimmy Rogers facing a familiar QB at UCF Friday, a 2027 EDGE commitment from Phillip Moita, and midweek video from Rogers, Roehl and players ahead of UCF; CF wrestling previews for the Cy-Hawk dual (Metcalf, Riggins, and Johnson).",
+  "prior_daily_clones": [
     {
       "title": "Comparing Aiden Flora to Christian McCaffrey | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=Czx5v2X_JsU",
@@ -20,33 +40,13 @@
       "published_display": "1 day ago"
     }
   ],
-  "last_checked_at": "2026-11-18T05:52:12-06:00",
-  "last_checked_slot": "6am CT Wed Nov 18",
-  "last_check_meaningful": true,
-  "last_check_published": true,
-  "last_check_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-Czx5v2X_JsU, yt-Iwa0hpu_Vvs, yt-M-L6okXJ7ag, yt-Q5ipB3TcW5U, yt-eZvctcnmW2o, yt-wdx6XpLdWag; new high-signal social in top8: cf-iowa-state-earns-commitment-from-2027-ed, cf-iowa-state-head-coach-jimmy-rogers-will, cf-video-metcalf-riggins-and-johnson-previe, cf-watch-rogers-roehl-and-players-ahead-of, x-2098256013858165182",
-  "prior_meaningful": true,
-  "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-JMN7FQdhP_o, yt-PTo7U4ihRSw, yt-RP5UteIAoC0; new high-signal social in top8: cf-aiden-flora-wins-big-12-offensive-player, cf-caroline-mccombs-availability-following, cf-five-ucf-players-to-know-on-friday-again, cf-monday-musings-two-games-will-separate-a, cf-transcript-from-caroline-mccombs-monday, ie-bill-fennelly-suspended-was-iowa-state-s",
-  "prior_change_summary": "Tuesday 6am CT refresh: New featured Daily Clone \u2014 Bill Fennelly Suspended, Monday Football News (Three Keys to Iowa State vs. Cincinnati remains second; Aiden Flora is One of Those Transformational Cyclones drops off). New: CF Caroline McCombs availability after Fennelly\u2019s one-game suspension; Iowa Everywhere Murph & Andy on whether ISU\u2019s punishment was enough; CF on Aiden Flora winning Big 12 Offensive Player of the Week for the third time this season, five UCF players to know ahead of Friday in Orlando, and Monday Musings on the two remaining games that will separate a historic season from a pedestrian one.",
-  "prior_daily_clones": [
-    {
-      "title": "Bill Fennelly Suspended, Monday Football News | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=RP5UteIAoC0",
-      "published_display": "13 hours ago"
-    },
-    {
-      "title": "Three Keys to Iowa State vs. Cincinnati | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=TOFOnbnyW-I",
-      "published_display": "4 days ago"
-    }
-  ],
   "prior_last_published": true,
-  "prior_updated_at": "2026-11-17T05:51:13-06:00",
+  "prior_updated_at": "2026-11-18T05:52:12-06:00",
   "prior_last_slot": "6am CT",
-  "prior_generated_at": "2026-11-17T05:50:21-06:00",
-  "prior_generated_at_display": "Tue Nov 17, 2026 \u00b7 5:50 AM CT",
-  "prior_published_at": "2026-11-17T05:51:13-06:00",
+  "prior_generated_at": "2026-11-18T05:51:03-06:00",
+  "prior_generated_at_display": "Wed Nov 18, 2026 · 5:51 AM CT",
+  "prior_published_at": "2026-11-18T05:52:12-06:00",
   "prior_slot": "6am CT",
-  "last_actual_publish_at": "2026-11-18T05:52:12-06:00",
-  "last_actual_publish_commit": "d1dcda1"
+  "last_actual_publish_at": "2026-11-19T05:59:18-06:00",
+  "last_actual_publish_commit": "ae5aa84"
 }
