@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-11-22T05:50:40-06:00",
+  "updated_at": "2026-11-23T05:56:23-06:00",
   "last_slot": "6am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--QK_Nalw8Hk, yt-M4Dgt2diyxY; new high-signal social in top8: cf-isu-s-bill-fennelly-returns-from-one-gam, cf-statement-from-iowa-state-regarding-wome",
-  "change_summary": "Sunday 6am CT refresh: Daily Clone pair unchanged — Three Keys to Iowa State @ UCF + Score Prediction remains first, Why is Iowa State different away from Jack Trice? remains second. New: Iowa State issued a statement on the women's basketball program, and CF reports Bill Fennelly has returned from his one-game suspension but remains under scrutiny; UCF postgame press conferences from Jimmy Rogers, plus Aiden Flora and Jaylen Raynor, and the Post Postgame Show after Friday's 48-17 loss in Orlando.",
-  "generated_at": "2026-11-22T05:49:31-06:00",
-  "generated_at_display": "Sun Nov 22, 2026 · 5:49 AM CT",
+  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-2apX9O3P1Co, yt-NQrzTQzW5HU, yt-RTv20Zd2yIE, yt-YwXCDYSl7jY, yt-aXLFEWKwnmo, yt-kSLIH-W0ixA; new high-signal social in top8: cf-coby-merrill-offers-a-glimpse-of-iowa-st, cf-drake-recap-with-jake-brend, cf-iowa-state-s-xiao-smile-zhang-showcases, ie-iowa-beats-illinois-with-playoff-berth-i",
+  "change_summary": "Monday 6am CT refresh: Daily Clone pair unchanged — Three Keys to Iowa State @ UCF + Score Prediction remains first, Why is Iowa State different away from Jack Trice? remains second. New: CF's InCYde Zone on what's missing after the UCF loss, Williams & Blum on offseason roster decisions, and Brent Metcalf reacting to Sunday's 21-12 Cy-Hawk wrestling loss; women's basketball stays 7-0 after a 62-42 win over Drake, with Jake Brend's recap, Fennelly's postgame, and Xiao \"Smile\" Zhang's efficient night; Coby Merrill offers a glimpse of the wrestling program's future. Iowa Everywhere's Two Guys covers Iowa's playoff-path win over Illinois and the Cyclones' sputter at UCF.",
+  "generated_at": "2026-11-23T05:55:43-06:00",
+  "generated_at_display": "Mon Nov 23, 2026 · 5:55 AM CT",
   "meaningful": true,
   "daily_clones": [
+    {
+      "title": "Three Keys to Iowa State @ UCF + Score Prediction | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=_51e0jSJiok",
+      "published_display": "3 days ago"
+    },
+    {
+      "title": "Why is Iowa State different away from Jack Trice? DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=yhpi5i2c-RU",
+      "published_display": "4 days ago"
+    }
+  ],
+  "last_checked_at": "2026-11-23T05:56:23-06:00",
+  "last_checked_slot": "6am CT Mon Nov 23",
+  "last_check_meaningful": true,
+  "last_check_published": true,
+  "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-2apX9O3P1Co, yt-NQrzTQzW5HU, yt-RTv20Zd2yIE, yt-YwXCDYSl7jY, yt-aXLFEWKwnmo, yt-kSLIH-W0ixA; new high-signal social in top8: cf-coby-merrill-offers-a-glimpse-of-iowa-st, cf-drake-recap-with-jake-brend, cf-iowa-state-s-xiao-smile-zhang-showcases, ie-iowa-beats-illinois-with-playoff-berth-i",
+  "prior_meaningful": true,
+  "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--QK_Nalw8Hk, yt-M4Dgt2diyxY; new high-signal social in top8: cf-isu-s-bill-fennelly-returns-from-one-gam, cf-statement-from-iowa-state-regarding-wome",
+  "prior_change_summary": "Sunday 6am CT refresh: Daily Clone pair unchanged — Three Keys to Iowa State @ UCF + Score Prediction remains first, Why is Iowa State different away from Jack Trice? remains second. New: Iowa State issued a statement on the women's basketball program, and CF reports Bill Fennelly has returned from his one-game suspension but remains under scrutiny; UCF postgame press conferences from Jimmy Rogers, plus Aiden Flora and Jaylen Raynor, and the Post Postgame Show after Friday's 48-17 loss in Orlando.",
+  "prior_daily_clones": [
     {
       "title": "Three Keys to Iowa State @ UCF + Score Prediction | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=_51e0jSJiok",
@@ -20,32 +40,12 @@
       "published_display": "3 days ago"
     }
   ],
-  "last_checked_at": "2026-11-22T05:50:40-06:00",
-  "last_checked_slot": "6am CT Sun Nov 22",
-  "last_check_meaningful": true,
-  "last_check_published": true,
-  "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--QK_Nalw8Hk, yt-M4Dgt2diyxY; new high-signal social in top8: cf-isu-s-bill-fennelly-returns-from-one-gam, cf-statement-from-iowa-state-regarding-wome",
-  "prior_meaningful": true,
-  "prior_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-IlbyOzhVBrc, yt-R8Bm9eLg-OI, yt-icKGAUA4zYg, yt-jc8hgs_F07g, yt-qi0U6S6sR3E, yt-zNOGsDUtRQY; new high-signal social in top8: cf-a-season-high-torrent-of-turnovers-dooms, cf-big-12-buzz-week-12-preview, cf-peterson-even-in-iowa-state-s-ugly-loss, cf-six-former-cyclone-women-s-basketball-pl, cf-watch-bill-fennelly-s-news-conference-on, ie-cyclone-in-orlando-and-back-it-up-hawks, ie-iowa-state-gets-dominated-by-ucf-instant",
-  "prior_change_summary": "Saturday 6am CT refresh: Daily Clone pair unchanged — Three Keys to Iowa State @ UCF + Score Prediction remains first, Why is Iowa State different away from Jack Trice? remains second. New: CF recap of Friday's 48-17 loss at UCF (season-high turnovers), postgame and post-postgame shows, and Peterson on Aiden Flora's All-American statement even in the ugly loss; six former Cyclone women's basketball players call for an independent review of the program, plus Fennelly's Friday news conference; Iowa Everywhere Instant Iowa State on the UCF blowout, and Murph & Andy from the Orlando trip.",
-  "prior_daily_clones": [
-    {
-      "title": "Three Keys to Iowa State @ UCF + Score Prediction | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=_51e0jSJiok",
-      "published_display": "1 day ago"
-    },
-    {
-      "title": "Why is Iowa State different away from Jack Trice? DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=yhpi5i2c-RU",
-      "published_display": "2 days ago"
-    }
-  ],
   "prior_last_published": true,
-  "prior_updated_at": "2026-11-21T05:55:57-06:00",
+  "prior_updated_at": "2026-11-22T05:50:40-06:00",
   "prior_last_slot": "6am CT",
-  "prior_generated_at": "2026-11-21T05:55:00-06:00",
-  "prior_generated_at_display": "Sat Nov 21, 2026 · 5:55 AM CT",
-  "prior_published_at": "2026-11-21T05:55:57-06:00",
+  "prior_generated_at": "2026-11-22T05:49:31-06:00",
+  "prior_generated_at_display": "Sun Nov 22, 2026 · 5:49 AM CT",
+  "prior_published_at": "2026-11-22T05:50:40-06:00",
   "prior_slot": "6am CT",
   "last_actual_publish_at": "2026-11-22T05:50:40-06:00",
   "last_actual_publish_commit": "e6ad4c4"
