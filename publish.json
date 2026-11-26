@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-11-25T05:52:59-06:00",
+  "updated_at": "2026-11-26T05:51:15-06:00",
   "last_slot": "6am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-0-nI6GMNvPw, yt-6GQkksKQkug, yt-DJK6zhWlX3o, yt-Ej3gI0a8flE, yt-k0FV9MaaEhI, yt-sF24mLIOwQY, yt-uUIE2IcKbOg; new high-signal social in top8: cf-aiden-flora-named-doak-walker-award-fina, cf-isu-star-aiden-flora-says-it-s-special-t, cf-radio-recap-iowa-state-s-ball-pressure-s, cf-san-diego-state-recap-with-jake-brend, ie-previewing-the-top-25-iowa-vs-nebraska-s",
-  "change_summary": "Wednesday 6am CT refresh: New Daily Clone — Previewing Farmaggedon with Jeff Woody is first; San Diego State Preview FT. Jackson Pence moves to second. Men's basketball opened Players Era 16 with an 81-68 win over San Diego State in Las Vegas, led by Tre Singleton's 22 points, and will face No. 9 Tennessee on Thursday. CF has the postgame show, highlights, Otzelberger's press conference, Jake Brend's recap, and a radio recap of the ball-pressure win. On the football side, Aiden Flora was named a Doak Walker Award finalist and said it's special to be wanted as he reiterated he's staying a Cyclone, with pre-Kansas State interviews also up. Iowa Everywhere's Two Guys previews rivalry week and the Cyclones' bowl-eligibility game Saturday. CF's Reaction Time looks at what we learned from the Cy-Hawk wrestling dual.",
-  "generated_at": "2026-11-25T05:51:23-06:00",
-  "generated_at_display": "Wed Nov 25, 2026 · 5:51 AM CT",
+  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-23aZ5oklQcc, yt-SE4uM7vd0uY, yt-YJp9sWppteo, yt-cFLox0maPhw, yt-d5gK-VRSJL8, yt-sQTcRALqvvA; new high-signal social in top8: cf-gray-isu-s-senior-day-against-kansas-sta, cf-peterson-big-12-deserves-a-roughing-the, ie-two-guys-previewing-the-top-25-iowa-vs-n",
+  "change_summary": "Thursday 6am CT refresh: New Daily Clone — Previewing Tennessee in Vegas is first; Previewing Farmaggedon with Jeff Woody moves to second. New on the launchpad: Previewing Tennessee in Vegas | DAILY CLONE; Iowa State's Basketball Breakthrough, Aiden Flora Returns & Farmageddon Preview | Williams & Blum; Batemon plays winning basketball off the bench; Iowa State Suffocates San Diego State | Post Postgame; Feast Week, Farmageddon, & More | The Litecast; Another Singleton Statement; GRAY: ISU’s Senior Day against Kansas State could serve as a beginning as well as an end; PETERSON: Big 12 deserves a roughing-the-fans penalty for ending Farmageddon’s streak.",
+  "generated_at": "2026-11-26T05:51:14-06:00",
+  "generated_at_display": "Thu Nov 26, 2026 · 5:51 AM CT",
   "meaningful": true,
   "daily_clones": [
+    {
+      "title": "Previewing Tennessee in Vegas | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=d5gK-VRSJL8",
+      "published_display": "11 hours ago"
+    },
+    {
+      "title": "Previewing Farmaggedon with Jeff Woody | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=6GQkksKQkug",
+      "published_display": "1 day ago"
+    }
+  ],
+  "last_checked_at": "2026-11-26T05:51:15-06:00",
+  "last_checked_slot": "6am CT Thu Nov 26",
+  "last_check_meaningful": true,
+  "last_check_published": true,
+  "last_check_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-23aZ5oklQcc, yt-SE4uM7vd0uY, yt-YJp9sWppteo, yt-cFLox0maPhw, yt-d5gK-VRSJL8, yt-sQTcRALqvvA; new high-signal social in top8: cf-gray-isu-s-senior-day-against-kansas-sta, cf-peterson-big-12-deserves-a-roughing-the, ie-two-guys-previewing-the-top-25-iowa-vs-n",
+  "prior_meaningful": true,
+  "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-0-nI6GMNvPw, yt-6GQkksKQkug, yt-DJK6zhWlX3o, yt-Ej3gI0a8flE, yt-k0FV9MaaEhI, yt-sF24mLIOwQY, yt-uUIE2IcKbOg; new high-signal social in top8: cf-aiden-flora-named-doak-walker-award-fina, cf-isu-star-aiden-flora-says-it-s-special-t, cf-radio-recap-iowa-state-s-ball-pressure-s, cf-san-diego-state-recap-with-jake-brend, ie-previewing-the-top-25-iowa-vs-nebraska-s",
+  "prior_change_summary": "Wednesday 6am CT refresh: New Daily Clone — Previewing Farmaggedon with Jeff Woody is first; San Diego State Preview FT. Jackson Pence moves to second. Men's basketball opened Players Era 16 with an 81-68 win over San Diego State in Las Vegas, led by Tre Singleton's 22 points, and will face No. 9 Tennessee on Thursday. CF has the postgame show, highlights, Otzelberger's press conference, Jake Brend's recap, and a radio recap of the ball-pressure win. On the football side, Aiden Flora was named a Doak Walker Award finalist and said it's special to be wanted as he reiterated he's staying a Cyclone, with pre-Kansas State interviews also up. Iowa Everywhere's Two Guys previews rivalry week and the Cyclones' bowl-eligibility game Saturday. CF's Reaction Time looks at what we learned from the Cy-Hawk wrestling dual.",
+  "prior_daily_clones": [
     {
       "title": "Previewing Farmaggedon with Jeff Woody | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=6GQkksKQkug",
@@ -20,32 +40,12 @@
       "published_display": "1 day ago"
     }
   ],
-  "last_checked_at": "2026-11-25T05:52:45-06:00",
-  "last_checked_slot": "6am CT Wed Nov 25",
-  "last_check_meaningful": true,
-  "last_check_published": true,
-  "last_check_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-0-nI6GMNvPw, yt-6GQkksKQkug, yt-DJK6zhWlX3o, yt-Ej3gI0a8flE, yt-k0FV9MaaEhI, yt-sF24mLIOwQY, yt-uUIE2IcKbOg; new high-signal social in top8: cf-aiden-flora-named-doak-walker-award-fina, cf-isu-star-aiden-flora-says-it-s-special-t, cf-radio-recap-iowa-state-s-ball-pressure-s, cf-san-diego-state-recap-with-jake-brend, ie-previewing-the-top-25-iowa-vs-nebraska-s",
-  "prior_meaningful": true,
-  "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-Mx_cwCGn0jM, yt-tdja7eoYQig, yt-ywuptoqJB8I; new high-signal social in top8: cf-five-kansas-state-players-to-know-agains, cf-i-m-staying-home-aiden-flora-announces-r, cf-monday-musings-players-era-16-a-much-nee, cf-peterson-aiden-flora-staying-home-gives, cf-players-era-16-preview-breaking-down-the, cf-williams-flora-s-decision-gives-iowa-sta",
-  "prior_change_summary": "Tuesday 6am CT refresh: New Daily Clone — San Diego State Preview FT. Jackson Pence is first; Three Keys to Iowa State @ UCF + Score Prediction moves to second. Big news: Aiden Flora, the nation's leading rusher, announced he's staying home and will return to Iowa State in 2027, with CF's announcement video plus Peterson and Williams columns. Also new: The Beat Reporters on the UCF loss, Farmageddon, and Players Era; five Kansas State players to know ahead of Saturday's 1 p.m. bowl-eligibility game; and a Players Era 16 preview as men's basketball heads to Las Vegas.",
-  "prior_daily_clones": [
-    {
-      "title": "San Diego State Preview FT. Jackson Pence | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=tdja7eoYQig",
-      "published_display": "18 hours ago"
-    },
-    {
-      "title": "Three Keys to Iowa State @ UCF + Score Prediction | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=_51e0jSJiok",
-      "published_display": "4 days ago"
-    }
-  ],
   "prior_last_published": true,
-  "prior_updated_at": "2026-11-24T06:00:18-06:00",
+  "prior_updated_at": "2026-11-25T05:52:59-06:00",
   "prior_last_slot": "6am CT",
-  "prior_generated_at": "2026-11-24T05:59:17-06:00",
-  "prior_generated_at_display": "Tue Nov 24, 2026 · 5:59 AM CT",
-  "prior_published_at": "2026-11-24T06:00:18-06:00",
+  "prior_generated_at": "2026-11-25T05:51:23-06:00",
+  "prior_generated_at_display": "Wed Nov 25, 2026 · 5:51 AM CT",
+  "prior_published_at": "2026-11-25T05:52:59-06:00",
   "prior_slot": "6am CT",
   "last_actual_publish_at": "2026-11-25T05:52:59-06:00",
   "last_actual_publish_commit": "fcbdd50"
