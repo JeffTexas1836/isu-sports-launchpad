@@ -1,7 +1,7 @@
 {
   "title": "Iowa State Sports Launchpad",
-  "generated_at": "2026-11-26T05:51:14-06:00",
-  "generated_at_display": "Thu Nov 26, 2026 · 5:51 AM CT",
+  "generated_at": "2026-11-27T05:46:08-06:00",
+  "generated_at_display": "Fri Nov 27, 2026 · 5:46 AM CT",
   "timezone": "America/Chicago",
   "source_priority": [
     "1. Cyclone Fanatic (latest two Daily Clones always featured)",
@@ -11,31 +11,31 @@
   ],
   "daily_clone": {
     "found": true,
-    "title": "Previewing Tennessee in Vegas | DAILY CLONE",
-    "url": "https://www.youtube.com/watch?v=d5gK-VRSJL8",
+    "title": "Three Keys to Farmaggedon | DAILY CLONE",
+    "url": "https://www.youtube.com/watch?v=UONA6Cy2eAg",
     "channel": "Cyclone Fanatic",
-    "published": "2026-11-25T18:34:35-06:00",
-    "published_display": "11 hours ago",
-    "views": 841
+    "published": "2026-11-26T19:00:11-06:00",
+    "published_display": "10 hours ago",
+    "views": 428
   },
   "daily_clones": [
+    {
+      "found": true,
+      "title": "Three Keys to Farmaggedon | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=UONA6Cy2eAg",
+      "channel": "Cyclone Fanatic",
+      "published": "2026-11-26T19:00:11-06:00",
+      "published_display": "10 hours ago",
+      "views": 428
+    },
     {
       "found": true,
       "title": "Previewing Tennessee in Vegas | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=d5gK-VRSJL8",
       "channel": "Cyclone Fanatic",
       "published": "2026-11-25T18:34:35-06:00",
-      "published_display": "11 hours ago",
-      "views": 841
-    },
-    {
-      "found": true,
-      "title": "Previewing Farmaggedon with Jeff Woody | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=6GQkksKQkug",
-      "channel": "Cyclone Fanatic",
-      "published": "2026-11-25T05:51:14.973536-06:00",
       "published_display": "1 day ago",
-      "views": 2319
+      "views": 1662
     }
   ],
   "sources_note": {
@@ -70,95 +70,121 @@
   },
   "youtube": [
     {
-      "id": "yt-d5gK-VRSJL8",
-      "title": "Previewing Tennessee in Vegas | DAILY CLONE",
+      "id": "yt-UONA6Cy2eAg",
+      "title": "Three Keys to Farmaggedon | DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=d5gK-VRSJL8",
-      "published": "2026-11-25T18:34:35-06:00",
-      "published_display": "11 hours ago",
-      "views": 841,
+      "url": "https://www.youtube.com/watch?v=UONA6Cy2eAg",
+      "published": "2026-11-26T19:00:11-06:00",
+      "published_display": "10 hours ago",
+      "views": 428,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 100
     },
     {
-      "id": "yt-6GQkksKQkug",
-      "title": "Previewing Farmaggedon with Jeff Woody | DAILY CLONE",
+      "id": "yt-d5gK-VRSJL8",
+      "title": "Previewing Tennessee in Vegas | DAILY CLONE",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=6GQkksKQkug",
-      "published": "2026-11-25T05:51:14.973536-06:00",
+      "url": "https://www.youtube.com/watch?v=d5gK-VRSJL8",
+      "published": "2026-11-25T18:34:35-06:00",
       "published_display": "1 day ago",
-      "views": 2319,
+      "views": 1662,
       "sport": "football",
       "is_daily_clone": true,
       "source_priority": "cyclone_fanatic",
       "rank_score": 99
     },
     {
-      "id": "yt-YJp9sWppteo",
-      "title": "Iowa State's Basketball Breakthrough, Aiden Flora Returns & Farmageddon Preview | Williams & Blum",
+      "id": "yt-MwaN0sZv9Us",
+      "title": "T.J. Otzelberger Tennessee Postgame Press Conference",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=YJp9sWppteo",
-      "published": "2026-11-25T15:54:25-06:00",
-      "published_display": "13 hours ago",
-      "views": 2695,
-      "sport": "basketball",
+      "url": "https://www.youtube.com/watch?v=MwaN0sZv9Us",
+      "published": "2026-11-26T18:16:50-06:00",
+      "published_display": "11 hours ago",
+      "views": 1997,
+      "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 98
     },
     {
-      "id": "yt-SE4uM7vd0uY",
-      "title": "Batemon plays winning basketball off the bench",
+      "id": "yt-h3XtHY-b3u4",
+      "title": "CF POSTGAME: Iowa State falls to Tennessee in second round of the Players Era 16",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=SE4uM7vd0uY",
-      "published": "2026-11-25T12:34:44-06:00",
-      "published_display": "17 hours ago",
-      "views": 590,
-      "sport": "basketball",
+      "url": "https://www.youtube.com/watch?v=h3XtHY-b3u4",
+      "published": "2026-11-26T17:34:04-06:00",
+      "published_display": "12 hours ago",
+      "views": 1568,
+      "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 97
     },
     {
-      "id": "yt-23aZ5oklQcc",
-      "title": "Iowa State Suffocates San Diego State | Post Postgame",
+      "id": "yt--tXRWXrx7WA",
+      "title": "Tennessee Recap with Jake Brend",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=23aZ5oklQcc",
-      "published": "2026-11-25T08:28:43-06:00",
-      "published_display": "21 hours ago",
-      "views": 1525,
+      "url": "https://www.youtube.com/watch?v=-tXRWXrx7WA",
+      "published": "2026-11-26T18:48:19-06:00",
+      "published_display": "10 hours ago",
+      "views": 857,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 96
     },
     {
-      "id": "yt-cFLox0maPhw",
-      "title": "Feast Week, Farmageddon, & More | The Litecast",
+      "id": "yt-5sKlqdzPIcA",
+      "title": "Iowa State Struggles Shooting, Falls To Tennessee | Post PostGame",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=cFLox0maPhw",
-      "published": "2026-11-25T09:42:48-06:00",
-      "published_display": "20 hours ago",
-      "views": 651,
+      "url": "https://www.youtube.com/watch?v=5sKlqdzPIcA",
+      "published": "2026-11-26T17:09:13-06:00",
+      "published_display": "12 hours ago",
+      "views": 498,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 95
     },
     {
-      "id": "yt-sQTcRALqvvA",
-      "title": "Another Singleton Statement",
+      "id": "yt-kHM1h9ZhzwM",
+      "title": "HIGHLIGHTS: Iowa State gets shut down by Tennessee, 75-64.",
       "channel": "Cyclone Fanatic",
-      "url": "https://www.youtube.com/watch?v=sQTcRALqvvA",
-      "published": "2026-11-25T07:30:11-06:00",
-      "published_display": "22 hours ago",
-      "views": 1365,
+      "url": "https://www.youtube.com/watch?v=kHM1h9ZhzwM",
+      "published": "2026-11-26T17:35:21-06:00",
+      "published_display": "12 hours ago",
+      "views": 150,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "cyclone_fanatic",
       "rank_score": 94
+    },
+    {
+      "id": "yt-DEVvx_EISzg",
+      "title": "Iowa State vs. Kansas State Prediction: Can the Cyclones Finish 6-6? | Two Guys",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=DEVvx_EISzg",
+      "published": "2026-11-26T10:00:03-06:00",
+      "published_display": "19 hours ago",
+      "views": 811,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
+    },
+    {
+      "id": "yt-2bVLYvHZMqE",
+      "title": "Aiden Flora returning to Iowa State is HUGE for the Cyclones",
+      "channel": "Iowa Everywhere",
+      "url": "https://www.youtube.com/watch?v=2bVLYvHZMqE",
+      "published": "2026-11-26T08:23:20-06:00",
+      "published_display": "21 hours ago",
+      "views": 1250,
+      "sport": "football",
+      "is_daily_clone": false,
+      "source_priority": "iowa_everywhere",
+      "rank_score": 92
     },
     {
       "id": "yt-uUIE2IcKbOg",
@@ -166,12 +192,12 @@
       "channel": "Iowa Everywhere",
       "url": "https://www.youtube.com/watch?v=uUIE2IcKbOg",
       "published": "2026-11-25T16:07:07-06:00",
-      "published_display": "13 hours ago",
-      "views": 7090,
+      "published_display": "1 day ago",
+      "views": 9668,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 91
     },
     {
       "id": "yt-nKf_2l-u3LU",
@@ -179,25 +205,12 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=nKf_2l-u3LU",
       "published": "2026-11-25T09:07:34-06:00",
-      "published_display": "20 hours ago",
-      "views": 348,
+      "published_display": "1 day ago",
+      "views": 403,
       "sport": "basketball",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 92
-    },
-    {
-      "id": "yt-Khha9wNHPKw",
-      "title": "BIG 12 SQUAD - The Big 12 is THRIVING | How Iowa State did in Week 12",
-      "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=Khha9wNHPKw",
-      "published": "2026-11-25T16:00:05-06:00",
-      "published_display": "13 hours ago",
-      "views": 43,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "other",
-      "rank_score": 91
+      "rank_score": 90
     },
     {
       "id": "yt-Jt2nbcQFoBg",
@@ -205,24 +218,11 @@
       "channel": "Cyclones.tv",
       "url": "https://www.youtube.com/watch?v=Jt2nbcQFoBg",
       "published": "2026-11-22T17:44:00-06:00",
-      "published_display": "3 days ago",
-      "views": 4859,
+      "published_display": "4 days ago",
+      "views": 4944,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
-      "rank_score": 90
-    },
-    {
-      "id": "yt-UjYY8PXXVKY",
-      "title": "ALERT: Iowa State DOMINATES SDSU In Players Era Tournament, Cyclones Looking To Be A FORCE In Big 12",
-      "channel": "Locked On Cyclones",
-      "url": "https://www.youtube.com/watch?v=UjYY8PXXVKY",
-      "published": "2026-11-25T07:46:53-06:00",
-      "published_display": "22 hours ago",
-      "views": 251,
-      "sport": "football",
-      "is_daily_clone": false,
-      "source_priority": "other",
       "rank_score": 89
     },
     {
@@ -232,7 +232,7 @@
       "url": "https://www.youtube.com/watch?v=2e7wpdi90X0",
       "published": "2026-11-15T10:28:50-06:00",
       "published_display": "Nov 15, 2026",
-      "views": 1306,
+      "views": 1310,
       "sport": "football",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -245,7 +245,7 @@
       "url": "https://www.youtube.com/watch?v=Z83juJ0ke2o",
       "published": "2026-11-10T21:39:54-06:00",
       "published_display": "Nov 10, 2026",
-      "views": 457,
+      "views": 459,
       "sport": "basketball",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -258,7 +258,7 @@
       "url": "https://www.youtube.com/watch?v=h7x58pXkADg",
       "published": "2026-11-09T10:17:49-06:00",
       "published_display": "Nov 9, 2026",
-      "views": 354,
+      "views": 356,
       "sport": "basketball",
       "is_daily_clone": false,
       "source_priority": "official",
@@ -266,6 +266,40 @@
     }
   ],
   "social": [
+    {
+      "id": "cf-tennessee-recap-with-jake-brend",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "Tennessee Recap with Jake Brend",
+      "url": "https://cyclonefanatic.com/2026/11/tennessee-recap-with-jake-brend-2/",
+      "published": "2026-11-26T18:55:45-06:00",
+      "published_display": "Nov 26, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 100
+    },
+    {
+      "id": "cf-big-12-buzz-rivalry-week-preview",
+      "type": "news",
+      "author": "Cyclone Fanatic",
+      "author_name": "Cyclone Fanatic",
+      "text": "Big 12 Buzz: Rivalry Week Preview",
+      "url": "https://cyclonefanatic.com/2026/11/big-12-buzz-rivalry-week-preview/",
+      "published": "2026-11-26T11:57:35-06:00",
+      "published_display": "Nov 26, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "CF headline",
+      "source_priority": "cyclone_fanatic",
+      "rank_score": 99
+    },
     {
       "id": "cf-gray-isu-s-senior-day-against-kansas-sta",
       "type": "news",
@@ -281,7 +315,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 100
+      "rank_score": 98
     },
     {
       "id": "cf-peterson-big-12-deserves-a-roughing-the",
@@ -298,7 +332,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 99
+      "rank_score": 97
     },
     {
       "id": "cf-san-diego-state-recap-with-jake-brend",
@@ -315,7 +349,7 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 98
+      "rank_score": 96
     },
     {
       "id": "cf-radio-recap-iowa-state-s-ball-pressure-s",
@@ -332,41 +366,41 @@
       "views": null,
       "topic": "CF headline",
       "source_priority": "cyclone_fanatic",
-      "rank_score": 97
-    },
-    {
-      "id": "cf-isu-star-aiden-flora-says-it-s-special-t",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "ISU star Aiden Flora says “it’s special to be wanted” as he reiterates his commitment to remain a Cyclone",
-      "url": "https://cyclonefanatic.com/2026/11/isu-star-aiden-flora-says-its-special-to-be-wanted-as-he-reiterates-his-commitment-to-remain-a-cyclone/",
-      "published": "2026-11-24T15:01:16-06:00",
-      "published_display": "Nov 24, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
-      "rank_score": 96
-    },
-    {
-      "id": "cf-aiden-flora-named-doak-walker-award-fina",
-      "type": "news",
-      "author": "Cyclone Fanatic",
-      "author_name": "Cyclone Fanatic",
-      "text": "Aiden Flora named Doak Walker Award Finalist",
-      "url": "https://cyclonefanatic.com/2026/11/aiden-flora-named-doak-walker-award-finalist/",
-      "published": "2026-11-24T12:38:27-06:00",
-      "published_display": "Nov 24, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "CF headline",
-      "source_priority": "cyclone_fanatic",
       "rank_score": 95
+    },
+    {
+      "id": "ie-iowa-state-vs-kansas-state-prediction-ca",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Iowa State vs. Kansas State Prediction: Can the Cyclones Finish 6-6? | Two Guys (YouTube)",
+      "url": "https://www.youtube.com/watch?v=DEVvx_EISzg",
+      "published": "2026-11-26T10:00:03-06:00",
+      "published_display": "Nov 26, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 94
+    },
+    {
+      "id": "ie-aiden-flora-returning-to-iowa-state-is-h",
+      "type": "news",
+      "author": "Iowa Everywhere",
+      "author_name": "Iowa Everywhere",
+      "text": "Aiden Flora returning to Iowa State is HUGE for the Cyclones (YouTube)",
+      "url": "https://www.youtube.com/watch?v=2bVLYvHZMqE",
+      "published": "2026-11-26T08:23:20-06:00",
+      "published_display": "Nov 26, 2026",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "topic": "Iowa Everywhere",
+      "source_priority": "iowa_everywhere",
+      "rank_score": 93
     },
     {
       "id": "ie-previewing-the-top-25-iowa-vs-nebraska-s",
@@ -383,14 +417,14 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 94
+      "rank_score": 92
     },
     {
       "id": "ie-two-guys-previewing-the-top-25-iowa-vs-n",
       "type": "news",
       "author": "Iowa Everywhere",
       "author_name": "Iowa Everywhere",
-      "text": "Two Guys / Previewing the Top 25 Iowa vs. Nebraska showdown, Cyclones playing for bowl eligibility 15 hours ago",
+      "text": "Two Guys / Previewing the Top 25 Iowa vs. Nebraska showdown, Cyclones playing for bowl eligibility 1 day ago",
       "url": "https://www.iowaeverywhere.com/episodes/previewing-the-top-25-iowa-vs-nebraska-showdown-cyclones-playing-for-bowl-eligibility",
       "published": null,
       "published_display": "",
@@ -400,7 +434,7 @@
       "views": null,
       "topic": "Iowa Everywhere",
       "source_priority": "iowa_everywhere",
-      "rank_score": 93
+      "rank_score": 91
     },
     {
       "id": "x-2098256013858165182",
@@ -417,7 +451,7 @@
       "views": 123138,
       "topic": "Cyclones in the NFL — Brock Purdy",
       "source_priority": "other",
-      "rank_score": 92
+      "rank_score": 90
     },
     {
       "id": "x-2099592706225832265",
@@ -434,7 +468,7 @@
       "views": 63891,
       "topic": "Cyclones in the NFL",
       "source_priority": "other",
-      "rank_score": 91
+      "rank_score": 89
     },
     {
       "id": "x-2096309361005969853",
@@ -451,7 +485,7 @@
       "views": 899321,
       "topic": "Official — SEMO highlight",
       "source_priority": "other",
-      "rank_score": 90
+      "rank_score": 88
     },
     {
       "id": "news-2026-9-16-football-cyclones-in-the-nfl-2",
@@ -468,7 +502,7 @@
       "views": null,
       "topic": "Official news",
       "source_priority": "official",
-      "rank_score": 89
+      "rank_score": 87
     },
     {
       "id": "news-2026-9-15-football-primer-iowa-state-vs",
@@ -484,40 +518,6 @@
       "replies": null,
       "views": null,
       "topic": "Gameday primer",
-      "source_priority": "official",
-      "rank_score": 88
-    },
-    {
-      "id": "x-2099262200737128671",
-      "type": "x",
-      "author": "@CycloneFB",
-      "author_name": "Iowa State Football",
-      "text": "More to come.",
-      "url": "https://x.com/CycloneFB/status/2099262200737128671",
-      "published": "2026-09-13T17:21:25-05:00",
-      "published_display": "Sep 13, 2026",
-      "likes": 1285,
-      "retweets": 71,
-      "replies": 21,
-      "views": 38360,
-      "topic": "Official social",
-      "source_priority": "other",
-      "rank_score": 87
-    },
-    {
-      "id": "news-2026-9-14-football-iowa-state-utah-to-ki",
-      "type": "news",
-      "author": "Iowa State Athletics",
-      "author_name": "Iowa State Athletics",
-      "text": "Iowa State–Utah to kick off at 2:30 p.m. on Fox — first Big 12 home game Sept. 26.",
-      "url": "https://cyclones.com/news/2026/9/14/football-iowa-state-utah-to-kick-off-at-2-30-pm",
-      "published": "2026-09-14T12:00:00-05:00",
-      "published_display": "Sep 14, 2026",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "topic": "Schedule",
       "source_priority": "official",
       "rank_score": 86
     }
