@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-11-27T05:46:12-06:00",
+  "updated_at": "2026-11-28T05:47:09-06:00",
   "last_slot": "6am CT",
   "last_published": true,
   "pages_url": "https://jefftexas1836.github.io/isu-sports-launchpad/",
-  "reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--tXRWXrx7WA, yt-5sKlqdzPIcA, yt-DEVvx_EISzg, yt-MwaN0sZv9Us, yt-UONA6Cy2eAg, yt-h3XtHY-b3u4, yt-kHM1h9ZhzwM; new high-signal social in top8: cf-big-12-buzz-rivalry-week-preview, cf-tennessee-recap-with-jake-brend, ie-aiden-flora-returning-to-iowa-state-is-h, ie-iowa-state-vs-kansas-state-prediction-ca",
-  "change_summary": "Friday 6am CT refresh: New Daily Clone — Three Keys to Farmaggedon is first; Previewing Tennessee in Vegas moves to second. New on the launchpad: Three Keys to Farmaggedon | DAILY CLONE; T.J. Otzelberger Tennessee Postgame Press Conference; CF POSTGAME: Iowa State falls to Tennessee in second round of the Players Era 16; Tennessee Recap with Jake Brend; Iowa State Struggles Shooting, Falls To Tennessee | Post PostGame; HIGHLIGHTS: Iowa State gets shut down by Tennessee, 75-64.; Tennessee Recap with Jake Brend; Big 12 Buzz: Rivalry Week Preview.",
-  "generated_at": "2026-11-27T05:46:08-06:00",
-  "generated_at_display": "Fri Nov 27, 2026 · 5:46 AM CT",
+  "reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--Tz93Fi4v_I, yt-2vUvC0531Fw, yt-BtedeN1BJvE, yt-I-qjEwB2AQQ, yt-Tg3IsfjTn9c; new high-signal social in top8: cf-radio-recap-no-13-st-john-s-scores-34-po, cf-release-iowa-state-women-drain-16-3-poin, cf-t-j-otzelberger-st-john-s-postgame-press",
+  "change_summary": "Saturday 6am CT refresh: Daily Clone pair unchanged — Three Keys to Farmaggedon remains first, Previewing Tennessee in Vegas remains second. New on the launchpad: The Breakfast Club Talks Iowa State | The Night Cap; T.J. Otzelberger St. John's Postgame Press Conference; Week 13 Picks & Preview | Picks After Dark; St. John's Recap with Jake Brend; CF POSTGAME: Iowa State falls to St. John's; DYNASTY: Iowa State Set To CRUSH Kansas State In Final Farmageddon, Earning Bowl Eligibility; RELEASE: Iowa State women drain 16 3-pointers, rout Belmont in the Bahamas; T.J. Otzelberger St. John’s Postgame Press Conference.",
+  "generated_at": "2026-11-28T05:47:09-06:00",
+  "generated_at_display": "Sat Nov 28, 2026 · 5:47 AM CT",
   "meaningful": true,
   "daily_clones": [
+    {
+      "title": "Three Keys to Farmaggedon | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=UONA6Cy2eAg",
+      "published_display": "1 day ago"
+    },
+    {
+      "title": "Previewing Tennessee in Vegas | DAILY CLONE",
+      "url": "https://www.youtube.com/watch?v=d5gK-VRSJL8",
+      "published_display": "2 days ago"
+    }
+  ],
+  "last_checked_at": "2026-11-28T05:47:09-06:00",
+  "last_checked_slot": "6am CT Sat Nov 28",
+  "last_check_meaningful": true,
+  "last_check_published": true,
+  "last_check_reason": "YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--Tz93Fi4v_I, yt-2vUvC0531Fw, yt-BtedeN1BJvE, yt-I-qjEwB2AQQ, yt-Tg3IsfjTn9c; new high-signal social in top8: cf-radio-recap-no-13-st-john-s-scores-34-po, cf-release-iowa-state-women-drain-16-3-poin, cf-t-j-otzelberger-st-john-s-postgame-press",
+  "prior_meaningful": true,
+  "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--tXRWXrx7WA, yt-5sKlqdzPIcA, yt-DEVvx_EISzg, yt-MwaN0sZv9Us, yt-UONA6Cy2eAg, yt-h3XtHY-b3u4, yt-kHM1h9ZhzwM; new high-signal social in top8: cf-big-12-buzz-rivalry-week-preview, cf-tennessee-recap-with-jake-brend, ie-aiden-flora-returning-to-iowa-state-is-h, ie-iowa-state-vs-kansas-state-prediction-ca",
+  "prior_change_summary": "Friday 6am CT refresh: New Daily Clone — Three Keys to Farmaggedon is first; Previewing Tennessee in Vegas moves to second. New on the launchpad: Three Keys to Farmaggedon | DAILY CLONE; T.J. Otzelberger Tennessee Postgame Press Conference; CF POSTGAME: Iowa State falls to Tennessee in second round of the Players Era 16; Tennessee Recap with Jake Brend; Iowa State Struggles Shooting, Falls To Tennessee | Post PostGame; HIGHLIGHTS: Iowa State gets shut down by Tennessee, 75-64.; Tennessee Recap with Jake Brend; Big 12 Buzz: Rivalry Week Preview.",
+  "prior_daily_clones": [
     {
       "title": "Three Keys to Farmaggedon | DAILY CLONE",
       "url": "https://www.youtube.com/watch?v=UONA6Cy2eAg",
@@ -20,32 +40,12 @@
       "published_display": "1 day ago"
     }
   ],
-  "last_checked_at": "2026-11-27T05:46:09-06:00",
-  "last_checked_slot": "6am CT Fri Nov 27",
-  "last_check_meaningful": true,
-  "last_check_published": true,
-  "last_check_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt--tXRWXrx7WA, yt-5sKlqdzPIcA, yt-DEVvx_EISzg, yt-MwaN0sZv9Us, yt-UONA6Cy2eAg, yt-h3XtHY-b3u4, yt-kHM1h9ZhzwM; new high-signal social in top8: cf-big-12-buzz-rivalry-week-preview, cf-tennessee-recap-with-jake-brend, ie-aiden-flora-returning-to-iowa-state-is-h, ie-iowa-state-vs-kansas-state-prediction-ca",
-  "prior_meaningful": true,
-  "prior_reason": "Daily Clone URL changed; YouTube top5 membership changed; Social top5 membership changed; new high-signal YT in top8: yt-23aZ5oklQcc, yt-SE4uM7vd0uY, yt-YJp9sWppteo, yt-cFLox0maPhw, yt-d5gK-VRSJL8, yt-sQTcRALqvvA; new high-signal social in top8: cf-gray-isu-s-senior-day-against-kansas-sta, cf-peterson-big-12-deserves-a-roughing-the, ie-two-guys-previewing-the-top-25-iowa-vs-n",
-  "prior_change_summary": "Thursday 6am CT refresh: New Daily Clone — Previewing Tennessee in Vegas is first; Previewing Farmaggedon with Jeff Woody moves to second. New on the launchpad: Previewing Tennessee in Vegas | DAILY CLONE; Iowa State's Basketball Breakthrough, Aiden Flora Returns & Farmageddon Preview | Williams & Blum; Batemon plays winning basketball off the bench; Iowa State Suffocates San Diego State | Post Postgame; Feast Week, Farmageddon, & More | The Litecast; Another Singleton Statement; GRAY: ISU’s Senior Day against Kansas State could serve as a beginning as well as an end; PETERSON: Big 12 deserves a roughing-the-fans penalty for ending Farmageddon’s streak.",
-  "prior_daily_clones": [
-    {
-      "title": "Previewing Tennessee in Vegas | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=d5gK-VRSJL8",
-      "published_display": "11 hours ago"
-    },
-    {
-      "title": "Previewing Farmaggedon with Jeff Woody | DAILY CLONE",
-      "url": "https://www.youtube.com/watch?v=6GQkksKQkug",
-      "published_display": "1 day ago"
-    }
-  ],
   "prior_last_published": true,
-  "prior_updated_at": "2026-11-26T05:51:19-06:00",
+  "prior_updated_at": "2026-11-27T05:46:12-06:00",
   "prior_last_slot": "6am CT",
-  "prior_generated_at": "2026-11-26T05:51:14-06:00",
-  "prior_generated_at_display": "Thu Nov 26, 2026 · 5:51 AM CT",
-  "prior_published_at": "2026-11-26T05:51:19-06:00",
+  "prior_generated_at": "2026-11-27T05:46:08-06:00",
+  "prior_generated_at_display": "Fri Nov 27, 2026 · 5:46 AM CT",
+  "prior_published_at": "2026-11-27T05:46:12-06:00",
   "prior_slot": "6am CT",
   "last_actual_publish_at": "2026-11-27T05:46:12-06:00",
   "last_actual_publish_commit": "91105a2"
